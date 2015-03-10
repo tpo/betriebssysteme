@@ -4,6 +4,8 @@
 # - https://en.wikipedia.org/wiki/XPath
 # - http://xmlstar.sourceforge.net/doc/xmlstarlet.txt
 
+set -e # exit on error
+
 if [ "$1" = "--debug" ]; then
   DEBUG=1
   shift
@@ -46,15 +48,31 @@ rm "$doc.zip"
 # [   - when that descendant
 # text()='Betriebssysteme' - when the text of the element is 'Betriebssysteme'
 #
-xmlstarlet ed $DO_NOT_INSERT_SPACE -d "/*//draw:frame[.//*[text()='Betriebssysteme']]"   content.xml |\
-xmlstarlet ed $DO_NOT_INSERT_SPACE -d "/*//draw:frame[.//*[text()='Seite ']]"          > content_edited.xml
+cat content.xml                                                    | \
+xmlstarlet ed $DO_NOT_INSERT_SPACE                                   \
+	      -d "/*//draw:frame[.//*[text()='Betriebssysteme']]"  | \
+xmlstarlet ed $DO_NOT_INSERT_SPACE                                   \
+              -d "/*//draw:frame[.//*[text()='Seite ']]"             \
+> content_edited.xml
+#
+# <dc:title>Wirtschaftsinformatik</dc:title>
+# -u - update
+# -v - value
+#
+cat meta.xml                                                      | \
+xmlstarlet ed $DO_NOT_INSERT_SPACE                                  \
+	      -u "/*//dc:title[text()='Wirtschaftsinformatik']"     \
+	      -v "MAS: Betriebssysteme"                             \
+> meta_edited.xml
 
 # preserve copy with spaces for debugging
 if [ "$DEBUG" ]; then
   xmlstarlet ed content.xml > content_orig.xml
+  xmlstarlet ed meta.xml    > meta_orig.xml
 fi
 
 mv content_edited.xml content.xml
+mv meta_edited.xml meta.xml
 
 zip -r "$origdir/new_$doc" * > /dev/null
 
