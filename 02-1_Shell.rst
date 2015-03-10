@@ -118,6 +118,7 @@ Paketverwaltung
 * dpkg -L
 * apt-get install
 * apt-get remove
+* aptitude
 * yum/rpm
 
 Tab Completion
