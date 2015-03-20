@@ -38,8 +38,8 @@ Configuration
 Test
 ----
 
-    make sure, that host_1 and host_2 are in /etc/hosts or in
-    ~/.ssh/config
+    make sure, that host_1 and host_2 are in /etc/hosts
+    or in ~/.ssh/config
 
     ssh-add
     ansible host_1 -m ping
