@@ -3,8 +3,5 @@
   remote_user: root
 
   tasks:
-  - name: debug
-    debug: "msg=ansible_hostname: {{ ansible_hostname }} ansible_host: {{ ansible_host }} hostname: {{ hostname }}"
-
-  - name: clean up host {{ ansible_hostname }} setup
-    file: path=/tmp/{{ ansible_hostname }} state=absent
+  - name: clean up host {{ host_name }} setup
+    file: path=/tmp/{{ host_name }} state=absent
