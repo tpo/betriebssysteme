@@ -1,0 +1,4 @@
+---
+# playbook that defines the entire (ansible-controlled) infrastructure
+- include: hosts/host_1/setup.yml
+- include: hosts/host_2/setup.yml

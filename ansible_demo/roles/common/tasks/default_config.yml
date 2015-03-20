@@ -1,0 +1,7 @@
+# requires 'host_name' to be set
+#
+- name: create config directory
+  file: path=/tmp/{{ host_name }} state=directory
+
+- name: create config file
+  copy: src=files/default_config dest=/tmp/{{ host_name }}/config

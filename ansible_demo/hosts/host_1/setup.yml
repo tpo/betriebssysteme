@@ -1,0 +1,17 @@
+---
+# This is a template for a new host-name
+- hosts: host_1
+  # Some docu about this host
+  #
+  # Debian jessie
+  remote_user: root
+  vars:
+    mail_relay: smtp.example.org
+  roles:
+    - common
+
+  tasks:
+
+    # host_name is defined in host_vars/*
+    - name: install special 
+      copy: src=files/special_config dest=/tmp/{{ host_name }}/special_config

@@ -1,0 +1,8 @@
+# inventory file for production
+#
+# http://docs.ansible.com/intro_inventory.html
+# http://docs.ansible.com/intro_patterns.html
+
+[demo]
+host_1
+host_2

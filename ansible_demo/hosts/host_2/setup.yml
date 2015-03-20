@@ -1,0 +1,11 @@
+---
+# This is a template for a new host-name
+- hosts: host_2
+  # Some docu about this host
+  #
+  # Debian jessie
+  remote_user: root
+  vars:
+    mail_relay: smtp.example.org
+  roles:
+    - common

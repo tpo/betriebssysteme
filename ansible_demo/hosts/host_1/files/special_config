@@ -1,0 +1,3 @@
+# this is some config that is only required on host_1
+
+set default_route foobar.explosion.example.org
