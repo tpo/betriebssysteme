@@ -13,6 +13,8 @@ Demo
 * puppet
 * chief
 * cdist
+* System Center
+* DISM
 * usw.
 
 Ziele bzw. Vorzüge
