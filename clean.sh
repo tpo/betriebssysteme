@@ -48,11 +48,23 @@ rm "$doc.zip"
 # [   - when that descendant
 # text()='Betriebssysteme' - when the text of the element is 'Betriebssysteme'
 #
+# Remove random page transitions, they are annoying:
+#   Remove from elements <style:drawing-page-properties...> the attribute "smil:type="random":
+#     -d "//style:drawing-page-properties/@smil:type"
+#
+# Remove all transition animation definitions, they are annoying:
+#   Remove all elements <anim:par ...>
+#     -d "//anim-par"
+#
 cat content.xml                                                    | \
 xmlstarlet ed $DO_NOT_INSERT_SPACE                                   \
 	      -d "/*//draw:frame[.//*[text()='Betriebssysteme']]"  | \
 xmlstarlet ed $DO_NOT_INSERT_SPACE                                   \
-              -d "/*//draw:frame[.//*[text()='Seite ']]"             \
+              -d "/*//draw:frame[.//*[text()='Seite ']]"           | \
+xmlstarlet ed $DO_NOT_INSERT_SPACE                                   \
+              -d "//style:drawing-page-properties/@smil:type"      | \
+xmlstarlet ed $DO_NOT_INSERT_SPACE                                   \
+              -d "//anim:par"        \
 > content_edited.xml
 #
 # <dc:title>Wirtschaftsinformatik</dc:title>
