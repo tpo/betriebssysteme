@@ -75,7 +75,7 @@ Weitere Features
 Modi
 ----
 * --check
-* --check -diff
+* --check --diff
 * ad hoc Tasks
   * ansible-playbook clean_up.yml
 
