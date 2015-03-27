@@ -1,10 +1,22 @@
 #!/bin/sh
 #
-# * clean up Mandl's lecture script
-#
 # Docu:
 # - https://en.wikipedia.org/wiki/XPath
 # - http://xmlstar.sourceforge.net/doc/xmlstarlet.txt
+
+help() {
+   echo 'usage: clean.sh Script.odp'
+   echo '       clean.sh --help'
+   echo
+   echo "  clean up Mandl's original lecture presentation:"
+   echo "  * remove duplicate footer elements"
+   echo "  * remove page transition animations"
+   echo "  * remove references to 'Wirtschaftsinformatik'"
+   echo
+   exit 1
+}
+
+[ "$1" == "--help" ] && help
 
 set -e # exit on error
 
@@ -17,7 +29,7 @@ fi
 
 doc="$1"
 
-[ -z   "$doc" ] && echo "ERROR: You need to give the name of a document as the first parameter. Exiting" && exit 1
+[ -z   "$doc" ] && help
 [ ! -e "$doc" ] && echo "ERROR: didn't find a document named '$doc'. Exiting" && exit 1
 
 origdir=`pwd`
