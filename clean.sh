@@ -1,5 +1,7 @@
 #!/bin/sh
 #
+# * clean up Mandl's lecture script
+#
 # Docu:
 # - https://en.wikipedia.org/wiki/XPath
 # - http://xmlstar.sourceforge.net/doc/xmlstarlet.txt
