@@ -20,14 +20,14 @@ endobj
 << /Outlines 10 0 R /PageLabels 11 0 R /PageMode /UseNone /Pages 8 0 R /Type /Catalog >>
 endobj
 7 0 obj
-<< /Author () /CreationDate (D:20150405203513-01'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+<< /Author () /CreationDate (D:20150405203903-01'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
   /Title (Kernel anpassen) >>
 endobj
 8 0 obj
 << /Count 1 /Kids [ 5 0 R ] /Type /Pages >>
 endobj
 9 0 obj
-<< /Length 6948 >>
+<< /Length 9120 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -536,7 +536,163 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 389.0236 cm
+1 0 0 1 62.69291 383.0236 cm
+Q
+q
+1 0 0 1 62.69291 335.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (neuen Kernel in VM kopieren) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 27 cm
+Q
+q
+1 0 0 1 23 27 cm
+Q
+q
+1 0 0 1 23 15 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Parameter des folgenden Kommandos m\374ssen an lokale Gegebenheiten angepasst werden:) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (scp -P 1234567 linux-image-3.19.3_3.19.3-1_amd64.deb localhost:/tmp) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 329.0236 cm
+Q
+q
+1 0 0 1 62.69291 299.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (neuen Kernel in VM installieren) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (ssh 1234567:localhost "dpkg -i /tmp/linux-image-3.19.3_3.19.3-1_amd64.deb") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 293.0236 cm
+Q
+q
+1 0 0 1 62.69291 281.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (VM neustarten) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 281.0236 cm
 Q
  
 endstream
@@ -562,14 +718,14 @@ xref
 0000000895 00000 n
 0000001120 00000 n
 0000001182 00000 n
-0000008186 00000 n
-0000008236 00000 n
-0000008280 00000 n
+0000010358 00000 n
+0000010408 00000 n
+0000010452 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(H\333g\372\353\365\372\035?\031p_~\031v!) (H\333g\372\353\365\372\035?\031p_~\031v!)]
+ [(^\342\315\345\305,\001\255\007/\3551\320\250\216\031) (^\342\315\345\305,\001\255\007/\3551\320\250\216\031)]
  /Info 7 0 R /Root 6 0 R /Size 13 >>
 startxref
-8317
+10489
 %%EOF
