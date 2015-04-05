@@ -38,10 +38,10 @@ Kernel anpassen
   * Parameter des folgenden Kommandos müssen an lokale Gegebenheiten
     angepasst werden:
 
-  * scp -P 1234567 linux-image-3.19.3_3.19.3-1_amd64.deb localhost:/tmp
+  * scp -P 1234567 ../linux-image-3.19.3_3.19.3-1_amd64.deb localhost:/tmp
 
 * neuen Kernel in VM installieren
 
-  * ssh 1234567:localhost "dpkg -i /tmp/linux-image-3.19.3_3.19.3-1_amd64.deb"
+  * ssh -p 1234567 root@localhost "dpkg -i /tmp/linux-image-3.19.3_3.19.3-1_amd64.deb"
 
 * VM neustarten
