@@ -13,7 +13,7 @@ Kernel anpassen
 
   * tar xJvf linux-3.19.3.tar.xz
 
-* ins kernel sourec Verzeichnis wechseln
+* ins kernel source Verzeichnis wechseln
 
   * cd linux-3.19.3
 
