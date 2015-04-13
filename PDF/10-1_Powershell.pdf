@@ -1,0 +1,358 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R /F3 5 0 R /F4 6 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /A << /S /URI /Type /Action /URI (http://www.powershellpro.com/powershell-tutorial-introduction/) >> /Border [ 0 0 0 ] /Rect [ 257.5027 714.7736 529.2827 726.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+5 0 obj
+<< /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+endobj
+6 0 obj
+<< /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
+endobj
+7 0 obj
+<< /Annots [ 4 0 R ] /Contents 17 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 16 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+8 0 obj
+<< /Outlines 10 0 R /PageLabels 18 0 R /PageMode /UseNone /Pages 16 0 R /Type /Catalog >>
+endobj
+9 0 obj
+<< /Author () /CreationDate (D:20150413095559-01'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title () >>
+endobj
+10 0 obj
+<< /Count 5 /First 11 0 R /Last 15 0 R /Type /Outlines >>
+endobj
+11 0 obj
+<< /Dest [ 7 0 R /XYZ 62.69291 753.0236 0 ] /Next 12 0 R /Parent 10 0 R /Title (Powershell) >>
+endobj
+12 0 obj
+<< /Dest [ 7 0 R /XYZ 62.69291 584.8236 0 ] /Next 13 0 R /Parent 10 0 R /Prev 11 0 R /Title (Docu) >>
+endobj
+13 0 obj
+<< /Dest [ 7 0 R /XYZ 62.69291 458.6236 0 ] /Next 14 0 R /Parent 10 0 R /Prev 12 0 R /Title (Pipes) >>
+endobj
+14 0 obj
+<< /Dest [ 7 0 R /XYZ 62.69291 395.6236 0 ] /Next 15 0 R /Parent 10 0 R /Prev 13 0 R /Title (History) >>
+endobj
+15 0 obj
+<< /Dest [ 7 0 R /XYZ 62.69291 338.6236 0 ] /Parent 10 0 R /Prev 14 0 R /Title (Dienste) >>
+endobj
+16 0 obj
+<< /Count 1 /Kids [ 7 0 R ] /Type /Pages >>
+endobj
+17 0 obj
+<< /Length 4748 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 732.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Powershell) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 702.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 3.299941 Tw 12 TL /F1 10 Tf 0 0 0 rg (Basierend auf dem "Powershell Tutorial":) Tj 0 0 .501961 rg (http://www.powershellpro.com/powershell-tutorial-introduction/) Tj T* 0 Tw 0 0 0 rg (von Jesse Hamrick.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 696.0236 cm
+Q
+q
+1 0 0 1 62.69291 696.0236 cm
+Q
+q
+1 0 0 1 62.69291 684.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (output sind Objekte und nicht Text \(im Gegensatz zu Unix Shells!\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 678.0236 cm
+Q
+q
+1 0 0 1 62.69291 666.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (commandos sind ) Tj /F3 10 Tf 0 0 0 rg (CmdLets) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 666.0236 cm
+Q
+q
+1 0 0 1 62.69291 596.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 60 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F4 10 Tf 12 TL (get-command) Tj T* (get-command -Verb Get # alle Kommandos mit "Get" Verb anzeigen) Tj T* (                      # andere z.B. Add, Clear, New, and Set) Tj T* (get-command -Type CmdLet \246 sort-object noun \246 format-table -group noun) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 563.8236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Docu) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 470.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 84 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F4 10 Tf 12 TL (get-help  Kommando     # oder) Tj T* (man       Kommando) Tj T* (man -full Kommando) Tj T* (man -full Kommando \246 format-list  # zeigt Infos in Listen Form an) Tj T* (man -full Kommando \246 format-list \246 more) Tj T* (help about_* \246 more) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 437.6236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Pipes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 407.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .177485 Tw (Auf der Tastatur gibt's zwei 'Pipe' Zeichen, die gleich aussehen \(k\366nnen\). Eines davon ist falsch. Eines ist) Tj T* 0 Tw (richtig. Hinweis: es ist nicht dasjenige, das man im Unix verwendet...) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 374.6236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (History) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 362.6236 cm
+Q
+q
+1 0 0 1 62.69291 362.6236 cm
+Q
+q
+1 0 0 1 62.69291 350.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Kommandozeilen Log: \(Fn-\)F7) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 350.6236 cm
+Q
+q
+1 0 0 1 62.69291 317.6236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Dienste) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 305.6236 cm
+Q
+q
+1 0 0 1 62.69291 305.6236 cm
+Q
+q
+1 0 0 1 62.69291 293.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Get-Command -Noun Service) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 287.6236 cm
+Q
+q
+1 0 0 1 62.69291 275.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Get-Service) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 269.6236 cm
+Q
+q
+1 0 0 1 62.69291 257.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Start-Service ...) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 257.6236 cm
+Q
+q
+1 0 0 1 62.69291 257.6236 cm
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 161.1949 0 Td (T.Posp\355\232ek, MAS: Betriebssysteme,) Tj T* -161.1949 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 233.9949 0 Td (1/1) Tj T* -233.9949 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+18 0 obj
+<< /Nums [ 0 19 0 R ] >>
+endobj
+19 0 obj
+<< /S /D /St 1 >>
+endobj
+xref
+0 20
+0000000000 65535 f
+0000000075 00000 n
+0000000139 00000 n
+0000000249 00000 n
+0000000364 00000 n
+0000000581 00000 n
+0000000699 00000 n
+0000000807 00000 n
+0000001034 00000 n
+0000001142 00000 n
+0000001352 00000 n
+0000001429 00000 n
+0000001543 00000 n
+0000001664 00000 n
+0000001786 00000 n
+0000001910 00000 n
+0000002021 00000 n
+0000002084 00000 n
+0000006889 00000 n
+0000006933 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(\011\241\302\273r\331\237\243\317\202\250\271\241a\272\273) (\011\241\302\273r\331\237\243\317\202\250\271\241a\272\273)]
+ /Info 9 0 R /Root 8 0 R /Size 20 >>
+startxref
+6970
+%%EOF
