@@ -1,2 +1,4 @@
 ansible_demo/ansible.cfg.tpo
 ansible_demo/ansible.cfg
+.~lock*
+.lock
