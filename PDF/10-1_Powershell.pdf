@@ -1,7 +1,7 @@
 %PDF-1.4
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
 1 0 obj
-<< /F1 2 0 R /F2 3 0 R /F3 5 0 R /F4 6 0 R >>
+<< /F1 2 0 R /F2 3 0 R /F3 5 0 R /F4 6 0 R /F5 8 0 R >>
 endobj
 2 0 obj
 << /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
@@ -19,39 +19,159 @@ endobj
 << /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
 endobj
 7 0 obj
-<< /Annots [ 4 0 R ] /Contents 17 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 16 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+<< /Annots [ 4 0 R ] /Contents 54 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 53 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
   /Trans <<  >> /Type /Page >>
 endobj
 8 0 obj
-<< /Outlines 10 0 R /PageLabels 18 0 R /PageMode /UseNone /Pages 16 0 R /Type /Catalog >>
+<< /BaseFont /Symbol /Encoding /SymbolEncoding /Name /F5 /Subtype /Type1 /Type /Font >>
 endobj
 9 0 obj
-<< /Author () /CreationDate (D:20150413095559-01'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
-  /Title () >>
+<< /Contents 55 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 53 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
 endobj
 10 0 obj
-<< /Count 5 /First 11 0 R /Last 15 0 R /Type /Outlines >>
+<< /Contents 56 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 53 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
 endobj
 11 0 obj
-<< /Dest [ 7 0 R /XYZ 62.69291 753.0236 0 ] /Next 12 0 R /Parent 10 0 R /Title (Powershell) >>
+<< /A << /S /URI /Type /Action /URI (http://msdn2.microsoft.com/en-us/library/cc136763\(VS.85\).aspx) >> /Border [ 0 0 0 ] /Rect [ 115.5029 675.7736 298.9029 687.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 12 0 obj
-<< /Dest [ 7 0 R /XYZ 62.69291 584.8236 0 ] /Next 13 0 R /Parent 10 0 R /Prev 11 0 R /Title (Docu) >>
+<< /Annots [ 11 0 R ] /Contents 57 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 53 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
 endobj
 13 0 obj
-<< /Dest [ 7 0 R /XYZ 62.69291 458.6236 0 ] /Next 14 0 R /Parent 10 0 R /Prev 12 0 R /Title (Pipes) >>
+<< /Contents 58 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 53 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
 endobj
 14 0 obj
-<< /Dest [ 7 0 R /XYZ 62.69291 395.6236 0 ] /Next 15 0 R /Parent 10 0 R /Prev 13 0 R /Title (History) >>
+<< /Contents 59 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 53 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
 endobj
 15 0 obj
-<< /Dest [ 7 0 R /XYZ 62.69291 338.6236 0 ] /Parent 10 0 R /Prev 14 0 R /Title (Dienste) >>
+<< /Contents 60 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 53 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
 endobj
 16 0 obj
-<< /Count 1 /Kids [ 7 0 R ] /Type /Pages >>
+<< /Contents 61 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 53 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
 endobj
 17 0 obj
-<< /Length 4748 >>
+<< /Contents 62 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 53 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+18 0 obj
+<< /Outlines 20 0 R /PageLabels 63 0 R /PageMode /UseNone /Pages 53 0 R /Type /Catalog >>
+endobj
+19 0 obj
+<< /Author () /CreationDate (D:20150502085844-01'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title () >>
+endobj
+20 0 obj
+<< /Count 33 /First 21 0 R /Last 52 0 R /Type /Outlines >>
+endobj
+21 0 obj
+<< /Dest [ 7 0 R /XYZ 62.69291 753.0236 0 ] /Next 22 0 R /Parent 20 0 R /Title (Powershell) >>
+endobj
+22 0 obj
+<< /Dest [ 7 0 R /XYZ 62.69291 584.8236 0 ] /Next 23 0 R /Parent 20 0 R /Prev 21 0 R /Title (einfaches I/O) >>
+endobj
+23 0 obj
+<< /Dest [ 7 0 R /XYZ 62.69291 494.6236 0 ] /Next 24 0 R /Parent 20 0 R /Prev 22 0 R /Title (Mehrzeilige Kommandos) >>
+endobj
+24 0 obj
+<< /Dest [ 7 0 R /XYZ 62.69291 380.4236 0 ] /Next 25 0 R /Parent 20 0 R /Prev 23 0 R /Title (Docu) >>
+endobj
+25 0 obj
+<< /Dest [ 7 0 R /XYZ 62.69291 254.2236 0 ] /Next 26 0 R /Parent 20 0 R /Prev 24 0 R /Title (Pipes) >>
+endobj
+26 0 obj
+<< /Dest [ 7 0 R /XYZ 62.69291 191.2236 0 ] /Next 27 0 R /Parent 20 0 R /Prev 25 0 R /Title (History) >>
+endobj
+27 0 obj
+<< /Dest [ 7 0 R /XYZ 62.69291 134.2236 0 ] /Next 28 0 R /Parent 20 0 R /Prev 26 0 R /Title (Dienste) >>
+endobj
+28 0 obj
+<< /Dest [ 9 0 R /XYZ 62.69291 711.0236 0 ] /Next 29 0 R /Parent 20 0 R /Prev 27 0 R /Title (Alias) >>
+endobj
+29 0 obj
+<< /Dest [ 9 0 R /XYZ 62.69291 600.0236 0 ] /Next 30 0 R /Parent 20 0 R /Prev 28 0 R /Title (Profile Anlegen) >>
+endobj
+30 0 obj
+<< /Dest [ 9 0 R /XYZ 62.69291 429.0236 0 ] /Next 31 0 R /Parent 20 0 R /Prev 29 0 R /Title (Gemeinsame Parameter von Kommandos) >>
+endobj
+31 0 obj
+<< /Dest [ 9 0 R /XYZ 62.69291 200.8236 0 ] /Next 32 0 R /Parent 20 0 R /Prev 30 0 R /Title (Objekte) >>
+endobj
+32 0 obj
+<< /Dest [ 10 0 R /XYZ 62.69291 711.0236 0 ] /Next 33 0 R /Parent 20 0 R /Prev 31 0 R /Title (Ausgabeformat) >>
+endobj
+33 0 obj
+<< /Dest [ 10 0 R /XYZ 62.69291 474.8236 0 ] /Next 34 0 R /Parent 20 0 R /Prev 32 0 R /Title (Ausgabe sortieren und grupieren) >>
+endobj
+34 0 obj
+<< /Dest [ 10 0 R /XYZ 62.69291 417.8236 0 ] /Next 35 0 R /Parent 20 0 R /Prev 33 0 R /Title (Datei-Manipulation) >>
+endobj
+35 0 obj
+<< /Dest [ 10 0 R /XYZ 62.69291 138.8236 0 ] /Next 36 0 R /Parent 20 0 R /Prev 34 0 R /Title (Provider) >>
+endobj
+36 0 obj
+<< /Dest [ 12 0 R /XYZ 62.69291 226.6236 0 ] /Next 37 0 R /Parent 20 0 R /Prev 35 0 R /Title (Arbeiten mit der Registry) >>
+endobj
+37 0 obj
+<< /Dest [ 13 0 R /XYZ 62.69291 679.8236 0 ] /Next 38 0 R /Parent 20 0 R /Prev 36 0 R /Title (Arbeiten mit Variablen) >>
+endobj
+38 0 obj
+<< /Dest [ 13 0 R /XYZ 62.69291 374.4236 0 ] /Next 39 0 R /Parent 20 0 R /Prev 37 0 R /Title (Spezielle Variablen) >>
+endobj
+39 0 obj
+<< /Dest [ 13 0 R /XYZ 62.69291 203.4236 0 ] /Next 40 0 R /Parent 20 0 R /Prev 38 0 R /Title (Variablen Typen) >>
+endobj
+40 0 obj
+<< /Dest [ 14 0 R /XYZ 62.69291 579.0236 0 ] /Next 41 0 R /Parent 20 0 R /Prev 39 0 R /Title (Operatoren) >>
+endobj
+41 0 obj
+<< /Dest [ 14 0 R /XYZ 62.69291 474.8236 0 ] /Next 42 0 R /Parent 20 0 R /Prev 40 0 R /Title (Arrays) >>
+endobj
+42 0 obj
+<< /Dest [ 14 0 R /XYZ 62.69291 127.4236 0 ] /Next 43 0 R /Parent 20 0 R /Prev 41 0 R /Title (Schlaufen) >>
+endobj
+43 0 obj
+<< /Dest [ 15 0 R /XYZ 62.69291 587.8236 0 ] /Next 44 0 R /Parent 20 0 R /Prev 42 0 R /Title (Hash Tables) >>
+endobj
+44 0 obj
+<< /Count 3 /Dest [ 15 0 R /XYZ 62.69291 485.6236 0 ] /First 45 0 R /Last 47 0 R /Next 48 0 R /Parent 20 0 R 
+  /Prev 43 0 R /Title (Vergleiche) >>
+endobj
+45 0 obj
+<< /Dest [ 15 0 R /XYZ 62.69291 335.4236 0 ] /Next 46 0 R /Parent 44 0 R /Title (Logische Operatoren) >>
+endobj
+46 0 obj
+<< /Dest [ 15 0 R /XYZ 62.69291 272.2236 0 ] /Next 47 0 R /Parent 44 0 R /Prev 45 0 R /Title (if Anweisung) >>
+endobj
+47 0 obj
+<< /Dest [ 15 0 R /XYZ 62.69291 209.0236 0 ] /Parent 44 0 R /Prev 46 0 R /Title (switch Anweisung) >>
+endobj
+48 0 obj
+<< /Dest [ 16 0 R /XYZ 62.69291 753.0236 0 ] /Next 49 0 R /Parent 20 0 R /Prev 44 0 R /Title (Funktionen) >>
+endobj
+49 0 obj
+<< /Dest [ 16 0 R /XYZ 62.69291 369.2236 0 ] /Next 50 0 R /Parent 20 0 R /Prev 48 0 R /Title (Skripte aufrufen) >>
+endobj
+50 0 obj
+<< /Dest [ 16 0 R /XYZ 62.69291 261.0236 0 ] /Next 51 0 R /Parent 20 0 R /Prev 49 0 R /Title (Filter) >>
+endobj
+51 0 obj
+<< /Dest [ 16 0 R /XYZ 62.69291 198.0236 0 ] /Next 52 0 R /Parent 20 0 R /Prev 50 0 R /Title (Ausgabe Umleitung) >>
+endobj
+52 0 obj
+<< /Dest [ 17 0 R /XYZ 62.69291 753.0236 0 ] /Parent 20 0 R /Prev 51 0 R /Title (WMI / Windows Management Instrumentation) >>
+endobj
+53 0 obj
+<< /Count 9 /Kids [ 7 0 R 9 0 R 10 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R ] /Type /Pages >>
+endobj
+54 0 obj
+<< /Length 5002 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -87,7 +207,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (output sind Objekte und nicht Text \(im Gegensatz zu Unix Shells!\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Output sind Objekte und nicht Text \(im Gegensatz zu Unix Shells!\)) Tj T* ET
 Q
 Q
 q
@@ -110,7 +230,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (commandos sind ) Tj /F3 10 Tf 0 0 0 rg (CmdLets) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Kommandos sind ) Tj /F3 10 Tf 0 0 0 rg (CmdLets) Tj T* ET
 Q
 Q
 q
@@ -134,7 +254,7 @@ n -6 -6 468.6898 60 re B*
 Q
 q
 0 0 0 rg
-BT 1 0 0 1 0 38 Tm /F4 10 Tf 12 TL (get-command) Tj T* (get-command -Verb Get # alle Kommandos mit "Get" Verb anzeigen) Tj T* (                      # andere z.B. Add, Clear, New, and Set) Tj T* (get-command -Type CmdLet \246 sort-object noun \246 format-table -group noun) Tj T* ET
+BT 1 0 0 1 0 38 Tm /F4 10 Tf 12 TL (Get-Command) Tj T* (Get-Command -Verb Get # alle Kommandos mit "Get" Verb anzeigen) Tj T* (                      # andere z.B. Add, Clear, New, and Set) Tj T* (Get-Command -Type CmdLet \246 sort-object noun \246 format-table -group noun) Tj T* ET
 Q
 Q
 Q
@@ -143,11 +263,63 @@ Q
 q
 1 0 0 1 62.69291 563.8236 cm
 q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (einfaches I/O) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 506.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 26 Tm 12 TL /F4 10 Tf 0 0 0 rg (>) Tj ( echo "Bitte gib was ein") Tj T* (>) Tj ( $ret = Read-Host) Tj T* (>) Tj ( Write-Host "Danke" # gleich wie echo) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 473.6236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Mehrzeilige Kommandos) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 392.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 72 re B*
+Q
+q
+BT 1 0 0 1 0 50 Tm 12 TL /F4 10 Tf 0 0 0 rg (>) Tj ( echo `) Tj T* (>) Tj (>) Tj ( "foo") Tj T* (>) Tj (>) Tj  T* (foo) Tj T* (>) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 359.4236 cm
+q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Docu) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 470.6236 cm
+1 0 0 1 62.69291 266.2236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -161,39 +333,39 @@ n -6 -6 468.6898 84 re B*
 Q
 q
 0 0 0 rg
-BT 1 0 0 1 0 62 Tm /F4 10 Tf 12 TL (get-help  Kommando     # oder) Tj T* (man       Kommando) Tj T* (man -full Kommando) Tj T* (man -full Kommando \246 format-list  # zeigt Infos in Listen Form an) Tj T* (man -full Kommando \246 format-list \246 more) Tj T* (help about_* \246 more) Tj T* ET
+BT 1 0 0 1 0 62 Tm /F4 10 Tf 12 TL (Get-Help  Kommando     # oder) Tj T* (man       Kommando) Tj T* (man -full Kommando) Tj T* (man -full Kommando \246 format-list  # zeigt Infos in Listen Form an) Tj T* (man -full Kommando \246 format-list \246 more) Tj T* (help about_* \246 more) Tj T* ET
 Q
 Q
 Q
 Q
 Q
 q
-1 0 0 1 62.69291 437.6236 cm
+1 0 0 1 62.69291 233.2236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Pipes) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 407.6236 cm
+1 0 0 1 62.69291 203.2236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .177485 Tw (Auf der Tastatur gibt's zwei 'Pipe' Zeichen, die gleich aussehen \(k\366nnen\). Eines davon ist falsch. Eines ist) Tj T* 0 Tw (richtig. Hinweis: es ist nicht dasjenige, das man im Unix verwendet...) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 374.6236 cm
+1 0 0 1 62.69291 170.2236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (History) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 362.6236 cm
+1 0 0 1 62.69291 158.2236 cm
 Q
 q
-1 0 0 1 62.69291 362.6236 cm
+1 0 0 1 62.69291 158.2236 cm
 Q
 q
-1 0 0 1 62.69291 350.6236 cm
+1 0 0 1 62.69291 146.2236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -214,22 +386,22 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 350.6236 cm
+1 0 0 1 62.69291 146.2236 cm
 Q
 q
-1 0 0 1 62.69291 317.6236 cm
+1 0 0 1 62.69291 113.2236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Dienste) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 305.6236 cm
+1 0 0 1 62.69291 101.2236 cm
 Q
 q
-1 0 0 1 62.69291 305.6236 cm
+1 0 0 1 62.69291 101.2236 cm
 Q
 q
-1 0 0 1 62.69291 293.6236 cm
+1 0 0 1 62.69291 89.22362 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -250,10 +422,31 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 287.6236 cm
+1 0 0 1 62.69291 88.86614 cm
 Q
 q
-1 0 0 1 62.69291 275.6236 cm
+1 0 0 1 56.69291 773.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 161.1949 0 Td (T.Posp\355\232ek, MAS: Betriebssysteme,) Tj T* -161.1949 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 231.2149 0 Td (1/10) Tj T* -231.2149 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+55 0 obj
+<< /Length 7786 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -274,10 +467,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 269.6236 cm
+1 0 0 1 62.69291 735.0236 cm
 Q
 q
-1 0 0 1 62.69291 257.6236 cm
+1 0 0 1 62.69291 723.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -298,10 +491,400 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 257.6236 cm
+1 0 0 1 62.69291 723.0236 cm
 Q
 q
-1 0 0 1 62.69291 257.6236 cm
+1 0 0 1 62.69291 690.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Alias) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 678.0236 cm
+Q
+q
+1 0 0 1 62.69291 678.0236 cm
+Q
+q
+1 0 0 1 62.69291 666.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Get-Alias) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 660.0236 cm
+Q
+q
+1 0 0 1 62.69291 648.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Set-Alias gs Get-Service) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 648.0236 cm
+Q
+q
+1 0 0 1 62.69291 630.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Windows Alias sind nur in der jeweilingen Shell Session g\374ltig. Um sie zu exportieren:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 624.0236 cm
+Q
+q
+1 0 0 1 62.69291 624.0236 cm
+Q
+q
+1 0 0 1 62.69291 612.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Export-Alias -Path MyAliases.txt) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 612.0236 cm
+Q
+q
+1 0 0 1 62.69291 579.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Profile Anlegen) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 549.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .43311 Tw (Ein Profile ist ein Script, das beim Starten der PowerShell ausgef\374hrt wird. Der Pfad des aktuellen Profils) Tj T* 0 Tw (ist in $Profile gespeichert und kann angezeigt werden mittels:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 543.0236 cm
+Q
+q
+1 0 0 1 62.69291 543.0236 cm
+Q
+q
+1 0 0 1 62.69291 531.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Profile) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 531.0236 cm
+Q
+q
+1 0 0 1 62.69291 513.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Erstellen eines Profils:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 507.0236 cm
+Q
+q
+1 0 0 1 62.69291 507.0236 cm
+Q
+q
+1 0 0 1 62.69291 495.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Set-ExecutionPolicy Unrestricted # sonst werden keine Start Scripte ausgef\374hrt) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 489.0236 cm
+Q
+q
+1 0 0 1 62.69291 477.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Test-Path $Profile # wenn False:) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 471.0236 cm
+Q
+q
+1 0 0 1 62.69291 459.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (New-Item -Path $Profile -ItemType File -Force) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 453.0236 cm
+Q
+q
+1 0 0 1 62.69291 441.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Notepad $Profile) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 441.0236 cm
+Q
+q
+1 0 0 1 62.69291 408.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Gemeinsame Parameter von Kommandos) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 390.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Nicht ) Tj /F3 10 Tf (alle ) Tj /F1 10 Tf (CmdLets haben diese...) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 212.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 168 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 146 Tm /F4 10 Tf 12 TL (-WhatIf        # zeigt an, was passieren *w\374rde*, wenn man) Tj T* (               # das Kommando in echt ausgef\374hrt h\344tte) Tj T* (-Confirm       # zeigt Prompt an) Tj T* (-Verbose       # detaillierte Ausgabe) Tj T* (-Debug         # debugging Infos) Tj T* (-ErrorAction   # welche Aktion soll im Fehlerfall ausgef\374hrt) Tj T* (               # werden \(continue, stop, silently continue) Tj T* (               # oder inquire\)) Tj T* (-ErrorVariable # Variable, welche Fehler-Info enthalten soll) Tj T* (               # \(normalerweise $error\)) Tj T* (-OutVariable   # Variable, welche Ausgabe enthalten soll) Tj T* (-OutBuffer     # F\374r Zwischenspeicherung der Ausgabe in) Tj T* (               # einer Pipe) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 179.8236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Objekte) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 167.8236 cm
+Q
+q
+1 0 0 1 62.69291 167.8236 cm
+Q
+q
+1 0 0 1 62.69291 155.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Get-Service \246 Get-Member) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 149.8236 cm
+Q
+q
+1 0 0 1 62.69291 137.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Get-Service \246 Get-Member -MemberType Method) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 131.8236 cm
+Q
+q
+1 0 0 1 62.69291 95.82362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Get-ChildItem -Path C:\\ -Recurse \246 Where-Object {$_.LastWriteTime -gt \2232015-04-18) Tj /F5 10 Tf 12 TL (\262) Tj /F1 10 Tf 12 TL (}) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+Q
+q
+1 0 0 1 23 15 cm
+Q
+q
+1 0 0 1 23 3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Where-Object iteriert \374ber Objekte, bei denen die Bedingung zutrifft) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
 Q
 q
 1 0 0 1 56.69291 773.1969 cm
@@ -314,45 +897,2261 @@ q
 1 0 0 1 56.69291 56.69291 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 233.9949 0 Td (1/1) Tj T* -233.9949 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 231.2149 0 Td (2/10) Tj T* -231.2149 0 Td ET
 Q
 Q
  
 endstream
 endobj
-18 0 obj
-<< /Nums [ 0 19 0 R ] >>
+56 0 obj
+<< /Length 8620 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 723.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 17 Tm  T* ET
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (siehe:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Get-ChildItem \246 Get-Member) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 723.0236 cm
+Q
+q
+1 0 0 1 62.69291 690.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Ausgabeformat) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 672.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Ohne genauere Angabe \374bernimmt PowerShell die Formatierung der Ausgaben eines Kommandos.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 654.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Genauer kann man dies mit Format-* einstellen:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 648.0236 cm
+Q
+q
+1 0 0 1 62.69291 648.0236 cm
+Q
+q
+1 0 0 1 62.69291 636.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Get-Command Format-*) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 636.0236 cm
+Q
+q
+1 0 0 1 62.69291 566.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 60 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F4 10 Tf 12 TL (Format-Custom) Tj T* (Format-List) Tj T* (Format-Table) Tj T* (Format-Wide) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 552.8236 cm
+Q
+q
+1 0 0 1 62.69291 552.8236 cm
+Q
+q
+1 0 0 1 62.69291 540.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Get-ChildItem -Path C:\\ \246 Format-Table -AutoSize) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 534.8236 cm
+Q
+q
+1 0 0 1 62.69291 522.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Get-ChildItem -Path C:\\ \246 Format-List -Property FullName,LastWriteTime) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 516.8236 cm
+Q
+q
+1 0 0 1 62.69291 504.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Get-ChildItem -Path C:\\ \246 ConvertTo-HTML \246 Out-File Procs.html &) Tj (& Invoke-Item Procs.html) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 498.8236 cm
+Q
+q
+1 0 0 1 62.69291 486.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Get-ChildItem -Path C:\\ \246 Export-CSV Procs.csv &) Tj (& Invoke-Item Procs.csv) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 486.8236 cm
+Q
+q
+1 0 0 1 62.69291 453.8236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Ausgabe sortieren und grupieren) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 441.8236 cm
+Q
+q
+1 0 0 1 62.69291 441.8236 cm
+Q
+q
+1 0 0 1 62.69291 429.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Get-Process \246 Group-Object Company \246 Sort-Object Count -Descending) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 429.8236 cm
+Q
+q
+1 0 0 1 62.69291 396.8236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Datei-Manipulation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 384.8236 cm
+Q
+q
+1 0 0 1 62.69291 150.8236 cm
+1 1 1 rg
+n 0 234 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 216 469.8898 -18 re f*
+1 1 1 rg
+n 0 198 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 180 469.8898 -18 re f*
+1 1 1 rg
+n 0 162 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 144 469.8898 -18 re f*
+1 1 1 rg
+n 0 126 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 108 469.8898 -18 re f*
+1 1 1 rg
+n 0 90 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 72 469.8898 -18 re f*
+1 1 1 rg
+n 0 54 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 36 469.8898 -18 re f*
+1 1 1 rg
+n 0 18 469.8898 -18 re f*
+.960784 .960784 .862745 rg
+n 0 234 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 219 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 213.5471 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 90.93854 0 Td (Cmdlet) Tj T* -90.93854 0 Td ET
+Q
+Q
+q
+1 0 0 1 231.5471 219 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 232.3427 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 80.88634 0 Td (Command/Alias) Tj T* -80.88634 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 201 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Get-Location) Tj T* ET
+Q
+Q
+q
+1 0 0 1 231.5471 201 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (pwd) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Set-Location) Tj T* ET
+Q
+Q
+q
+1 0 0 1 231.5471 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (cd) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Copy-Item) Tj T* ET
+Q
+Q
+q
+1 0 0 1 231.5471 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (cp) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 147 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Remove-Item) Tj T* ET
+Q
+Q
+q
+1 0 0 1 231.5471 147 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (rm) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 129 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Move-Item) Tj T* ET
+Q
+Q
+q
+1 0 0 1 231.5471 129 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (mv) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Rename-Item) Tj T* ET
+Q
+Q
+q
+1 0 0 1 231.5471 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (ren) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (New-Item) Tj T* ET
+Q
+Q
+q
+1 0 0 1 231.5471 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (ni) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Clear-Item) Tj T* ET
+Q
+Q
+q
+1 0 0 1 231.5471 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (cli) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Set-Item) Tj T* ET
+Q
+Q
+q
+1 0 0 1 231.5471 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (si) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Mkdir) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Get-Content) Tj T* ET
+Q
+Q
+q
+1 0 0 1 231.5471 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (cat) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Set-Content) Tj T* ET
+Q
+Q
+q
+1 0 0 1 231.5471 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sc) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 216 m 469.8898 216 l S
+n 0 198 m 469.8898 198 l S
+n 0 180 m 469.8898 180 l S
+n 0 162 m 469.8898 162 l S
+n 0 144 m 469.8898 144 l S
+n 0 126 m 469.8898 126 l S
+n 0 108 m 469.8898 108 l S
+n 0 90 m 469.8898 90 l S
+n 0 72 m 469.8898 72 l S
+n 0 54 m 469.8898 54 l S
+n 0 36 m 469.8898 36 l S
+n 0 18 m 469.8898 18 l S
+n 225.5471 0 m 225.5471 234 l S
+n 0 234 m 469.8898 234 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 234 l S
+n 469.8898 0 m 469.8898 234 l S
+Q
+Q
+q
+1 0 0 1 62.69291 150.8236 cm
+Q
+q
+1 0 0 1 62.69291 117.8236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Provider) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 161.1949 0 Td (T.Posp\355\232ek, MAS: Betriebssysteme,) Tj T* -161.1949 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 231.2149 0 Td (3/10) Tj T* -231.2149 0 Td ET
+Q
+Q
+ 
+endstream
 endobj
-19 0 obj
+57 0 obj
+<< /Length 5587 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 729.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .901647 Tw (Machen Datenquellen, z.B. die Registry, in Form von Dateisystemen verf\374gbar, was deren Manipulation) Tj T* 0 Tw (mittels Datei-Operationen erm\366glicht.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Die Provider k\366nnen Standard Optionen erweitern, welche spezifisch f\374r die bearbeiteten Daten sind.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 693.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Provider werden auch Snap-Ins \(DLLs\) genannt.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 675.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Siehe auch ) Tj 0 0 .501961 rg (The PowerShell Software Developers Kit ) Tj 0 0 0 rg (f\374r Anleitung zum selber machen.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 669.0236 cm
+Q
+q
+1 0 0 1 62.69291 669.0236 cm
+Q
+q
+1 0 0 1 62.69291 657.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Get-PSProvider) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 657.0236 cm
+Q
+q
+1 0 0 1 62.69291 551.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 96 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 74 Tm /F4 10 Tf 12 TL (Alias) Tj T* (Environment) Tj T* (FileSystem) Tj T* (Function) Tj T* (Registry) Tj T* (Variable) Tj T* (Certificate) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 531.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Wo sind die entsprechenden Dateisysteme verf\374gbar?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 525.8236 cm
+Q
+q
+1 0 0 1 62.69291 525.8236 cm
+Q
+q
+1 0 0 1 62.69291 513.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Get-PSDrive) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 513.8236 cm
+Q
+q
+1 0 0 1 62.69291 348.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 156 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 134 Tm /F4 10 Tf 12 TL (Name       Provider      Root) Tj T* (----       --------      ----) Tj T* (Alias      Alias) Tj T* (C          FileSystem    C:\\) Tj T* (cert       Certificate   \\) Tj T* (D          FileSystem    D:\\) Tj T* (Env        Environment) Tj T* (Function   Function) Tj T* (HKCU       Registry      HKEY_CURRENT_USER) Tj T* (HKLM       Registry      HKEY_LOCAL_MACHINE) Tj T* (Variable   Variable) Tj T* (X          FileSystem    X:\\) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 328.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (und wie kommt man da rein?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 322.6236 cm
+Q
+q
+1 0 0 1 62.69291 322.6236 cm
+Q
+q
+1 0 0 1 62.69291 310.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Set-Location Alias:) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 304.6236 cm
+Q
+q
+1 0 0 1 62.69291 292.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Get-ChildItem \246 Get-Member # Eigenschaften der Alias anzeigen -) Tj (> sie haben einen Namen) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 286.6236 cm
+Q
+q
+1 0 0 1 62.69291 274.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Get-ChildItem -Name R* # alle Aliase deren Namen mit 'R' anfangen anzeigen) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 274.6236 cm
+Q
+q
+1 0 0 1 62.69291 256.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (oder alternativ:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 250.6236 cm
+Q
+q
+1 0 0 1 62.69291 250.6236 cm
+Q
+q
+1 0 0 1 62.69291 238.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Get-ChildItem \246 Where-Object {$_.Name -like "R*" }) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 238.6236 cm
+Q
+q
+1 0 0 1 62.69291 205.6236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Arbeiten mit der Registry) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 100.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 96 re B*
+Q
+q
+BT 1 0 0 1 0 74 Tm 12 TL /F4 10 Tf 0 0 0 rg (>) Tj ( Get-PSDrive) Tj T* (Name       Provider      Root) Tj T* (----       --------      ----) Tj T* (...) Tj T* (HKLM       Registry      HKEY_LOCAL_MACHINE) Tj T*  T* (>) Tj ( cd HKLM:) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 161.1949 0 Td (T.Posp\355\232ek, MAS: Betriebssysteme,) Tj T* -161.1949 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 231.2149 0 Td (4/10) Tj T* -231.2149 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+58 0 obj
+<< /Length 5987 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 691.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 60 re B*
+Q
+q
+BT 1 0 0 1 0 38 Tm 12 TL /F4 10 Tf 0 0 0 rg (>) Tj ( cd Software\\Microsoft\\.NetFramework\\Policy\\Upgrades) Tj T* (>) Tj ( Get-ItemProperty .) Tj T* (...) Tj T* (>) Tj ( New-Item ...) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 658.8236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Arbeiten mit Variablen) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 529.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 120 re B*
+Q
+q
+BT 1 0 0 1 0 98 Tm 12 TL /F4 10 Tf 0 0 0 rg (>) Tj ( cd Variable:) Tj T* (>) Tj ( ls) Tj T* (...) Tj T* (PSHOME                   C:\\...) Tj T* (..) Tj T* (>) Tj ( echo $PSHOME) Tj T* (C:\\...) Tj T* (>) Tj ( Get-Content PSHOME) Tj T* (C:\\...) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 424.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 96 re B*
+Q
+q
+BT 1 0 0 1 0 74 Tm 12 TL /F4 10 Tf 0 0 0 rg (>) Tj ( $foo = "hallo") Tj T* (>) Tj ( echo $foo) Tj T* (>) Tj ( $foo) Tj T* (>) Tj ( $bar = "welt") Tj T* (>) Tj ( $foobar = $foo + " " + $bar) Tj T* (>) Tj ( echo "ich sage $foobar") Tj T* (>) Tj ( echo 'ich sage $foobar') Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 404.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Da wir es in der PowerShell mit Objekten zu tun haben:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 398.4236 cm
+Q
+q
+1 0 0 1 62.69291 386.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (> $foobar = $foobar -replace "welt", "fridolin") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 386.4236 cm
+Q
+q
+1 0 0 1 62.69291 353.4236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Spezielle Variablen) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 341.4236 cm
+Q
+q
+1 0 0 1 62.69291 251.4236 cm
+1 1 1 rg
+n 0 90 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 72 469.8898 -18 re f*
+1 1 1 rg
+n 0 54 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 36 469.8898 -18 re f*
+1 1 1 rg
+n 0 18 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ($_) Tj T* ET
+Q
+Q
+q
+1 0 0 1 77.50496 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (jetziges Pipeline Objelt) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ($Args) Tj T* ET
+Q
+Q
+q
+1 0 0 1 77.50496 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Argument an jetzige Methode) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ($Error) Tj T* ET
+Q
+Q
+q
+1 0 0 1 77.50496 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (letzes Fehlerobjekt) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ($Home) Tj T* ET
+Q
+Q
+q
+1 0 0 1 77.50496 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Heimverzeichnis des aktuellen Benutzers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ($PSHome) Tj T* ET
+Q
+Q
+q
+1 0 0 1 77.50496 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Heimverzeichnis der PowerShell) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 72 m 469.8898 72 l S
+n 0 54 m 469.8898 54 l S
+n 0 36 m 469.8898 36 l S
+n 0 18 m 469.8898 18 l S
+n 71.50496 0 m 71.50496 90 l S
+n 0 90 m 469.8898 90 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 90 l S
+n 469.8898 0 m 469.8898 90 l S
+Q
+Q
+q
+1 0 0 1 62.69291 251.4236 cm
+Q
+q
+1 0 0 1 62.69291 233.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Alle Spezialvariablen:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 227.4236 cm
+Q
+q
+1 0 0 1 62.69291 227.4236 cm
+Q
+q
+1 0 0 1 62.69291 215.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Get-Help about_automatic_variables) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 215.4236 cm
+Q
+q
+1 0 0 1 62.69291 182.4236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Variablen Typen) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 170.4236 cm
+Q
+q
+1 0 0 1 62.69291 98.42362 cm
+1 1 1 rg
+n 0 72 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 54 469.8898 -18 re f*
+1 1 1 rg
+n 0 36 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 18 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ([int]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 221.3661 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (32-bit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ([long]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 221.3661 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (64-bit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ([string]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 221.3661 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Unicode...) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ([char]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 221.3661 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (") Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 0 m 469.8898 0 l S
+n 0 54 m 469.8898 54 l S
+n 0 36 m 469.8898 36 l S
+n 0 18 m 469.8898 18 l S
+n 215.3661 0 m 215.3661 72 l S
+n 0 72 m 469.8898 72 l S
+n 0 0 m 0 72 l S
+n 469.8898 0 m 469.8898 72 l S
+Q
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 161.1949 0 Td (T.Posp\355\232ek, MAS: Betriebssysteme,) Tj T* -161.1949 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 231.2149 0 Td (5/10) Tj T* -231.2149 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+59 0 obj
+<< /Length 5029 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 609.0236 cm
+1 1 1 rg
+n 0 144 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 126 469.8898 -18 re f*
+1 1 1 rg
+n 0 108 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 90 469.8898 -18 re f*
+1 1 1 rg
+n 0 72 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 54 469.8898 -18 re f*
+1 1 1 rg
+n 0 36 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 18 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 129 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ([byte]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 221.3661 129 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (8-bit char) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ([bool]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ([decimal]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 221.3661 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (128-bit float) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ([single]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 221.3661 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (32-bit float) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ([double]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 221.3661 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (64-bit float) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ([xml]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ([array]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ([hashtable]) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 144 m 469.8898 144 l S
+n 0 126 m 469.8898 126 l S
+n 0 108 m 469.8898 108 l S
+n 0 90 m 469.8898 90 l S
+n 0 72 m 469.8898 72 l S
+n 0 54 m 469.8898 54 l S
+n 0 36 m 469.8898 36 l S
+n 0 18 m 469.8898 18 l S
+n 215.3661 0 m 215.3661 144 l S
+n 0 0 m 0 144 l S
+n 469.8898 0 m 469.8898 144 l S
+n 0 0 m 469.8898 0 l S
+Q
+Q
+q
+1 0 0 1 62.69291 609.0236 cm
+Q
+q
+1 0 0 1 62.69291 603.0236 cm
+Q
+q
+1 0 0 1 62.69291 603.0236 cm
+Q
+q
+1 0 0 1 62.69291 591.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ([int]$zahl = 3) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 591.0236 cm
+Q
+q
+1 0 0 1 62.69291 558.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Operatoren) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 524.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (=, +, -, *, /, %, +=, -=, ..., ++, --) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 504.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Klammern f\374r Sub-Ausdr\374cke k\366nnen verwendet werden) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 498.8236 cm
+Q
+q
+1 0 0 1 62.69291 498.8236 cm
+Q
+q
+1 0 0 1 62.69291 486.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ($foo = 1 + \( 2 / 3 \)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 486.8236 cm
+Q
+q
+1 0 0 1 62.69291 453.8236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Arrays) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 192.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 252 re B*
+Q
+q
+BT 1 0 0 1 0 230 Tm 12 TL /F4 10 Tf 0 0 0 rg (>) Tj ( $sack = @\( 1, 2, 3 \)) Tj T* (>) Tj ( $sack) Tj T* (1) Tj T* (2) Tj T* (3) Tj T* (>) Tj ( $sack[0]) Tj T* (1) Tj T* (>) Tj ( $sack.Count) Tj T* (3) Tj T* (>) Tj ( $tasche = $sack) Tj T* (>) Tj ( $sack[0] = 77) Tj T* (>) Tj ( $tasche[0]) Tj T* (77) Tj T* (>) Tj ( $sack + $sack) Tj T* (77) Tj T* (2) Tj T* (3) Tj T* (77) Tj T* (2) Tj T* (3) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 172.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Wenn man eine mehrzeilige Text Datei einliest, dann wird diese automatisch als Array ausgegeben.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 139.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (>) Tj ( $arrComputers = get-Content -Path \223meine_computer_liste.txt\224) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 106.4236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Schlaufen) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 161.1949 0 Td (T.Posp\355\232ek, MAS: Betriebssysteme,) Tj T* -161.1949 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 231.2149 0 Td (6/10) Tj T* -231.2149 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+60 0 obj
+<< /Length 5207 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 727.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (>) Tj ( foreach\($i in $sack\) { echo $i }) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 707.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Ebenfalls:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 701.8236 cm
+Q
+q
+1 0 0 1 62.69291 701.8236 cm
+Q
+q
+1 0 0 1 62.69291 689.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (while \(\) {}) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 683.8236 cm
+Q
+q
+1 0 0 1 62.69291 671.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (do {} while \(\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 665.8236 cm
+Q
+q
+1 0 0 1 62.69291 653.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (do {} until \(\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 647.8236 cm
+Q
+q
+1 0 0 1 62.69291 635.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (for \(init; cond; incr\) {}) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 629.8236 cm
+Q
+q
+1 0 0 1 62.69291 617.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (foreach \($i in $collection\) {}) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 617.8236 cm
+Q
+q
+1 0 0 1 62.69291 599.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (In den Schlaufenkonstrukten k\366nnen die Anweisungen 'break' und 'continue' verwendet werden.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 566.8236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Hash Tables) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 497.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 60 re B*
+Q
+q
+BT 1 0 0 1 0 38 Tm 12 TL /F4 10 Tf 0 0 0 rg (>) Tj ( $hash = @{"Name" = "Tomaso"; "Alter" = 42 }) Tj T* (>) Tj ( $hash["Lieblingsfarbe"] = "goldig") Tj T* (>) Tj ( $hash.Remove\("Alter"\)) Tj T* (>) Tj ( $hash.Clear\(\)          # alle Eintr\344ge l\366schen) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 464.6236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Vergleiche) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 347.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 108 re B*
+Q
+q
+BT 1 0 0 1 0 86 Tm 12 TL /F4 10 Tf 0 0 0 rg (-eq, -lt, -gt, -ge- -le, -ne) Tj T* (-not, !, -and, -or) Tj T* (>) Tj ( "Tom" -eq "TOM") Tj T* (True) Tj T* (>) Tj ( "Tom" -ieq "TOM") Tj T* (True) Tj T* (>) Tj ( "Tom" -ceq "TOM") Tj T* (False) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 317.4236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Logische Operatoren) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 284.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (-not, !, -and, -or) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 254.2236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (if Anweisung) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 221.0236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (>) Tj ( if\(1\) { echo "True" } elseif\(0\) { echo "False" } else { echo "Fallback" }) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 191.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (switch Anweisung) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 109.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 72 re B*
+Q
+q
+BT 1 0 0 1 0 50 Tm 12 TL /F4 10 Tf 0 0 0 rg (>) Tj ( switch \($foo + $bar\){) Tj T* (    \($baz + $buz\)  { echo "Hm, ja, gleich wie bazbuz" }) Tj T* (    "Hallo Welt"   { echo "wie erwartet"              }) Tj T* (    default        { echo "dann halt nicht"           }) Tj T* (  }) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 161.1949 0 Td (T.Posp\355\232ek, MAS: Betriebssysteme,) Tj T* -161.1949 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 231.2149 0 Td (7/10) Tj T* -231.2149 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+61 0 obj
+<< /Length 4475 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 732.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Funktionen) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 638.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 84 re B*
+Q
+q
+BT 1 0 0 1 0 62 Tm 12 TL /F4 10 Tf 0 0 0 rg (>) Tj ( Function Zeit { Get-Date }) Tj T* (>) Tj ( Zeit) Tj T* (...) Tj T* (>) Tj ( Function Addiere\($a,$b\) { echo \($a + $b\) }) Tj T* (>) Tj ( Addiere 1 2) Tj T* (3) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 618.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Alternativ:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 561.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 26 Tm 12 TL /F4 10 Tf 0 0 0 rg (>) Tj ( Function Addiere2 { param \($a,$b\); echo \($a + $b\) }) Tj T* (>) Tj ( Addiere2 1 2) Tj T* (3) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 541.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Oder:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 484.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 26 Tm 12 TL /F4 10 Tf 0 0 0 rg (>) Tj ( Function Anzeigen { echo "Die \374bergebenen Argumente sind: '$args'" }) Tj T* (>) Tj ( Anzeige Foo 1 2 3) Tj T* (Die \374bergebenen Argumente sind: 'Foo 1 2 3') Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 464.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Die einzelnen Argumente sind via $args[$i] erreichbar.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 446.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Per default err\344t PowerShell den Typ der Argumente, dieser kann aber auch explizit deklariert werden:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 413.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (>) Tj ( Function Addiere\([int]$a, [int]$b\) { echo \($a + $b\) }) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 381.2236 cm
+q
+BT 1 0 0 1 0 14 Tm 3.765433 Tw 12 TL /F1 10 Tf 0 0 0 rg (Funktionen k\366nnen mit der Spezial-Variable '$input' arbeiten, welche den ) Tj /F3 10 Tf (vollst\344ndigen ) Tj /F1 10 Tf (Inhalt der) Tj T* 0 Tw (aktuellen Pipeline enthalten.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 348.2236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Skripte aufrufen) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 330.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Um Skripte aus Skripten aufzurufen, kann man folgende Notation verwenden:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 273.0236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F4 10 Tf 12 TL (.{./mein_anderes_Skript.ps1}) Tj T* (# das folgende Skript wird im Standard Suchpfad, sprich in $PSHome gesucht) Tj T* (.{foo_Skript.ps1}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 240.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Filter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 210.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.572651 Tw 12 TL /F1 10 Tf 0 0 0 rg (Im Gegensatz zu Funktionen arbeiten ) Tj /F3 10 Tf (Filter ) Tj /F1 10 Tf (mit der Variable $_, welche als Stream, d.h. w\344hrend der) Tj T* 0 Tw (Produktion der Daten, verarbeitet werden kann.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 177.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Ausgabe Umleitung) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 107.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 60 re B*
+Q
+q
+BT 1 0 0 1 0 38 Tm 12 TL /F4 10 Tf 0 0 0 rg (>) Tj ( ls ) Tj (>) Tj ( list.txt) Tj T* (>) Tj ( ls | OutFile -FilePath list.txt # ist das gleiche) Tj T* (>) Tj ( ls ) Tj (>) Tj (>) Tj ( list.txt) Tj T* (>) Tj ( ls | OutFile -FilePath list.txt -append # dito) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 161.1949 0 Td (T.Posp\355\232ek, MAS: Betriebssysteme,) Tj T* -161.1949 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 231.2149 0 Td (8/10) Tj T* -231.2149 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+62 0 obj
+<< /Length 2378 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 732.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (WMI / Windows Management Instrumentation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 650.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 72 re B*
+Q
+q
+BT 1 0 0 1 0 50 Tm 12 TL /F4 10 Tf 0 0 0 rg (>) Tj ( $printers = Get-WmiObject -Class win32_Printer -namespace "root\\CIMV2" `) Tj T* (  -computerName $ComputerName) Tj T* (>) Tj ( echo $printers[0].Name) Tj T* (>) Tj  T* (>) Tj ( Get-WmiObject -List -Namespace \223root\\CIMV2) Tj /F5 10 Tf 12 TL (\262) Tj /F4 10 Tf 12 TL T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 618.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.14284 Tw (Die WMI Administrative Tools von Microsoft enthalten das "WMI CIM Studio", mittels welchem man die) Tj T* 0 Tw (WMI Informationen in einem GUI durchforsten kann.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 525.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 84 re B*
+Q
+q
+BT 1 0 0 1 0 62 Tm 12 TL /F4 10 Tf 0 0 0 rg (>) Tj ( $NICs = Get-WmiObject Win32_NetworkAdapterConfiguration `\246) Tj T* (>) Tj (>) Tj (          Where {$_.IPEnabled -eq \223TRUE\224}) Tj T* (>) Tj  T* (>) Tj ( foreach\($NIC in $NICs\) {`) Tj T* (>) Tj (>) Tj (   $NIC.EnableDHCP\(\) `) Tj T* (>) Tj (>) Tj ( }) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 505.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Um alle Methoden von 'Win32_NetworkAdapterConfiguration' anzuzeigen:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 460.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F4 10 Tf 0 0 0 rg (>) Tj ( Get-WmiObject Win32_NetworkAdapterConfiguration `\246) Tj T* (>) Tj (>) Tj (   Get-Member -MemberType Methods \246 Format-List) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 452.4236 cm
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 161.1949 0 Td (T.Posp\355\232ek, MAS: Betriebssysteme,) Tj T* -161.1949 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 231.2149 0 Td (9/10) Tj T* -231.2149 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+63 0 obj
+<< /Nums [ 0 64 0 R 1 65 0 R 2 66 0 R 3 67 0 R 4 68 0 R 
+  5 69 0 R 6 70 0 R 7 71 0 R 8 72 0 R ] >>
+endobj
+64 0 obj
 << /S /D /St 1 >>
 endobj
+65 0 obj
+<< /S /D /St 2 >>
+endobj
+66 0 obj
+<< /S /D /St 3 >>
+endobj
+67 0 obj
+<< /S /D /St 4 >>
+endobj
+68 0 obj
+<< /S /D /St 5 >>
+endobj
+69 0 obj
+<< /S /D /St 6 >>
+endobj
+70 0 obj
+<< /S /D /St 7 >>
+endobj
+71 0 obj
+<< /S /D /St 8 >>
+endobj
+72 0 obj
+<< /S /D /St 9 >>
+endobj
 xref
-0 20
+0 73
 0000000000 65535 f
 0000000075 00000 n
-0000000139 00000 n
-0000000249 00000 n
-0000000364 00000 n
-0000000581 00000 n
-0000000699 00000 n
-0000000807 00000 n
-0000001034 00000 n
-0000001142 00000 n
-0000001352 00000 n
-0000001429 00000 n
-0000001543 00000 n
-0000001664 00000 n
-0000001786 00000 n
-0000001910 00000 n
-0000002021 00000 n
-0000002084 00000 n
-0000006889 00000 n
-0000006933 00000 n
+0000000149 00000 n
+0000000259 00000 n
+0000000374 00000 n
+0000000591 00000 n
+0000000709 00000 n
+0000000817 00000 n
+0000001044 00000 n
+0000001150 00000 n
+0000001359 00000 n
+0000001569 00000 n
+0000001788 00000 n
+0000002017 00000 n
+0000002227 00000 n
+0000002437 00000 n
+0000002647 00000 n
+0000002857 00000 n
+0000003067 00000 n
+0000003176 00000 n
+0000003387 00000 n
+0000003465 00000 n
+0000003579 00000 n
+0000003709 00000 n
+0000003847 00000 n
+0000003968 00000 n
+0000004090 00000 n
+0000004214 00000 n
+0000004338 00000 n
+0000004460 00000 n
+0000004592 00000 n
+0000004743 00000 n
+0000004867 00000 n
+0000004998 00000 n
+0000005147 00000 n
+0000005283 00000 n
+0000005409 00000 n
+0000005552 00000 n
+0000005692 00000 n
+0000005829 00000 n
+0000005962 00000 n
+0000006090 00000 n
+0000006214 00000 n
+0000006341 00000 n
+0000006470 00000 n
+0000006638 00000 n
+0000006762 00000 n
+0000006892 00000 n
+0000007013 00000 n
+0000007141 00000 n
+0000007275 00000 n
+0000007399 00000 n
+0000007534 00000 n
+0000007679 00000 n
+0000007797 00000 n
+0000012856 00000 n
+0000020699 00000 n
+0000029376 00000 n
+0000035020 00000 n
+0000041064 00000 n
+0000046150 00000 n
+0000051414 00000 n
+0000055946 00000 n
+0000058381 00000 n
+0000058501 00000 n
+0000058538 00000 n
+0000058575 00000 n
+0000058612 00000 n
+0000058649 00000 n
+0000058686 00000 n
+0000058723 00000 n
+0000058760 00000 n
+0000058797 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\011\241\302\273r\331\237\243\317\202\250\271\241a\272\273) (\011\241\302\273r\331\237\243\317\202\250\271\241a\272\273)]
- /Info 9 0 R /Root 8 0 R /Size 20 >>
+ [(\364\374\350g\202>X\235\246\177\2766\275[\3119) (\364\374\350g\202>X\235\246\177\2766\275[\3119)]
+ /Info 19 0 R /Root 18 0 R /Size 73 >>
 startxref
-6970
+58834
 %%EOF
