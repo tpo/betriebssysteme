@@ -73,6 +73,7 @@ Was geht?
 * ps auxw
   - was sieht man da?
   - siehe nächsten Paragraph
+* ps faux
 * ps mit eigenen Feldern
 
 Daemons, Kernel Threads
@@ -200,6 +201,7 @@ Editoren
   - Esc
   - :w
   - :q!
+* emacs
 
 Hashbang
 --------
