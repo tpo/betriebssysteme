@@ -1,0 +1,118 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R /F3 4 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+endobj
+5 0 obj
+<< /Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+6 0 obj
+<< /Outlines 10 0 R /PageLabels 11 0 R /PageMode /UseNone /Pages 8 0 R /Type /Catalog >>
+endobj
+7 0 obj
+<< /Author () /CreationDate (D:20160315084646-01'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title (Git) >>
+endobj
+8 0 obj
+<< /Count 1 /Kids [ 5 0 R ] /Type /Pages >>
+endobj
+9 0 obj
+<< /Length 2650 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 729.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 221.0549 0 Td (Git) Tj T* -221.0549 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 707.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Git dient zum versionieren von Dateien in einem Verzeichnis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 205.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 492 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 470 Tm /F3 10 Tf 12 TL ($ cd mein_zeug) Tj T* ($ git init        # Sag git, dass alles in diesem Verzeichnis) Tj T* (                  # versioniert werden soll.) Tj T*  T* (                  # Dieser Schritt erstellt nur das) Tj T* (                  # Unterverzeichnis '.git/' mit Kontrol-) Tj T* (                  # strukturen drin und hat keinen weiteren) Tj T* (                  # Seiteneffekt.) Tj T*  T* ( $ find) Tj T* ( meine_datei.txt) Tj T* ( mein_binary.exe) Tj T* ( mein_verzeichnis/) Tj T* ( mein_verzeichnis/und_noch_eine.txt) Tj T*  T* ( $ git add *      # git pflegt eine Liste von Dateien, welche zu) Tj T* (                  # einem "Commit" geh\366ren. Dieser Befehl f\374gt) Tj T* (                  # alle Dateien und Unter-Verzeichnisse dieser) Tj T* (                  # Liste hinzu...) Tj T*  T* (                  # Ein "Commit" sind \304nderungen, welche zusammen etwas) Tj T* (                  # bewirken.) Tj T*  T* ( $ git commit *   # hier sagt man git: "bitte speichere all die ge\344nderten) Tj T* (                  # Dateien und Verzeichnisse welche ich Dir angegeben habe) Tj T* (                  # als eine grosse \304nderung". Git fragt einen danach noch) Tj T* (                  # nach einem \304nderungstext \(prosa Beschreibung der) Tj T* (                  # \304nderungen\).) Tj T*  T* (                  # Eine Kopie der ge\344nderten Dateien wird nun in) Tj T* (                  # .git/objects abgespeichert.) Tj T*  T* ( # nun arbeite ich an meinen Dateien...) Tj T*  T* ( $ edit meine_datei.txt mein_binary.exe) Tj T*  T* ( # ... und sobald ich zufrieden mit dem \(Zwischen\)Resultat bin ...) Tj T*  T* ( $ git add meine_datei.txt mein_binary.exe) Tj T* ( $ git commit meine_datei.txt mein_binary.exe) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 197.8236 cm
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 153.4149 0 Td (T.Posp\355\232ek, MAS: Betriebssysteme, Git) Tj T* -153.4149 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 233.9949 0 Td (1/1) Tj T* -233.9949 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+10 0 obj
+<< /Count 0 /Type /Outlines >>
+endobj
+11 0 obj
+<< /Nums [ 0 12 0 R ] >>
+endobj
+12 0 obj
+<< /S /D /St 1 >>
+endobj
+xref
+0 13
+0000000000 65535 f
+0000000075 00000 n
+0000000129 00000 n
+0000000239 00000 n
+0000000354 00000 n
+0000000462 00000 n
+0000000669 00000 n
+0000000776 00000 n
+0000000989 00000 n
+0000001051 00000 n
+0000003757 00000 n
+0000003807 00000 n
+0000003851 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(D3\235\3240h_\322\356\030\261\237"\273\001\335) (D3\235\3240h_\322\356\030\261\237"\273\001\335)]
+ /Info 7 0 R /Root 6 0 R /Size 13 >>
+startxref
+3888
+%%EOF

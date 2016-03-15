@@ -1,0 +1,47 @@
+Git
+===
+
+Git dient zum versionieren von Dateien in einem Verzeichnis
+
+::
+
+        $ cd mein_zeug
+        $ git init        # Sag git, dass alles in diesem Verzeichnis
+                          # versioniert werden soll.
+                      
+                          # Dieser Schritt erstellt nur das
+                          # Unterverzeichnis '.git/' mit Kontrol-
+                          # strukturen drin und hat keinen weiteren
+                          # Seiteneffekt.
+
+         $ find
+         meine_datei.txt
+         mein_binary.exe
+         mein_verzeichnis/
+         mein_verzeichnis/und_noch_eine.txt
+
+         $ git add *      # git pflegt eine Liste von Dateien, welche zu
+                          # einem "Commit" gehören. Dieser Befehl fügt
+                          # alle Dateien und Unter-Verzeichnisse dieser
+                          # Liste hinzu...
+
+                          # Ein "Commit" sind Änderungen, welche zusammen etwas
+                          # bewirken.
+
+         $ git commit *   # hier sagt man git: "bitte speichere all die geänderten
+                          # Dateien und Verzeichnisse welche ich Dir angegeben habe
+                          # als eine grosse Änderung". Git fragt einen danach noch
+                          # nach einem Änderungstext (prosa Beschreibung der
+                          # Änderungen).
+
+                          # Eine Kopie der geänderten Dateien wird nun in
+                          # .git/objects abgespeichert.
+
+         # nun arbeite ich an meinen Dateien...
+        
+         $ edit meine_datei.txt mein_binary.exe
+
+         # ... und sobald ich zufrieden mit dem (Zwischen)Resultat bin ...
+
+         $ git add meine_datei.txt mein_binary.exe
+         $ git commit meine_datei.txt mein_binary.exe
