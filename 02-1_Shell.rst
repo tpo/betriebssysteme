@@ -63,7 +63,7 @@ Varianten von Anzeigen
 Logs
 ----
 * /var/log
-  - system
+  - syslog
   - kern
 
 Was geht?

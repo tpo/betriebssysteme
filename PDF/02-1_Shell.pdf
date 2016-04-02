@@ -46,7 +46,7 @@ endobj
 << /Outlines 15 0 R /PageLabels 54 0 R /PageMode /UseNone /Pages 47 0 R /Type /Catalog >>
 endobj
 14 0 obj
-<< /Author () /CreationDate (D:20160304232412-01'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+<< /Author () /CreationDate (D:20160315084409-01'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
   /Title (Arbeiten in der Shell \(Bash\)) >>
 endobj
 15 0 obj
@@ -942,7 +942,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (/var/log - system - kern) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (/var/log - syslog - kern) Tj T* ET
 Q
 Q
 q
@@ -3730,7 +3730,7 @@ xref
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(P\343\356\367?l\316\312g\220\243\256R1\207\322) (P\343\356\367?l\316\312g\220\243\256R1\207\322)]
+ [(\177.\374@\346\204\016\312\273\261\344\343\0373y\273) (\177.\374@\346\204\016\312\273\261\344\343\0373y\273)]
  /Info 14 0 R /Root 13 0 R /Size 61 >>
 startxref
 54933
