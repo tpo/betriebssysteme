@@ -15,6 +15,8 @@ Demo
 * cdist
 * System Center
 * DISM
+* Empirum
+* Altiris
 * usw.
 
 Ziele bzw. Vorzüge
