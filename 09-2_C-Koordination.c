@@ -38,7 +38,7 @@ void essen( pfanne_t* pfanne_p)   {
  *----------------------------------------*/
 void arbeiten()
 {
-  printf("Papa: Working on the coalmine...");
+  printf("Papa: Working in the coal mine...");
   printf("done\n");
 }
 
@@ -52,15 +52,14 @@ void* papa_aktivitaet( void* pfanne_vp)
 
   /* kochen */
 
-  /* pfanne nehmen */
-  /* zu wenig abstrahiert? */
-  pthread_mutex_lock( &pfanne_p->zugriff);
+    /* pfanne nehmen - zu wenig abstrahiert? */
+    pthread_mutex_lock( &pfanne_p->zugriff);
 
-    kochen( pfanne_p);
-    pthread_cond_signal( &pfanne_p->essen_bereit);
-     
-  /* pfanne hinlegen*/
-  pthread_mutex_unlock( &pfanne_p->zugriff);
+      kochen( pfanne_p);
+      pthread_cond_signal( &pfanne_p->essen_bereit);
+       
+    /* pfanne hinlegen*/
+    pthread_mutex_unlock( &pfanne_p->zugriff);
 }
 
 /* pfanne_vp muss ein pfanne_t* sein */
