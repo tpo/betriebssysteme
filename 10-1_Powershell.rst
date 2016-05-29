@@ -4,6 +4,14 @@ Powershell
 Basierend auf dem "Powershell Tutorial":http://www.powershellpro.com/powershell-tutorial-introduction/
 von Jesse Hamrick.
 
+Ausführungsumgebung
+===================
+
+Man kann diese Beispiele entweder in der Powershell oder im ise (Integrated Scripting Environment) ausführen.
+
+Grundsätzliche Syntax
+=====================
+
 * Output sind Objekte und nicht Text (im Gegensatz zu Unix Shells!)
 * Kommandos sind `CmdLets`
 
@@ -14,6 +22,8 @@ von Jesse Hamrick.
                           # andere z.B. Add, Clear, New, and Set
     Get-Command -Type CmdLet ¦ sort-object noun ¦ format-table -group noun
 
+Command ist typischerweise ein Nomen!
+
 einfaches I/O
 =============
 
@@ -21,7 +31,7 @@ einfaches I/O
 
   > echo "Bitte gib was ein"
   > $ret = Read-Host
-  > Write-Host "Danke" # gleich wie echo
+  > Write-Host "Danke: $ret" # gleich wie echo
 
 Mehrzeilige Kommandos
 =====================
@@ -113,7 +123,7 @@ Objekte
 * Get-Service ¦ Get-Member -MemberType Method
 * Get-ChildItem -Path C:\\ -Recurse ¦ Where-Object {$_.LastWriteTime -gt “2015-04-18″}
 
-  * Where-Object iteriert über Objekte, bei denen die Bedingung zutrifft
+  * Where-Object filtert Objekte heraus, bei denen die Bedingung zutrifft
   * siehe:
 
     * Get-ChildItem ¦ Get-Member
