@@ -13,22 +13,32 @@ cd
 --
 * cd DIR
 * cd ..
+* cd ~
 
 ls
 --
 * ls
+* Farbe
 * ls -l
+* ls -latr
 * man ls - siehe Paragraph "man"
+* tree
+  - siehe Paketverwaltung
  
 Pfad-Vervollständigung ("globing")
 ----------------------------------
 
-* *
+::
+
+    *
+    **/*.c
 
 man
 ---
 * man man
-* man -w -a man
+* man -w -a
+* man -l
+* sections
 
 Docu
 ----
@@ -37,12 +47,17 @@ Docu
 Dateien anzeigen
 ----------------
 * cat
+* cat -n
 * less
+* less -r
 
 Varianten von Anzeigen
 ----------------------
+* tac
 * tail
-* tail -f /var/log
+  - tail -f
+  - tail -f mit mehreren dateien
+  - tail -n
 * head
 
 Logs
@@ -53,14 +68,20 @@ Logs
 
 Was geht?
 ---------
-* ps faux
+* ps
+* ps -ef
+* ps auxw
   - was sieht man da?
   - siehe nächsten Paragraph
+* ps faux
 * ps mit eigenen Feldern
 
 Daemons, Kernel Threads
 -----------------------
 * [
+* pstree
+* pstree -a -n
+* ps mit eigenen Feldern
 * /etc/init.d
 * /etc/init
 * /etc/systemd/system
@@ -81,7 +102,12 @@ Dateien finden
 Sachen in Dateien finden
 ------------------------
 * grep
+* grep -C
+* grep --color
 * man 7 regex
+* grep -r
+* grep -R
+* ack
 
 Paketverwaltung
 ---------------
@@ -94,7 +120,7 @@ Paketverwaltung
 * apt-get install
 * apt-get remove
 * aptitude
-* rpm/yum->dnf
+* yum/rpm
 
 Tab Completion
 --------------
@@ -113,37 +139,54 @@ Command Options
 
   - dpkg --install
 
-* sub-commands
+* commands
 
   - apt-get install
+
+Kommando-Alias
+--------------
+
+* alias
+
+  - alias cdx="cd irgendwo"
+  - ~/.bashrc
+  - ~/.bash_aliases
+  - Nachteile
+
+    * kein Pfad
+    * kann nicht von anderen Scripts verwendet werden
 
 Umleiten
 --------
 * >
 * <
-* 2>
+* >>
+* 2>&1
+* &>
 * |
 
 Iterieren
 ---------
 * ls | while read x; do
 * for i in 1 2 3; do
+* for i in `seq 1 10`; do
+
+Quoting
+-------
+* for in in `seq 1 10`
+* for in in $( seq 1 10 )
+* "$foo"
+  - foo="a b"
+* `$foo`
+* '$foo'
+* '\''
+* Space als Separator
 
 Variablen
 ---------
 * A=7
 * a=7
 * a="a b c"
-
-Quoting
--------
-* for i in `seq 1 10`
-* for i in $( seq 1 10 )
-* "$foo"
-  - foo="a b"
-* '$foo'
-* '\''
-* Space als Separator
 
 Scripte Schreiben
 -----------------
@@ -154,9 +197,11 @@ Editoren
 * nano
 * vim
   - i
+  - r
   - Esc
   - :w
   - :q!
+* emacs
 
 Hashbang
 --------
@@ -164,22 +209,21 @@ Hashbang
 
 Filesystem Layout
 -----------------
-* tree -L 1 /
-
-    /etc
-    /bin, /usr, /lib, /boot
-    /var
-    /mnt
-    /media
-    /dev
-    /sys
-    /proc
-    /proc/id
-    /home
-    ~/.dotfiles
-    ~/.config
-    ~/.cache
-    ~/.local -> daten
+* /etc
+* /bin, /usr, /lib, /boot
+* /run
+* /var
+* /mnt
+* /media
+* /dev
+* /sys
+* /proc
+* /proc/id
+* /home
+* ~/.dotfiles
+* ~/.config
+* ~/.cache
+* ~/.local -> daten
 
 Skript anschauen
 ----------------
