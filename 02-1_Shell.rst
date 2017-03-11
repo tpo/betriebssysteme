@@ -18,7 +18,7 @@ ls
 --
 * ls
 * ls -l
-* man ls - siehe Paragraph "man"
+* man ls   # siehe Paragraph "man"
  
 Pfad-Vervollständigung ("globing")
 ----------------------------------
@@ -55,14 +55,13 @@ Was geht?
 ---------
 * ps faux
   - was sieht man da?
-  - siehe nächsten Paragraph
+    - [
 * ps mit eigenen Feldern
 
 Daemons, Kernel Threads
 -----------------------
-* [
 * /etc/init.d
-* /etc/init
+* /etc/init     # upstart
 * /etc/systemd/system
 
 Speicher und Prozesse
