@@ -55,7 +55,7 @@ Was geht?
 ---------
 * ps faux
   - was sieht man da?
-    - [
+  - [
 * ps mit eigenen Feldern
 
 Daemons, Kernel Threads
