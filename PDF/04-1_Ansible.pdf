@@ -1,7 +1,7 @@
 %PDF-1.4
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
 1 0 obj
-<< /F1 2 0 R /F2 3 0 R >>
+<< /F1 2 0 R /F2 3 0 R /F3 4 0 R >>
 endobj
 2 0 obj
 << /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
@@ -10,71 +10,74 @@ endobj
 << /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
 endobj
 4 0 obj
-<< /A << /S /URI /Type /Action /URI (http://docs.ansible.com/) >> /Border [ 0 0 0 ] /Rect [ 85.69291 296.7736 532.5827 308.7736 ] /Subtype /Link /Type /Annot >>
+<< /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
 endobj
 5 0 obj
-<< /Annots [ 4 0 R ] /Contents 24 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 23 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
-  /Trans <<  >> /Type /Page >>
+<< /A << /S /URI /Type /Action /URI (http://docs.ansible.com/) >> /Border [ 0 0 0 ] /Rect [ 85.69291 263.5736 532.5827 275.5736 ] /Subtype /Link /Type /Annot >>
 endobj
 6 0 obj
-<< /A << /S /URI /Type /Action /URI (http://docs.ansible.com/file_module.html) >> /Border [ 0 0 0 ] /Rect [ 289.3929 633.7736 467.2429 645.7736 ] /Subtype /Link /Type /Annot >>
-endobj
-7 0 obj
-<< /Annots [ 6 0 R ] /Contents 25 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 23 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+<< /Annots [ 5 0 R ] /Contents 25 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 24 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
   /Trans <<  >> /Type /Page >>
 endobj
+7 0 obj
+<< /A << /S /URI /Type /Action /URI (http://docs.ansible.com/file_module.html) >> /Border [ 0 0 0 ] /Rect [ 289.3929 591.7736 467.2429 603.7736 ] /Subtype /Link /Type /Annot >>
+endobj
 8 0 obj
-<< /Outlines 10 0 R /PageLabels 26 0 R /PageMode /UseNone /Pages 23 0 R /Type /Catalog >>
+<< /Annots [ 7 0 R ] /Contents 26 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 24 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
 endobj
 9 0 obj
-<< /Author () /CreationDate (D:20160315084409-01'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
-  /Title (Ansible) >>
+<< /Outlines 11 0 R /PageLabels 27 0 R /PageMode /UseNone /Pages 24 0 R /Type /Catalog >>
 endobj
 10 0 obj
-<< /Count 13 /First 11 0 R /Last 22 0 R /Type /Outlines >>
+<< /Author () /CreationDate (D:20170318085024-01'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title (Ansible) >>
 endobj
 11 0 obj
-<< /Dest [ 5 0 R /XYZ 62.69291 695.0236 0 ] /Next 12 0 R /Parent 10 0 R /Title (Demo) >>
+<< /Count 13 /First 12 0 R /Last 23 0 R /Type /Outlines >>
 endobj
 12 0 obj
-<< /Dest [ 5 0 R /XYZ 62.69291 638.0236 0 ] /Next 13 0 R /Parent 10 0 R /Prev 11 0 R /Title (\344hnliche Werkzeuge) >>
+<< /Dest [ 6 0 R /XYZ 62.69291 695.0236 0 ] /Next 13 0 R /Parent 11 0 R /Title (Demo) >>
 endobj
 13 0 obj
-<< /Dest [ 5 0 R /XYZ 62.69291 455.0236 0 ] /Next 14 0 R /Parent 10 0 R /Prev 12 0 R /Title (Ziele bzw. Vorz\374ge) >>
+<< /Dest [ 6 0 R /XYZ 62.69291 604.8236 0 ] /Next 14 0 R /Parent 11 0 R /Prev 12 0 R /Title (\344hnliche Werkzeuge) >>
 endobj
 14 0 obj
-<< /Dest [ 5 0 R /XYZ 62.69291 344.0236 0 ] /Next 15 0 R /Parent 10 0 R /Prev 13 0 R /Title (Dokumentation) >>
+<< /Dest [ 6 0 R /XYZ 62.69291 421.8236 0 ] /Next 15 0 R /Parent 11 0 R /Prev 13 0 R /Title (Ziele bzw. Vorz\374ge) >>
 endobj
 15 0 obj
-<< /Dest [ 5 0 R /XYZ 62.69291 287.0236 0 ] /Next 16 0 R /Parent 10 0 R /Prev 14 0 R /Title (Setup) >>
+<< /Dest [ 6 0 R /XYZ 62.69291 310.8236 0 ] /Next 16 0 R /Parent 11 0 R /Prev 14 0 R /Title (Dokumentation) >>
 endobj
 16 0 obj
-<< /Count 2 /Dest [ 5 0 R /XYZ 62.69291 236.0236 0 ] /First 17 0 R /Last 18 0 R /Next 19 0 R /Parent 10 0 R 
-  /Prev 15 0 R /Title (Ansible Layout) >>
+<< /Dest [ 6 0 R /XYZ 62.69291 253.8236 0 ] /Next 17 0 R /Parent 11 0 R /Prev 15 0 R /Title (Setup) >>
 endobj
 17 0 obj
-<< /Dest [ 5 0 R /XYZ 62.69291 179.0236 0 ] /Next 18 0 R /Parent 16 0 R /Title (hosts) >>
+<< /Count 2 /Dest [ 6 0 R /XYZ 62.69291 202.8236 0 ] /First 18 0 R /Last 19 0 R /Next 20 0 R /Parent 11 0 R 
+  /Prev 16 0 R /Title (Ansible Layout) >>
 endobj
 18 0 obj
-<< /Dest [ 7 0 R /XYZ 62.69291 753.0236 0 ] /Parent 16 0 R /Prev 17 0 R /Title (roles) >>
+<< /Dest [ 6 0 R /XYZ 62.69291 145.8236 0 ] /Next 19 0 R /Parent 17 0 R /Title (hosts) >>
 endobj
 19 0 obj
-<< /Dest [ 7 0 R /XYZ 62.69291 699.0236 0 ] /Next 20 0 R /Parent 10 0 R /Prev 16 0 R /Title (Tasks) >>
+<< /Dest [ 8 0 R /XYZ 62.69291 711.0236 0 ] /Parent 17 0 R /Prev 18 0 R /Title (roles) >>
 endobj
 20 0 obj
-<< /Dest [ 7 0 R /XYZ 62.69291 624.0236 0 ] /Next 21 0 R /Parent 10 0 R /Prev 19 0 R /Title (Weitere Features) >>
+<< /Dest [ 8 0 R /XYZ 62.69291 657.0236 0 ] /Next 21 0 R /Parent 11 0 R /Prev 17 0 R /Title (Tasks) >>
 endobj
 21 0 obj
-<< /Dest [ 7 0 R /XYZ 62.69291 531.0236 0 ] /Next 22 0 R /Parent 10 0 R /Prev 20 0 R /Title (Modi) >>
+<< /Dest [ 8 0 R /XYZ 62.69291 582.0236 0 ] /Next 22 0 R /Parent 11 0 R /Prev 20 0 R /Title (Weitere Features) >>
 endobj
 22 0 obj
-<< /Dest [ 7 0 R /XYZ 62.69291 438.0236 0 ] /Parent 10 0 R /Prev 21 0 R /Title (Erweiterungen) >>
+<< /Dest [ 8 0 R /XYZ 62.69291 489.0236 0 ] /Next 23 0 R /Parent 11 0 R /Prev 21 0 R /Title (Modi) >>
 endobj
 23 0 obj
-<< /Count 2 /Kids [ 5 0 R 7 0 R ] /Type /Pages >>
+<< /Dest [ 8 0 R /XYZ 62.69291 396.0236 0 ] /Parent 11 0 R /Prev 22 0 R /Title (Erweiterungen) >>
 endobj
 24 0 obj
-<< /Length 8032 >>
+<< /Count 2 /Kids [ 6 0 R 8 0 R ] /Type /Pages >>
+endobj
+25 0 obj
+<< /Length 7235 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -97,49 +100,40 @@ BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Demo) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 662.0236 cm
+1 0 0 1 62.69291 616.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
 Q
-q
-1 0 0 1 62.69291 662.0236 cm
-Q
-q
-1 0 0 1 62.69291 650.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (ansible-playbook setup.yml) Tj T* ET
+BT 1 0 0 1 0 26 Tm /F3 10 Tf 12 TL ($ cd ansible_demo) Tj T* ($ export ANSIBLE_CONFIG=$\(pwd\)/ansible.cfg) Tj T* ($ ansible-playbook site.yml) Tj T* ET
 Q
 Q
-q
 Q
 Q
-q
-1 0 0 1 62.69291 650.0236 cm
 Q
 q
-1 0 0 1 62.69291 617.0236 cm
+1 0 0 1 62.69291 583.8236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (\344hnliche Werkzeuge) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 605.0236 cm
+1 0 0 1 62.69291 571.8236 cm
 Q
 q
-1 0 0 1 62.69291 605.0236 cm
+1 0 0 1 62.69291 571.8236 cm
 Q
 q
-1 0 0 1 62.69291 593.0236 cm
+1 0 0 1 62.69291 559.8236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -160,10 +154,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 587.0236 cm
+1 0 0 1 62.69291 553.8236 cm
 Q
 q
-1 0 0 1 62.69291 575.0236 cm
+1 0 0 1 62.69291 541.8236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -184,10 +178,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 569.0236 cm
+1 0 0 1 62.69291 535.8236 cm
 Q
 q
-1 0 0 1 62.69291 557.0236 cm
+1 0 0 1 62.69291 523.8236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -208,10 +202,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 551.0236 cm
+1 0 0 1 62.69291 517.8236 cm
 Q
 q
-1 0 0 1 62.69291 539.0236 cm
+1 0 0 1 62.69291 505.8236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -232,10 +226,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 533.0236 cm
+1 0 0 1 62.69291 499.8236 cm
 Q
 q
-1 0 0 1 62.69291 521.0236 cm
+1 0 0 1 62.69291 487.8236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -256,10 +250,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 515.0236 cm
+1 0 0 1 62.69291 481.8236 cm
 Q
 q
-1 0 0 1 62.69291 503.0236 cm
+1 0 0 1 62.69291 469.8236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -280,10 +274,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 497.0236 cm
+1 0 0 1 62.69291 463.8236 cm
 Q
 q
-1 0 0 1 62.69291 485.0236 cm
+1 0 0 1 62.69291 451.8236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -304,10 +298,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 479.0236 cm
+1 0 0 1 62.69291 445.8236 cm
 Q
 q
-1 0 0 1 62.69291 467.0236 cm
+1 0 0 1 62.69291 433.8236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -328,22 +322,22 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 467.0236 cm
+1 0 0 1 62.69291 433.8236 cm
 Q
 q
-1 0 0 1 62.69291 434.0236 cm
+1 0 0 1 62.69291 400.8236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Ziele bzw. Vorz\374ge) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 422.0236 cm
+1 0 0 1 62.69291 388.8236 cm
 Q
 q
-1 0 0 1 62.69291 422.0236 cm
+1 0 0 1 62.69291 388.8236 cm
 Q
 q
-1 0 0 1 62.69291 410.0236 cm
+1 0 0 1 62.69291 376.8236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -364,10 +358,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 404.0236 cm
+1 0 0 1 62.69291 370.8236 cm
 Q
 q
-1 0 0 1 62.69291 392.0236 cm
+1 0 0 1 62.69291 358.8236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -388,10 +382,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 386.0236 cm
+1 0 0 1 62.69291 352.8236 cm
 Q
 q
-1 0 0 1 62.69291 374.0236 cm
+1 0 0 1 62.69291 340.8236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -412,10 +406,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 368.0236 cm
+1 0 0 1 62.69291 334.8236 cm
 Q
 q
-1 0 0 1 62.69291 356.0236 cm
+1 0 0 1 62.69291 322.8236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -436,22 +430,22 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 356.0236 cm
+1 0 0 1 62.69291 322.8236 cm
 Q
 q
-1 0 0 1 62.69291 323.0236 cm
+1 0 0 1 62.69291 289.8236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Dokumentation) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 311.0236 cm
+1 0 0 1 62.69291 277.8236 cm
 Q
 q
-1 0 0 1 62.69291 311.0236 cm
+1 0 0 1 62.69291 277.8236 cm
 Q
 q
-1 0 0 1 62.69291 299.0236 cm
+1 0 0 1 62.69291 265.8236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -473,35 +467,35 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 299.0236 cm
+1 0 0 1 62.69291 265.8236 cm
 Q
 q
-1 0 0 1 62.69291 266.0236 cm
+1 0 0 1 62.69291 232.8236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Setup) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 248.0236 cm
+1 0 0 1 62.69291 214.8236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (siehe ansible_demo/README.md) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 215.0236 cm
+1 0 0 1 62.69291 181.8236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Ansible Layout) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 203.0236 cm
+1 0 0 1 62.69291 169.8236 cm
 Q
 q
-1 0 0 1 62.69291 203.0236 cm
+1 0 0 1 62.69291 169.8236 cm
 Q
 q
-1 0 0 1 62.69291 191.0236 cm
+1 0 0 1 62.69291 157.8236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -522,22 +516,22 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 191.0236 cm
+1 0 0 1 62.69291 157.8236 cm
 Q
 q
-1 0 0 1 62.69291 161.0236 cm
+1 0 0 1 62.69291 127.8236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (hosts) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 149.0236 cm
+1 0 0 1 62.69291 115.8236 cm
 Q
 q
-1 0 0 1 62.69291 149.0236 cm
+1 0 0 1 62.69291 115.8236 cm
 Q
 q
-1 0 0 1 62.69291 137.0236 cm
+1 0 0 1 62.69291 103.8236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -558,10 +552,31 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 131.0236 cm
+1 0 0 1 62.69291 97.82362 cm
 Q
 q
-1 0 0 1 62.69291 119.0236 cm
+1 0 0 1 56.69291 773.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 143.4099 0 Td (T.Posp\355\232ek, MAS: Betriebssysteme, Ansible) Tj T* -143.4099 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 233.9949 0 Td (1/2) Tj T* -233.9949 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+26 0 obj
+<< /Length 5549 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -582,10 +597,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 113.0236 cm
+1 0 0 1 62.69291 735.0236 cm
 Q
 q
-1 0 0 1 62.69291 101.0236 cm
+1 0 0 1 62.69291 723.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -606,43 +621,22 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 101.0236 cm
+1 0 0 1 62.69291 723.0236 cm
 Q
 q
-1 0 0 1 56.69291 773.1969 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 143.4099 0 Td (T.Posp\355\232ek, MAS: Betriebssysteme, Ansible) Tj T* -143.4099 0 Td ET
-Q
-Q
-q
-1 0 0 1 56.69291 56.69291 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 233.9949 0 Td (1/2) Tj T* -233.9949 0 Td ET
-Q
-Q
- 
-endstream
-endobj
-25 0 obj
-<< /Length 4804 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 62.69291 735.0236 cm
+1 0 0 1 62.69291 693.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (roles) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 723.0236 cm
+1 0 0 1 62.69291 681.0236 cm
 Q
 q
-1 0 0 1 62.69291 723.0236 cm
+1 0 0 1 62.69291 681.0236 cm
 Q
 q
-1 0 0 1 62.69291 711.0236 cm
+1 0 0 1 62.69291 669.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -663,22 +657,22 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 711.0236 cm
+1 0 0 1 62.69291 669.0236 cm
 Q
 q
-1 0 0 1 62.69291 678.0236 cm
+1 0 0 1 62.69291 636.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Tasks) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 666.0236 cm
+1 0 0 1 62.69291 624.0236 cm
 Q
 q
-1 0 0 1 62.69291 666.0236 cm
+1 0 0 1 62.69291 624.0236 cm
 Q
 q
-1 0 0 1 62.69291 654.0236 cm
+1 0 0 1 62.69291 612.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -699,10 +693,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 648.0236 cm
+1 0 0 1 62.69291 606.0236 cm
 Q
 q
-1 0 0 1 62.69291 636.0236 cm
+1 0 0 1 62.69291 594.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -722,22 +716,22 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 636.0236 cm
+1 0 0 1 62.69291 594.0236 cm
 Q
 q
-1 0 0 1 62.69291 603.0236 cm
+1 0 0 1 62.69291 561.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Weitere Features) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 591.0236 cm
+1 0 0 1 62.69291 549.0236 cm
 Q
 q
-1 0 0 1 62.69291 591.0236 cm
+1 0 0 1 62.69291 549.0236 cm
 Q
 q
-1 0 0 1 62.69291 579.0236 cm
+1 0 0 1 62.69291 537.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -758,10 +752,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 573.0236 cm
+1 0 0 1 62.69291 531.0236 cm
 Q
 q
-1 0 0 1 62.69291 561.0236 cm
+1 0 0 1 62.69291 519.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -782,10 +776,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 555.0236 cm
+1 0 0 1 62.69291 513.0236 cm
 Q
 q
-1 0 0 1 62.69291 543.0236 cm
+1 0 0 1 62.69291 501.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -806,22 +800,22 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 543.0236 cm
+1 0 0 1 62.69291 501.0236 cm
 Q
 q
-1 0 0 1 62.69291 510.0236 cm
+1 0 0 1 62.69291 468.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Modi) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 498.0236 cm
+1 0 0 1 62.69291 456.0236 cm
 Q
 q
-1 0 0 1 62.69291 498.0236 cm
+1 0 0 1 62.69291 456.0236 cm
 Q
 q
-1 0 0 1 62.69291 486.0236 cm
+1 0 0 1 62.69291 444.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -842,10 +836,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 480.0236 cm
+1 0 0 1 62.69291 438.0236 cm
 Q
 q
-1 0 0 1 62.69291 468.0236 cm
+1 0 0 1 62.69291 426.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -866,10 +860,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 462.0236 cm
+1 0 0 1 62.69291 420.0236 cm
 Q
 q
-1 0 0 1 62.69291 450.0236 cm
+1 0 0 1 62.69291 408.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -890,22 +884,22 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 450.0236 cm
+1 0 0 1 62.69291 408.0236 cm
 Q
 q
-1 0 0 1 62.69291 417.0236 cm
+1 0 0 1 62.69291 375.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Erweiterungen) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 405.0236 cm
+1 0 0 1 62.69291 363.0236 cm
 Q
 q
-1 0 0 1 62.69291 405.0236 cm
+1 0 0 1 62.69291 363.0236 cm
 Q
 q
-1 0 0 1 62.69291 393.0236 cm
+1 0 0 1 62.69291 351.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -925,10 +919,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 393.0236 cm
+1 0 0 1 62.69291 351.0236 cm
 Q
 q
-1 0 0 1 62.69291 393.0236 cm
+1 0 0 1 62.69291 351.0236 cm
 Q
 q
 1 0 0 1 56.69291 773.1969 cm
@@ -947,51 +941,52 @@ Q
  
 endstream
 endobj
-26 0 obj
-<< /Nums [ 0 27 0 R 1 28 0 R ] >>
-endobj
 27 0 obj
-<< /S /D /St 1 >>
+<< /Nums [ 0 28 0 R 1 29 0 R ] >>
 endobj
 28 0 obj
+<< /S /D /St 1 >>
+endobj
+29 0 obj
 << /S /D /St 2 >>
 endobj
 xref
-0 29
+0 30
 0000000000 65535 f
 0000000075 00000 n
-0000000119 00000 n
-0000000229 00000 n
-0000000344 00000 n
-0000000523 00000 n
-0000000750 00000 n
-0000000945 00000 n
-0000001172 00000 n
-0000001280 00000 n
-0000001497 00000 n
-0000001575 00000 n
-0000001683 00000 n
-0000001821 00000 n
-0000001959 00000 n
-0000002089 00000 n
-0000002211 00000 n
-0000002382 00000 n
-0000002491 00000 n
-0000002600 00000 n
-0000002722 00000 n
-0000002855 00000 n
-0000002976 00000 n
-0000003093 00000 n
-0000003162 00000 n
-0000011251 00000 n
-0000016112 00000 n
-0000016165 00000 n
-0000016202 00000 n
+0000000129 00000 n
+0000000239 00000 n
+0000000354 00000 n
+0000000462 00000 n
+0000000641 00000 n
+0000000868 00000 n
+0000001063 00000 n
+0000001290 00000 n
+0000001398 00000 n
+0000001616 00000 n
+0000001694 00000 n
+0000001802 00000 n
+0000001940 00000 n
+0000002078 00000 n
+0000002208 00000 n
+0000002330 00000 n
+0000002501 00000 n
+0000002610 00000 n
+0000002719 00000 n
+0000002841 00000 n
+0000002974 00000 n
+0000003095 00000 n
+0000003212 00000 n
+0000003281 00000 n
+0000010573 00000 n
+0000016179 00000 n
+0000016232 00000 n
+0000016269 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\342\210\342\016-\313\343@\377\013\327\177\261~\236\376) (\342\210\342\016-\313\343@\377\013\327\177\261~\236\376)]
- /Info 9 0 R /Root 8 0 R /Size 29 >>
+ [(\(\006\207\372\177=\263\273\262\246\376W\251\344\305&) (\(\006\207\372\177=\263\273\262\246\376W\251\344\305&)]
+ /Info 10 0 R /Root 9 0 R /Size 30 >>
 startxref
-16239
+16306
 %%EOF
