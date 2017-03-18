@@ -5,7 +5,12 @@ Ansible ist ein Konfigurations- und Deployment-Automatisierungs-Werkzeug.
 
 Demo
 ----
-* ansible-playbook setup.yml
+
+::
+
+    $ cd ansible_demo
+    $ export ANSIBLE_CONFIG=$(pwd)/ansible.cfg
+    $ ansible-playbook site.yml
 
 ähnliche Werkzeuge
 ------------------
