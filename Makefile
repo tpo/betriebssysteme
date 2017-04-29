@@ -7,9 +7,9 @@
 TMP := $(shell mktemp -d /tmp/MAS_LibreOffice_to_PDF.XXXXXX)
 
 #ODP_FILES := $(wildcard *.odp) # will include symlinks, which we don't want
-ODP_FILES := $(shell find . -maxdepth 1 -name "*.odp" -type f -printf "%f\n")
-RST_FILES := $(shell find . -maxdepth 1 -name "*.rst" -type f -printf "%f\n")
-SYM_FILES := $(shell find . -maxdepth 1 \( -name "*.rst" -o -name "*.odp" \) -type l -printf "%f\n")
+ODP_FILES := $(shell find . -maxdepth 2 -name "*.odp" -type f)
+RST_FILES := $(shell find . -maxdepth 2 -name "*.rst" -type f)
+SYM_FILES := $(shell find . -maxdepth 2 \( -name "*.rst" -o -name "*.odp" \) -type l)
 
 OPDF_FILES := $(patsubst %.odp,PDF/%.pdf,$(ODP_FILES))
 RPDF_FILES := $(patsubst %.rst,PDF/%.pdf,$(RST_FILES))
@@ -17,6 +17,10 @@ SPDF_FILES := $(patsubst %.rst,PDF/%.pdf,$(patsubst %.odp,PDF/%.pdf,$(SYM_FILES)
 
 PDF/%.pdf: %.odp
 	libreoffice -env:UserInstallation=file://$(TMP) --headless --invisible --convert-to pdf --outdir PDF "$<"
+	# libreoffice will put the generated file directly into outdir, lets move it where it belongs
+	# this only needs to be done for files in optional/ -> PDF/optional
+	output_file=`echo $@|sed 's#./optional/##'`; \
+	mv $$output_file $@
 
 PDF/%.pdf: %.rst
 	rst2pdf --header "T.Pospíšek, MAS: Betriebssysteme, ###Title###" --footer "###Page###/###Total###" "$<" -o "$@"
