@@ -20,7 +20,8 @@ PDF/%.pdf: %.odp
 	# libreoffice will put the generated file directly into outdir, lets move it where it belongs
 	# this only needs to be done for files in optional/ -> PDF/optional
 	output_file=`echo $@|sed 's#./optional/##'`; \
-	mv $$output_file $@
+	[ "$$output_file" != "$@" ] && mv $$output_file $@; \
+	true
 
 PDF/%.pdf: %.rst
 	rst2pdf --header "T.Pospíšek, MAS: Betriebssysteme, ###Title###" --footer "###Page###/###Total###" "$<" -o "$@"
