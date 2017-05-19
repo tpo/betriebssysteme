@@ -19,7 +19,7 @@ Kernel anpassen
 
 * Abhängikeiten des Kernel Builds installieren:
 
-  * apt-get install ncurses-dev pkg-config bc gcc libc6-dev make bzip2 binutils
+  * apt-get install ncurses-dev pkg-config bc gcc libc6-dev make bzip2 binutils dpkg-dev
 
 * Kernel konfigurieren
 
