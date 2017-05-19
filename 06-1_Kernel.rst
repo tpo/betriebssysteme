@@ -30,10 +30,10 @@ Kernel anpassen
 * vim +432 arch/x86/boot/compressed/misc.c # Meldung frei anpassen
 * Debian Paket des Kernels bauen
 
-  * make deb-pkg
+  * als root: make deb-pkg
   * dauert lange
 
-* neuen Kernel in VM kopieren
+* wenn nötig neuen Kernel in VM hineinkopieren
 
   * Parameter des folgenden Kommandos müssen an lokale Gegebenheiten
     angepasst werden:
@@ -42,6 +42,8 @@ Kernel anpassen
 
 * neuen Kernel in VM installieren
 
-  * ssh -p 1234567 root@localhost "dpkg -i /tmp/linux-image-3.19.3_3.19.3-1_amd64.deb"
+  * cd /dorthin_wo_linux-image-3.19.3_3.19.3-1_amd64.deb_ist
+    (entweder unter /tmp oder ../)
+  * dpkg -i linux-image-3.19.3_3.19.3-1_amd64.deb
 
 * VM neustarten

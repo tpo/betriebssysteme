@@ -13,24 +13,21 @@ endobj
 << /A << /S /URI /Type /Action /URI (https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.19.3.tar.xz) >> /Border [ 0 0 0 ] /Rect [ 132.5929 623.7736 407.1429 635.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 5 0 obj
-<< /A << /S /URI /Type /Action /URI (mailto:root@localhost) >> /Border [ 0 0 0 ] /Rect [ 180.4029 281.7736 250.0229 293.7736 ] /Subtype /Link /Type /Annot >>
-endobj
-6 0 obj
-<< /Annots [ 4 0 R 5 0 R ] /Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 9 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+<< /Annots [ 4 0 R ] /Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
   /Trans <<  >> /Type /Page >>
 endobj
-7 0 obj
-<< /Outlines 11 0 R /PageLabels 12 0 R /PageMode /UseNone /Pages 9 0 R /Type /Catalog >>
+6 0 obj
+<< /Outlines 10 0 R /PageLabels 11 0 R /PageMode /UseNone /Pages 8 0 R /Type /Catalog >>
 endobj
-8 0 obj
-<< /Author () /CreationDate (D:20160227084922-01'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+7 0 obj
+<< /Author () /CreationDate (D:20170519203211-01'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
   /Title (Kernel anpassen) >>
 endobj
-9 0 obj
-<< /Count 1 /Kids [ 6 0 R ] /Type /Pages >>
+8 0 obj
+<< /Count 1 /Kids [ 5 0 R ] /Type /Pages >>
 endobj
-10 0 obj
-<< /Length 9526 >>
+9 0 obj
+<< /Length 9859 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -502,7 +499,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (make deb-pkg) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (als root: make deb-pkg) Tj T* ET
 Q
 Q
 q
@@ -556,7 +553,7 @@ q
 1 0 0 1 23 33 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (neuen Kernel in VM kopieren) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (wenn n\366tig neuen Kernel in VM hineinkopieren) Tj T* ET
 Q
 Q
 q
@@ -620,25 +617,49 @@ q
 1 0 0 1 62.69291 317.0236 cm
 Q
 q
-1 0 0 1 62.69291 287.0236 cm
+1 0 0 1 62.69291 269.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 15 cm
+1 0 0 1 6 33 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 15 cm
+1 0 0 1 23 33 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (neuen Kernel in VM installieren) Tj T* ET
 Q
 Q
 q
-1 0 0 1 23 9 cm
+1 0 0 1 23 27 cm
+Q
+q
+1 0 0 1 23 27 cm
+Q
+q
+1 0 0 1 23 15 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (cd /dorthin_wo_linux-image-3.19.3_3.19.3-1_amd64.deb_ist \(entweder unter /tmp oder ../\)) Tj T* ET
+Q
+Q
+q
+Q
 Q
 q
 1 0 0 1 23 9 cm
@@ -657,7 +678,8 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (ssh -p 1234567 ) Tj 0 0 .501961 rg (root@localhost ) Tj 0 0 0 rg ("dpkg -i /tmp/linux-image-3.19.3_3.19.3-1_amd64.deb") Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (dpkg -i linux-image-3.19.3_3.19.3-1_amd64.deb) Tj T* ET
 Q
 Q
 q
@@ -670,10 +692,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 281.0236 cm
+1 0 0 1 62.69291 263.0236 cm
 Q
 q
-1 0 0 1 62.69291 269.0236 cm
+1 0 0 1 62.69291 251.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -694,10 +716,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 269.0236 cm
+1 0 0 1 62.69291 251.0236 cm
 Q
 q
-1 0 0 1 62.69291 269.0236 cm
+1 0 0 1 62.69291 251.0236 cm
 Q
 q
 1 0 0 1 56.69291 773.1969 cm
@@ -716,36 +738,35 @@ Q
  
 endstream
 endobj
-11 0 obj
+10 0 obj
 << /Count 0 /Type /Outlines >>
 endobj
-12 0 obj
-<< /Nums [ 0 13 0 R ] >>
+11 0 obj
+<< /Nums [ 0 12 0 R ] >>
 endobj
-13 0 obj
+12 0 obj
 << /S /D /St 1 >>
 endobj
 xref
-0 14
+0 13
 0000000000 65535 f
 0000000075 00000 n
 0000000119 00000 n
 0000000229 00000 n
 0000000344 00000 n
 0000000563 00000 n
-0000000739 00000 n
-0000000971 00000 n
-0000001078 00000 n
-0000001303 00000 n
-0000001365 00000 n
-0000010948 00000 n
-0000010998 00000 n
-0000011042 00000 n
+0000000788 00000 n
+0000000895 00000 n
+0000001120 00000 n
+0000001182 00000 n
+0000011097 00000 n
+0000011147 00000 n
+0000011191 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\250\031\203\2428\335\300\307\206D\270^\001\237}\204) (\250\031\203\2428\335\300\307\206D\270^\001\237}\204)]
- /Info 8 0 R /Root 7 0 R /Size 14 >>
+ [(l\246?\031\254\3531\023O\332\243\361\310\332\207\370) (l\246?\031\254\3531\023O\332\243\361\310\332\207\370)]
+ /Info 7 0 R /Root 6 0 R /Size 13 >>
 startxref
-11079
+11228
 %%EOF
