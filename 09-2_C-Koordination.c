@@ -16,6 +16,11 @@ struct pfanne_s {
 
 typedef struct pfanne_s pfanne_t;
 
+void was_machen( char* text) {
+  printf(text);
+  sleep(2);
+}
+
 void init_pfanne( pfanne_t* pfanne_p)
 {
   pfanne_p->inhalt = LEER;
@@ -24,11 +29,13 @@ void init_pfanne( pfanne_t* pfanne_p)
 }
 
 void kochen( pfanne_t* pfanne_p)   {
+  was_machen( "Papa: Kocht...\n");
   pfanne_p->inhalt = ESSEN;
   printf( "Papa: Essen ist fertig!\n");
 }
 
 void essen( pfanne_t* pfanne_p)   {
+  was_machen( "Kind: Isst...\n");
   pfanne_p->inhalt = LEER;
   printf( "Kind: Mmmh, das war lecker!\n");
 }
@@ -38,11 +45,14 @@ void essen( pfanne_t* pfanne_p)   {
  *----------------------------------------*/
 void arbeiten()
 {
-  printf("Papa: Working in the coal mine...");
-  printf("done\n");
+  was_machen("Papa: Working in the coal mine...\n");
+  printf("Papa: Arbeit fertig\n");
 }
 
-void spielen()  {}
+void spielen()  {
+  was_machen("Kind: Ich spiele...\n");
+  printf("Kind: Mir ist langweilig. Spiel fertig.\n");
+}
 
 /* pfanne_vp muss ein pfanne_t* sein */
 void* papa_aktivitaet( void* pfanne_vp)
