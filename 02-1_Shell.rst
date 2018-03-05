@@ -86,14 +86,20 @@ Sachen in Dateien finden
 Paketverwaltung
 ---------------
 * http://packages.debian.org
-* | dpkg -i         | rpm -i                   |
-* | dpkg -P         |                          |
-* | dpkg -r         | rpm -e                   |
-* | dpkg -s         | rpm -qi                  |
-* | dpkg -S         | rpm -qf                  |
-* | dpkg -L         | rpm -ql                  |
-* | apt-get install | yum install / yum update |
-* | apt-get remove  | yum remove               |
+
+================  =========================
+Debian/Ubuntu...  RedHat/Fedora/SuSE/...
+================  =========================
+dpkg -i           rpm -i                    
+dpkg -P                                     
+dpkg -r           rpm -e                    
+dpkg -s           rpm -qi                   
+dpkg -S           rpm -qf                   
+dpkg -L           rpm -ql                   
+apt-get install   yum install / yum update  
+apt-get remove    yum remove                
+================  =========================
+
 * aptitude
 * rpm/yum->dnf
 
