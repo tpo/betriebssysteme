@@ -10,131 +10,135 @@ endobj
 << /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
 endobj
 4 0 obj
-<< /Contents 44 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 43 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 45 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 44 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 5 0 obj
-<< /A << /S /URI /Type /Action /URI (http://packages.debian.org) >> /Border [ 0 0 0 ] /Rect [ 85.69291 159.7736 532.5827 171.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://packages.debian.org) >> /Border [ 0 0 0 ] /Rect [ 85.69291 141.7736 203.5429 153.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 6 0 obj
-<< /Annots [ 5 0 R ] /Contents 45 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 43 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+<< /Annots [ 5 0 R ] /Contents 46 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 44 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
   /Trans <<  >> /Type /Page >>
 endobj
 7 0 obj
-<< /Contents 46 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 43 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 47 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 44 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 8 0 obj
 << /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
 endobj
 9 0 obj
-<< /Contents 47 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 43 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 48 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 44 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 10 0 obj
-<< /Outlines 12 0 R /PageLabels 48 0 R /PageMode /UseNone /Pages 43 0 R /Type /Catalog >>
+<< /Contents 49 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 44 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
 endobj
 11 0 obj
-<< /Author () /CreationDate (D:20170311084657-01'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
-  /Title (Arbeiten in der Shell \(Bash\)) >>
+<< /Outlines 13 0 R /PageLabels 50 0 R /PageMode /UseNone /Pages 44 0 R /Type /Catalog >>
 endobj
 12 0 obj
-<< /Count 30 /First 13 0 R /Last 42 0 R /Type /Outlines >>
+<< /Author () /CreationDate (D:20180305090140-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20180305090140-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Arbeiten in der Shell \(Bash\)) /Trapped /False >>
 endobj
 13 0 obj
-<< /Dest [ 4 0 R /XYZ 62.69291 717.0236 0 ] /Next 14 0 R /Parent 12 0 R /Title (verschiedene Shells) >>
+<< /Count 30 /First 14 0 R /Last 43 0 R /Type /Outlines >>
 endobj
 14 0 obj
-<< /Dest [ 4 0 R /XYZ 62.69291 588.0236 0 ] /Next 15 0 R /Parent 12 0 R /Prev 13 0 R /Title (cd) >>
+<< /Dest [ 4 0 R /XYZ 62.69291 717.0236 0 ] /Next 15 0 R /Parent 13 0 R /Title (verschiedene Shells) >>
 endobj
 15 0 obj
-<< /Dest [ 4 0 R /XYZ 62.69291 513.0236 0 ] /Next 16 0 R /Parent 12 0 R /Prev 14 0 R /Title (ls) >>
+<< /Dest [ 4 0 R /XYZ 62.69291 588.0236 0 ] /Next 16 0 R /Parent 13 0 R /Prev 14 0 R /Title (cd) >>
 endobj
 16 0 obj
-<< /Dest [ 4 0 R /XYZ 62.69291 420.0236 0 ] /Next 17 0 R /Parent 12 0 R /Prev 15 0 R /Title (Pfad-Vervollst\344ndigung \("globing"\)) >>
+<< /Dest [ 4 0 R /XYZ 62.69291 513.0236 0 ] /Next 17 0 R /Parent 13 0 R /Prev 15 0 R /Title (ls) >>
 endobj
 17 0 obj
-<< /Dest [ 4 0 R /XYZ 62.69291 357.0236 0 ] /Next 18 0 R /Parent 12 0 R /Prev 16 0 R /Title (man) >>
+<< /Dest [ 4 0 R /XYZ 62.69291 420.0236 0 ] /Next 18 0 R /Parent 13 0 R /Prev 16 0 R /Title (Pfad-Vervollst\344ndigung \("globing"\)) >>
 endobj
 18 0 obj
-<< /Dest [ 4 0 R /XYZ 62.69291 282.0236 0 ] /Next 19 0 R /Parent 12 0 R /Prev 17 0 R /Title (Docu) >>
+<< /Dest [ 4 0 R /XYZ 62.69291 357.0236 0 ] /Next 19 0 R /Parent 13 0 R /Prev 17 0 R /Title (man) >>
 endobj
 19 0 obj
-<< /Dest [ 4 0 R /XYZ 62.69291 225.0236 0 ] /Next 20 0 R /Parent 12 0 R /Prev 18 0 R /Title (Dateien anzeigen) >>
+<< /Dest [ 4 0 R /XYZ 62.69291 282.0236 0 ] /Next 20 0 R /Parent 13 0 R /Prev 18 0 R /Title (Docu) >>
 endobj
 20 0 obj
-<< /Dest [ 4 0 R /XYZ 62.69291 150.0236 0 ] /Next 21 0 R /Parent 12 0 R /Prev 19 0 R /Title (Varianten von Anzeigen) >>
+<< /Dest [ 4 0 R /XYZ 62.69291 225.0236 0 ] /Next 21 0 R /Parent 13 0 R /Prev 19 0 R /Title (Dateien anzeigen) >>
 endobj
 21 0 obj
-<< /Dest [ 6 0 R /XYZ 62.69291 711.0236 0 ] /Next 22 0 R /Parent 12 0 R /Prev 20 0 R /Title (Logs) >>
+<< /Dest [ 4 0 R /XYZ 62.69291 150.0236 0 ] /Next 22 0 R /Parent 13 0 R /Prev 20 0 R /Title (Varianten von Anzeigen) >>
 endobj
 22 0 obj
-<< /Dest [ 6 0 R /XYZ 62.69291 654.0236 0 ] /Next 23 0 R /Parent 12 0 R /Prev 21 0 R /Title (Was geht?) >>
+<< /Dest [ 6 0 R /XYZ 62.69291 711.0236 0 ] /Next 23 0 R /Parent 13 0 R /Prev 21 0 R /Title (Logs) >>
 endobj
 23 0 obj
-<< /Dest [ 6 0 R /XYZ 62.69291 579.0236 0 ] /Next 24 0 R /Parent 12 0 R /Prev 22 0 R /Title (Daemons, Kernel Threads) >>
+<< /Dest [ 6 0 R /XYZ 62.69291 654.0236 0 ] /Next 24 0 R /Parent 13 0 R /Prev 22 0 R /Title (Was geht?) >>
 endobj
 24 0 obj
-<< /Dest [ 6 0 R /XYZ 62.69291 486.0236 0 ] /Next 25 0 R /Parent 12 0 R /Prev 23 0 R /Title (Speicher und Prozesse) >>
+<< /Dest [ 6 0 R /XYZ 62.69291 579.0236 0 ] /Next 25 0 R /Parent 13 0 R /Prev 23 0 R /Title (Daemons, Kernel Threads) >>
 endobj
 25 0 obj
-<< /Dest [ 6 0 R /XYZ 62.69291 411.0236 0 ] /Next 26 0 R /Parent 12 0 R /Prev 24 0 R /Title (Dateien finden) >>
+<< /Dest [ 6 0 R /XYZ 62.69291 468.0236 0 ] /Next 26 0 R /Parent 13 0 R /Prev 24 0 R /Title (Speicher und Prozesse) >>
 endobj
 26 0 obj
-<< /Dest [ 6 0 R /XYZ 62.69291 282.0236 0 ] /Next 27 0 R /Parent 12 0 R /Prev 25 0 R /Title (Sachen in Dateien finden) >>
+<< /Dest [ 6 0 R /XYZ 62.69291 393.0236 0 ] /Next 27 0 R /Parent 13 0 R /Prev 25 0 R /Title (Dateien finden) >>
 endobj
 27 0 obj
-<< /Dest [ 6 0 R /XYZ 62.69291 207.0236 0 ] /Next 28 0 R /Parent 12 0 R /Prev 26 0 R /Title (Paketverwaltung) >>
+<< /Dest [ 6 0 R /XYZ 62.69291 264.0236 0 ] /Next 28 0 R /Parent 13 0 R /Prev 26 0 R /Title (Sachen in Dateien finden) >>
 endobj
 28 0 obj
-<< /Dest [ 7 0 R /XYZ 62.69291 657.0236 0 ] /Next 29 0 R /Parent 12 0 R /Prev 27 0 R /Title (Tab Completion) >>
+<< /Dest [ 6 0 R /XYZ 62.69291 189.0236 0 ] /Next 29 0 R /Parent 13 0 R /Prev 27 0 R /Title (Paketverwaltung) >>
 endobj
 29 0 obj
-<< /Dest [ 7 0 R /XYZ 62.69291 546.0236 0 ] /Next 30 0 R /Parent 12 0 R /Prev 28 0 R /Title (Command Options) >>
+<< /Dest [ 7 0 R /XYZ 62.69291 579.0236 0 ] /Next 30 0 R /Parent 13 0 R /Prev 28 0 R /Title (Tab Completion) >>
 endobj
 30 0 obj
-<< /Dest [ 7 0 R /XYZ 62.69291 399.0236 0 ] /Next 31 0 R /Parent 12 0 R /Prev 29 0 R /Title (Umleiten) >>
+<< /Dest [ 7 0 R /XYZ 62.69291 468.0236 0 ] /Next 31 0 R /Parent 13 0 R /Prev 29 0 R /Title (Command Options) >>
 endobj
 31 0 obj
-<< /Dest [ 7 0 R /XYZ 62.69291 282.0236 0 ] /Next 32 0 R /Parent 12 0 R /Prev 30 0 R /Title (Iterieren) >>
+<< /Dest [ 7 0 R /XYZ 62.69291 321.0236 0 ] /Next 32 0 R /Parent 13 0 R /Prev 30 0 R /Title (Umleiten) >>
 endobj
 32 0 obj
-<< /Dest [ 7 0 R /XYZ 62.69291 207.0236 0 ] /Next 33 0 R /Parent 12 0 R /Prev 31 0 R /Title (Variablen) >>
+<< /Dest [ 7 0 R /XYZ 62.69291 204.0236 0 ] /Next 33 0 R /Parent 13 0 R /Prev 31 0 R /Title (Iterieren) >>
 endobj
 33 0 obj
-<< /Dest [ 7 0 R /XYZ 62.69291 114.0236 0 ] /Next 34 0 R /Parent 12 0 R /Prev 32 0 R /Title (Quoting) >>
+<< /Dest [ 7 0 R /XYZ 62.69291 129.0236 0 ] /Next 34 0 R /Parent 13 0 R /Prev 32 0 R /Title (Variablen) >>
 endobj
 34 0 obj
-<< /Dest [ 9 0 R /XYZ 62.69291 633.0236 0 ] /Next 35 0 R /Parent 12 0 R /Prev 33 0 R /Title (Scripte Schreiben) >>
+<< /Dest [ 9 0 R /XYZ 62.69291 693.0236 0 ] /Next 35 0 R /Parent 13 0 R /Prev 33 0 R /Title (Quoting) >>
 endobj
 35 0 obj
-<< /Dest [ 9 0 R /XYZ 62.69291 576.0236 0 ] /Next 36 0 R /Parent 12 0 R /Prev 34 0 R /Title (Editoren) >>
+<< /Dest [ 9 0 R /XYZ 62.69291 546.0236 0 ] /Next 36 0 R /Parent 13 0 R /Prev 34 0 R /Title (Scripte Schreiben) >>
 endobj
 36 0 obj
-<< /Dest [ 9 0 R /XYZ 62.69291 501.0236 0 ] /Next 37 0 R /Parent 12 0 R /Prev 35 0 R /Title (Hashbang) >>
+<< /Dest [ 9 0 R /XYZ 62.69291 489.0236 0 ] /Next 37 0 R /Parent 13 0 R /Prev 35 0 R /Title (Editoren) >>
 endobj
 37 0 obj
-<< /Dest [ 9 0 R /XYZ 62.69291 444.0236 0 ] /Next 38 0 R /Parent 12 0 R /Prev 36 0 R /Title (Filesystem Layout) >>
+<< /Dest [ 9 0 R /XYZ 62.69291 414.0236 0 ] /Next 38 0 R /Parent 13 0 R /Prev 36 0 R /Title (Hashbang) >>
 endobj
 38 0 obj
-<< /Dest [ 9 0 R /XYZ 62.69291 357.0236 0 ] /Next 39 0 R /Parent 12 0 R /Prev 37 0 R /Title (Skript anschauen) >>
+<< /Dest [ 9 0 R /XYZ 62.69291 357.0236 0 ] /Next 39 0 R /Parent 13 0 R /Prev 37 0 R /Title (Filesystem Layout) >>
 endobj
 39 0 obj
-<< /Dest [ 9 0 R /XYZ 62.69291 300.0236 0 ] /Next 40 0 R /Parent 12 0 R /Prev 38 0 R /Title (SSH) >>
+<< /Dest [ 9 0 R /XYZ 62.69291 270.0236 0 ] /Next 40 0 R /Parent 13 0 R /Prev 38 0 R /Title (Skript anschauen) >>
 endobj
 40 0 obj
-<< /Dest [ 9 0 R /XYZ 62.69291 225.0236 0 ] /Next 41 0 R /Parent 12 0 R /Prev 39 0 R /Title (sed) >>
+<< /Dest [ 9 0 R /XYZ 62.69291 213.0236 0 ] /Next 41 0 R /Parent 13 0 R /Prev 39 0 R /Title (SSH) >>
 endobj
 41 0 obj
-<< /Dest [ 9 0 R /XYZ 62.69291 192.0236 0 ] /Next 42 0 R /Parent 12 0 R /Prev 40 0 R /Title (awk, perl) >>
+<< /Dest [ 9 0 R /XYZ 62.69291 138.0236 0 ] /Next 42 0 R /Parent 13 0 R /Prev 40 0 R /Title (sed) >>
 endobj
 42 0 obj
-<< /Dest [ 9 0 R /XYZ 62.69291 159.0236 0 ] /Parent 12 0 R /Prev 41 0 R /Title (Othogonalit\344t) >>
+<< /Dest [ 10 0 R /XYZ 62.69291 753.0236 0 ] /Next 43 0 R /Parent 13 0 R /Prev 41 0 R /Title (awk, perl) >>
 endobj
 43 0 obj
-<< /Count 4 /Kids [ 4 0 R 6 0 R 7 0 R 9 0 R ] /Type /Pages >>
+<< /Dest [ 10 0 R /XYZ 62.69291 720.0236 0 ] /Parent 13 0 R /Prev 42 0 R /Title (Othogonalit\344t) >>
 endobj
 44 0 obj
+<< /Count 5 /Kids [ 4 0 R 6 0 R 7 0 R 9 0 R 10 0 R ] /Type /Pages >>
+endobj
+45 0 obj
 << /Length 7641 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -683,14 +687,14 @@ q
 1 0 0 1 56.69291 56.69291 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 233.9949 0 Td (1/4) Tj T* -233.9949 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 233.9949 0 Td (1/5) Tj T* -233.9949 0 Td ET
 Q
 Q
  
 endstream
 endobj
-45 0 obj
-<< /Length 8786 >>
+46 0 obj
+<< /Length 8910 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -919,22 +923,46 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 498.0236 cm
+1 0 0 1 62.69291 492.0236 cm
 Q
 q
-1 0 0 1 62.69291 465.0236 cm
+1 0 0 1 62.69291 480.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (systemctl list-units) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 480.0236 cm
+Q
+q
+1 0 0 1 62.69291 447.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Speicher und Prozesse) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 453.0236 cm
+1 0 0 1 62.69291 435.0236 cm
 Q
 q
-1 0 0 1 62.69291 453.0236 cm
+1 0 0 1 62.69291 435.0236 cm
 Q
 q
-1 0 0 1 62.69291 441.0236 cm
+1 0 0 1 62.69291 423.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -955,10 +983,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 435.0236 cm
+1 0 0 1 62.69291 417.0236 cm
 Q
 q
-1 0 0 1 62.69291 423.0236 cm
+1 0 0 1 62.69291 405.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -972,47 +1000,23 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (top) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (top \(htop, atop\)) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 423.0236 cm
+1 0 0 1 62.69291 405.0236 cm
 Q
 q
-1 0 0 1 62.69291 390.0236 cm
+1 0 0 1 62.69291 372.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Dateien finden) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 378.0236 cm
-Q
-q
-1 0 0 1 62.69291 378.0236 cm
-Q
-q
-1 0 0 1 62.69291 366.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (find) Tj T* ET
-Q
-Q
-q
-Q
+1 0 0 1 62.69291 360.0236 cm
 Q
 q
 1 0 0 1 62.69291 360.0236 cm
@@ -1032,7 +1036,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (find -exec) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (find) Tj T* ET
 Q
 Q
 q
@@ -1056,7 +1060,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (man find) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (find -exec) Tj T* ET
 Q
 Q
 q
@@ -1080,7 +1084,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (find -newer) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (man find) Tj T* ET
 Q
 Q
 q
@@ -1104,29 +1108,17 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (find -type) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (find -newer) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 294.0236 cm
+1 0 0 1 62.69291 288.0236 cm
 Q
 q
-1 0 0 1 62.69291 261.0236 cm
-q
-BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Sachen in Dateien finden) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 249.0236 cm
-Q
-q
-1 0 0 1 62.69291 249.0236 cm
-Q
-q
-1 0 0 1 62.69291 237.0236 cm
+1 0 0 1 62.69291 276.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1140,17 +1132,53 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (grep) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (find -type) Tj T* ET
 Q
 Q
 q
+Q
+Q
+q
+1 0 0 1 62.69291 276.0236 cm
+Q
+q
+1 0 0 1 62.69291 243.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Sachen in Dateien finden) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 231.0236 cm
 Q
 q
+1 0 0 1 62.69291 231.0236 cm
+Q
+q
 1 0 0 1 62.69291 219.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (grep \(ack\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 213.0236 cm
+Q
+q
+1 0 0 1 62.69291 201.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1171,22 +1199,22 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 219.0236 cm
+1 0 0 1 62.69291 201.0236 cm
 Q
 q
-1 0 0 1 62.69291 186.0236 cm
+1 0 0 1 62.69291 168.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Paketverwaltung) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 174.0236 cm
+1 0 0 1 62.69291 156.0236 cm
 Q
 q
-1 0 0 1 62.69291 174.0236 cm
+1 0 0 1 62.69291 156.0236 cm
 Q
 q
-1 0 0 1 62.69291 162.0236 cm
+1 0 0 1 62.69291 144.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1208,103 +1236,70 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 156.0236 cm
+1 0 0 1 62.69291 144.0236 cm
 Q
 q
-1 0 0 1 62.69291 144.0236 cm
+1 0 0 1 62.69291 138.0236 cm
+Q
+q
+1 0 0 1 62.69291 102.0236 cm
+1 1 1 rg
+n 0 36 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 18 469.8898 -18 re f*
+.960784 .960784 .862745 rg
+n 0 36 469.8898 -18 re f*
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 -3 cm
+1 0 0 1 6 21 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 171.3716 12 re f*
+Q
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 48.16581 0 Td (Debian/Ubuntu...) Tj T* -48.16581 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 -3 cm
+1 0 0 1 189.3716 21 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 274.5181 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 83.34407 0 Td (RedHat/Fedora/SuSE/...) Tj T* -83.34407 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (dpkg -i) Tj T* ET
 Q
 Q
 q
-Q
-Q
-q
-1 0 0 1 62.69291 138.0236 cm
-Q
-q
-1 0 0 1 62.69291 126.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
+1 0 0 1 189.3716 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (rpm -i) Tj T* ET
 Q
 Q
 q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (dpkg -P) Tj T* ET
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 0 m 469.8898 0 l S
+n 0 18 m 469.8898 18 l S
+n 183.3716 0 m 183.3716 36 l S
+n 0 36 m 469.8898 36 l S
+n 0 0 m 0 36 l S
+n 469.8898 0 m 469.8898 36 l S
 Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 120.0236 cm
-Q
-q
-1 0 0 1 62.69291 108.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (dpkg -r) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 102.0236 cm
-Q
-q
-1 0 0 1 62.69291 90.02362 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (dpkg -S) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 88.86614 cm
 Q
 q
 1 0 0 1 56.69291 773.1969 cm
@@ -1317,90 +1312,154 @@ q
 1 0 0 1 56.69291 56.69291 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 233.9949 0 Td (2/4) Tj T* -233.9949 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 233.9949 0 Td (2/5) Tj T* -233.9949 0 Td ET
 Q
 Q
  
 endstream
 endobj
-46 0 obj
-<< /Length 9172 >>
+47 0 obj
+<< /Length 9262 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 741.0236 cm
+1 0 0 1 62.69291 627.0236 cm
+1 1 1 rg
+n 0 126 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 108 469.8898 -18 re f*
+1 1 1 rg
+n 0 90 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 72 469.8898 -18 re f*
+1 1 1 rg
+n 0 54 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 36 469.8898 -18 re f*
+1 1 1 rg
+n 0 18 469.8898 -18 re f*
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 -3 cm
+1 0 0 1 6 111 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (dpkg -P) Tj T* ET
 Q
 Q
 q
-1 0 0 1 23 -3 cm
+1 0 0 1 6 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (dpkg -r) Tj T* ET
+Q
+Q
+q
+1 0 0 1 189.3716 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (rpm -e) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (dpkg -s) Tj T* ET
+Q
+Q
+q
+1 0 0 1 189.3716 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (rpm -qi) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (dpkg -S) Tj T* ET
+Q
+Q
+q
+1 0 0 1 189.3716 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (rpm -qf) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 39 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (dpkg -L) Tj T* ET
 Q
 Q
 q
-Q
-Q
-q
-1 0 0 1 62.69291 735.0236 cm
-Q
-q
-1 0 0 1 62.69291 723.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
+1 0 0 1 189.3716 39 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (rpm -ql) Tj T* ET
 Q
 Q
 q
-1 0 0 1 23 -3 cm
+1 0 0 1 6 21 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (apt-get install) Tj T* ET
 Q
 Q
 q
-Q
-Q
-q
-1 0 0 1 62.69291 717.0236 cm
-Q
-q
-1 0 0 1 62.69291 705.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
+1 0 0 1 189.3716 21 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (yum install / yum update) Tj T* ET
 Q
 Q
 q
-1 0 0 1 23 -3 cm
+1 0 0 1 6 3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (apt-get remove) Tj T* ET
 Q
 Q
 q
+1 0 0 1 189.3716 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (yum remove) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 699.0236 cm
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 126 m 469.8898 126 l S
+n 0 108 m 469.8898 108 l S
+n 0 90 m 469.8898 90 l S
+n 0 72 m 469.8898 72 l S
+n 0 54 m 469.8898 54 l S
+n 0 36 m 469.8898 36 l S
+n 0 18 m 469.8898 18 l S
+n 183.3716 0 m 183.3716 126 l S
+n 0 0 m 0 126 l S
+n 469.8898 0 m 469.8898 126 l S
+n 0 0 m 469.8898 0 l S
+Q
 Q
 q
-1 0 0 1 62.69291 687.0236 cm
+1 0 0 1 62.69291 627.0236 cm
+Q
+q
+1 0 0 1 62.69291 621.0236 cm
+Q
+q
+1 0 0 1 62.69291 621.0236 cm
+Q
+q
+1 0 0 1 62.69291 609.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1421,10 +1480,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 681.0236 cm
+1 0 0 1 62.69291 603.0236 cm
 Q
 q
-1 0 0 1 62.69291 669.0236 cm
+1 0 0 1 62.69291 591.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1444,22 +1503,22 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 669.0236 cm
+1 0 0 1 62.69291 591.0236 cm
 Q
 q
-1 0 0 1 62.69291 636.0236 cm
+1 0 0 1 62.69291 558.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Tab Completion) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 624.0236 cm
+1 0 0 1 62.69291 546.0236 cm
 Q
 q
-1 0 0 1 62.69291 624.0236 cm
+1 0 0 1 62.69291 546.0236 cm
 Q
 q
-1 0 0 1 62.69291 612.0236 cm
+1 0 0 1 62.69291 534.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1480,10 +1539,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 606.0236 cm
+1 0 0 1 62.69291 528.0236 cm
 Q
 q
-1 0 0 1 62.69291 594.0236 cm
+1 0 0 1 62.69291 516.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1504,10 +1563,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 588.0236 cm
+1 0 0 1 62.69291 510.0236 cm
 Q
 q
-1 0 0 1 62.69291 576.0236 cm
+1 0 0 1 62.69291 498.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1528,10 +1587,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 570.0236 cm
+1 0 0 1 62.69291 492.0236 cm
 Q
 q
-1 0 0 1 62.69291 558.0236 cm
+1 0 0 1 62.69291 480.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1552,22 +1611,22 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 558.0236 cm
+1 0 0 1 62.69291 480.0236 cm
 Q
 q
-1 0 0 1 62.69291 525.0236 cm
+1 0 0 1 62.69291 447.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Command Options) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 513.0236 cm
+1 0 0 1 62.69291 435.0236 cm
 Q
 q
-1 0 0 1 62.69291 513.0236 cm
+1 0 0 1 62.69291 435.0236 cm
 Q
 q
-1 0 0 1 62.69291 483.0236 cm
+1 0 0 1 62.69291 405.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1618,10 +1677,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 477.0236 cm
+1 0 0 1 62.69291 399.0236 cm
 Q
 q
-1 0 0 1 62.69291 447.0236 cm
+1 0 0 1 62.69291 369.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1672,10 +1731,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 441.0236 cm
+1 0 0 1 62.69291 363.0236 cm
 Q
 q
-1 0 0 1 62.69291 411.0236 cm
+1 0 0 1 62.69291 333.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1726,22 +1785,22 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 411.0236 cm
+1 0 0 1 62.69291 333.0236 cm
 Q
 q
-1 0 0 1 62.69291 378.0236 cm
+1 0 0 1 62.69291 300.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Umleiten) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 366.0236 cm
+1 0 0 1 62.69291 288.0236 cm
 Q
 q
-1 0 0 1 62.69291 366.0236 cm
+1 0 0 1 62.69291 288.0236 cm
 Q
 q
-1 0 0 1 62.69291 354.0236 cm
+1 0 0 1 62.69291 276.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1762,10 +1821,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 348.0236 cm
+1 0 0 1 62.69291 270.0236 cm
 Q
 q
-1 0 0 1 62.69291 336.0236 cm
+1 0 0 1 62.69291 258.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1786,10 +1845,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 330.0236 cm
+1 0 0 1 62.69291 252.0236 cm
 Q
 q
-1 0 0 1 62.69291 318.0236 cm
+1 0 0 1 62.69291 240.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1809,10 +1868,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 312.0236 cm
+1 0 0 1 62.69291 234.0236 cm
 Q
 q
-1 0 0 1 62.69291 294.0236 cm
+1 0 0 1 62.69291 216.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1839,22 +1898,22 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 294.0236 cm
+1 0 0 1 62.69291 216.0236 cm
 Q
 q
-1 0 0 1 62.69291 261.0236 cm
+1 0 0 1 62.69291 183.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Iterieren) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 249.0236 cm
+1 0 0 1 62.69291 171.0236 cm
 Q
 q
-1 0 0 1 62.69291 249.0236 cm
+1 0 0 1 62.69291 171.0236 cm
 Q
 q
-1 0 0 1 62.69291 237.0236 cm
+1 0 0 1 62.69291 159.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1875,10 +1934,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 231.0236 cm
+1 0 0 1 62.69291 153.0236 cm
 Q
 q
-1 0 0 1 62.69291 219.0236 cm
+1 0 0 1 62.69291 141.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1899,22 +1958,43 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 219.0236 cm
+1 0 0 1 62.69291 141.0236 cm
 Q
 q
-1 0 0 1 62.69291 186.0236 cm
+1 0 0 1 62.69291 108.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Variablen) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 174.0236 cm
+1 0 0 1 62.69291 96.02362 cm
 Q
 q
-1 0 0 1 62.69291 174.0236 cm
+1 0 0 1 62.69291 96.02362 cm
 Q
 q
-1 0 0 1 62.69291 162.0236 cm
+1 0 0 1 56.69291 773.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 98.66988 0 Td (T.Posp\355\232ek, MAS: Betriebssysteme, Arbeiten in der Shell \(Bash\)) Tj T* -98.66988 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 233.9949 0 Td (3/5) Tj T* -233.9949 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+48 0 obj
+<< /Length 7599 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1935,10 +2015,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 156.0236 cm
+1 0 0 1 62.69291 735.0236 cm
 Q
 q
-1 0 0 1 62.69291 144.0236 cm
+1 0 0 1 62.69291 723.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1959,10 +2039,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 138.0236 cm
+1 0 0 1 62.69291 717.0236 cm
 Q
 q
-1 0 0 1 62.69291 126.0236 cm
+1 0 0 1 62.69291 705.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1983,43 +2063,22 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 126.0236 cm
+1 0 0 1 62.69291 705.0236 cm
 Q
 q
-1 0 0 1 62.69291 93.02362 cm
+1 0 0 1 62.69291 672.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Quoting) Tj T* ET
 Q
 Q
 q
-1 0 0 1 56.69291 773.1969 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 98.66988 0 Td (T.Posp\355\232ek, MAS: Betriebssysteme, Arbeiten in der Shell \(Bash\)) Tj T* -98.66988 0 Td ET
-Q
+1 0 0 1 62.69291 660.0236 cm
 Q
 q
-1 0 0 1 56.69291 56.69291 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 233.9949 0 Td (3/4) Tj T* -233.9949 0 Td ET
-Q
-Q
- 
-endstream
-endobj
-47 0 obj
-<< /Length 7205 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 62.69291 747.0236 cm
+1 0 0 1 62.69291 660.0236 cm
 Q
 q
-1 0 0 1 62.69291 747.0236 cm
-Q
-q
-1 0 0 1 62.69291 735.0236 cm
+1 0 0 1 62.69291 648.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2039,10 +2098,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 729.0236 cm
+1 0 0 1 62.69291 642.0236 cm
 Q
 q
-1 0 0 1 62.69291 717.0236 cm
+1 0 0 1 62.69291 630.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2063,10 +2122,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 711.0236 cm
+1 0 0 1 62.69291 624.0236 cm
 Q
 q
-1 0 0 1 62.69291 699.0236 cm
+1 0 0 1 62.69291 612.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2087,10 +2146,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 693.0236 cm
+1 0 0 1 62.69291 606.0236 cm
 Q
 q
-1 0 0 1 62.69291 681.0236 cm
+1 0 0 1 62.69291 594.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2111,10 +2170,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 675.0236 cm
+1 0 0 1 62.69291 588.0236 cm
 Q
 q
-1 0 0 1 62.69291 663.0236 cm
+1 0 0 1 62.69291 576.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2135,10 +2194,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 657.0236 cm
+1 0 0 1 62.69291 570.0236 cm
 Q
 q
-1 0 0 1 62.69291 645.0236 cm
+1 0 0 1 62.69291 558.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2159,22 +2218,22 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 645.0236 cm
+1 0 0 1 62.69291 558.0236 cm
 Q
 q
-1 0 0 1 62.69291 612.0236 cm
+1 0 0 1 62.69291 525.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Scripte Schreiben) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 600.0236 cm
+1 0 0 1 62.69291 513.0236 cm
 Q
 q
-1 0 0 1 62.69291 600.0236 cm
+1 0 0 1 62.69291 513.0236 cm
 Q
 q
-1 0 0 1 62.69291 588.0236 cm
+1 0 0 1 62.69291 501.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2195,22 +2254,22 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 588.0236 cm
+1 0 0 1 62.69291 501.0236 cm
 Q
 q
-1 0 0 1 62.69291 555.0236 cm
+1 0 0 1 62.69291 468.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Editoren) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 543.0236 cm
+1 0 0 1 62.69291 456.0236 cm
 Q
 q
-1 0 0 1 62.69291 543.0236 cm
+1 0 0 1 62.69291 456.0236 cm
 Q
 q
-1 0 0 1 62.69291 531.0236 cm
+1 0 0 1 62.69291 444.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2231,10 +2290,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 525.0236 cm
+1 0 0 1 62.69291 438.0236 cm
 Q
 q
-1 0 0 1 62.69291 513.0236 cm
+1 0 0 1 62.69291 426.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2255,22 +2314,22 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 513.0236 cm
+1 0 0 1 62.69291 426.0236 cm
 Q
 q
-1 0 0 1 62.69291 480.0236 cm
+1 0 0 1 62.69291 393.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Hashbang) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 468.0236 cm
+1 0 0 1 62.69291 381.0236 cm
 Q
 q
-1 0 0 1 62.69291 468.0236 cm
+1 0 0 1 62.69291 381.0236 cm
 Q
 q
-1 0 0 1 62.69291 456.0236 cm
+1 0 0 1 62.69291 369.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2291,22 +2350,22 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 456.0236 cm
+1 0 0 1 62.69291 369.0236 cm
 Q
 q
-1 0 0 1 62.69291 423.0236 cm
+1 0 0 1 62.69291 336.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Filesystem Layout) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 411.0236 cm
+1 0 0 1 62.69291 324.0236 cm
 Q
 q
-1 0 0 1 62.69291 411.0236 cm
+1 0 0 1 62.69291 324.0236 cm
 Q
 q
-1 0 0 1 62.69291 369.0236 cm
+1 0 0 1 62.69291 282.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2347,22 +2406,22 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 369.0236 cm
+1 0 0 1 62.69291 282.0236 cm
 Q
 q
-1 0 0 1 62.69291 336.0236 cm
+1 0 0 1 62.69291 249.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Skript anschauen) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 324.0236 cm
+1 0 0 1 62.69291 237.0236 cm
 Q
 q
-1 0 0 1 62.69291 324.0236 cm
+1 0 0 1 62.69291 237.0236 cm
 Q
 q
-1 0 0 1 62.69291 312.0236 cm
+1 0 0 1 62.69291 225.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2383,22 +2442,22 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 312.0236 cm
+1 0 0 1 62.69291 225.0236 cm
 Q
 q
-1 0 0 1 62.69291 279.0236 cm
+1 0 0 1 62.69291 192.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (SSH) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 267.0236 cm
+1 0 0 1 62.69291 180.0236 cm
 Q
 q
-1 0 0 1 62.69291 267.0236 cm
+1 0 0 1 62.69291 180.0236 cm
 Q
 q
-1 0 0 1 62.69291 255.0236 cm
+1 0 0 1 62.69291 168.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2419,10 +2478,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 249.0236 cm
+1 0 0 1 62.69291 162.0236 cm
 Q
 q
-1 0 0 1 62.69291 237.0236 cm
+1 0 0 1 62.69291 150.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2443,34 +2502,55 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 237.0236 cm
+1 0 0 1 62.69291 150.0236 cm
 Q
 q
-1 0 0 1 62.69291 204.0236 cm
+1 0 0 1 62.69291 117.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (sed) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 171.0236 cm
+1 0 0 1 56.69291 773.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 98.66988 0 Td (T.Posp\355\232ek, MAS: Betriebssysteme, Arbeiten in der Shell \(Bash\)) Tj T* -98.66988 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 233.9949 0 Td (4/5) Tj T* -233.9949 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+49 0 obj
+<< /Length 1030 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 732.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (awk, perl) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 138.0236 cm
+1 0 0 1 62.69291 699.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Othogonalit\344t) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 126.0236 cm
+1 0 0 1 62.69291 687.0236 cm
 Q
 q
-1 0 0 1 62.69291 126.0236 cm
+1 0 0 1 62.69291 687.0236 cm
 Q
 q
-1 0 0 1 62.69291 114.0236 cm
+1 0 0 1 62.69291 675.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2491,10 +2571,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 114.0236 cm
+1 0 0 1 62.69291 675.0236 cm
 Q
 q
-1 0 0 1 62.69291 114.0236 cm
+1 0 0 1 62.69291 675.0236 cm
 Q
 q
 1 0 0 1 56.69291 773.1969 cm
@@ -2507,29 +2587,32 @@ q
 1 0 0 1 56.69291 56.69291 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 233.9949 0 Td (4/4) Tj T* -233.9949 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 233.9949 0 Td (5/5) Tj T* -233.9949 0 Td ET
 Q
 Q
  
 endstream
 endobj
-48 0 obj
-<< /Nums [ 0 49 0 R 1 50 0 R 2 51 0 R 3 52 0 R ] >>
-endobj
-49 0 obj
-<< /S /D /St 1 >>
-endobj
 50 0 obj
-<< /S /D /St 2 >>
+<< /Nums [ 0 51 0 R 1 52 0 R 2 53 0 R 3 54 0 R 4 55 0 R ] >>
 endobj
 51 0 obj
-<< /S /D /St 3 >>
+<< /S /D /St 1 >>
 endobj
 52 0 obj
+<< /S /D /St 2 >>
+endobj
+53 0 obj
+<< /S /D /St 3 >>
+endobj
+54 0 obj
 << /S /D /St 4 >>
 endobj
+55 0 obj
+<< /S /D /St 5 >>
+endobj
 xref
-0 53
+0 56
 0000000000 65535 f
 0000000075 00000 n
 0000000129 00000 n
@@ -2541,53 +2624,56 @@ xref
 0000001180 00000 n
 0000001298 00000 n
 0000001507 00000 n
-0000001616 00000 n
-0000001857 00000 n
-0000001935 00000 n
-0000002058 00000 n
-0000002177 00000 n
-0000002296 00000 n
-0000002452 00000 n
-0000002572 00000 n
-0000002693 00000 n
-0000002826 00000 n
-0000002965 00000 n
-0000003086 00000 n
-0000003212 00000 n
-0000003352 00000 n
-0000003490 00000 n
-0000003621 00000 n
-0000003762 00000 n
-0000003894 00000 n
-0000004025 00000 n
-0000004157 00000 n
-0000004282 00000 n
-0000004408 00000 n
-0000004534 00000 n
-0000004658 00000 n
-0000004792 00000 n
-0000004917 00000 n
-0000005042 00000 n
-0000005176 00000 n
-0000005309 00000 n
-0000005429 00000 n
-0000005549 00000 n
-0000005675 00000 n
-0000005795 00000 n
-0000005876 00000 n
-0000013574 00000 n
-0000022417 00000 n
-0000031646 00000 n
-0000038908 00000 n
-0000038979 00000 n
-0000039016 00000 n
-0000039053 00000 n
-0000039090 00000 n
+0000001717 00000 n
+0000001826 00000 n
+0000002118 00000 n
+0000002196 00000 n
+0000002319 00000 n
+0000002438 00000 n
+0000002557 00000 n
+0000002713 00000 n
+0000002833 00000 n
+0000002954 00000 n
+0000003087 00000 n
+0000003226 00000 n
+0000003347 00000 n
+0000003473 00000 n
+0000003613 00000 n
+0000003751 00000 n
+0000003882 00000 n
+0000004023 00000 n
+0000004155 00000 n
+0000004286 00000 n
+0000004418 00000 n
+0000004543 00000 n
+0000004669 00000 n
+0000004795 00000 n
+0000004919 00000 n
+0000005053 00000 n
+0000005178 00000 n
+0000005303 00000 n
+0000005437 00000 n
+0000005570 00000 n
+0000005690 00000 n
+0000005810 00000 n
+0000005937 00000 n
+0000006058 00000 n
+0000006146 00000 n
+0000013844 00000 n
+0000022811 00000 n
+0000032130 00000 n
+0000039786 00000 n
+0000040873 00000 n
+0000040953 00000 n
+0000040990 00000 n
+0000041027 00000 n
+0000041064 00000 n
+0000041101 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\3357\006\007R\335\206b\024\017 \315\261a\214\272) (\3357\006\007R\335\206b\024\017 \315\261a\214\272)]
- /Info 11 0 R /Root 10 0 R /Size 53 >>
+ [(S\347Y\246M\350\036\032\324hOj$\362RS) (S\347Y\246M\350\036\032\324hOj$\362RS)]
+ /Info 12 0 R /Root 11 0 R /Size 56 >>
 startxref
-39127
+41138
 %%EOF
