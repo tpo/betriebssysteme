@@ -63,11 +63,12 @@ Daemons, Kernel Threads
 * /etc/init.d
 * /etc/init     # upstart
 * /etc/systemd/system
+* systemctl list-units
 
 Speicher und Prozesse
 ---------------------
 * smem
-* top
+* top (htop, atop)
 
 Dateien finden
 --------------
@@ -79,19 +80,20 @@ Dateien finden
 
 Sachen in Dateien finden
 ------------------------
-* grep
+* grep (ack)
 * man 7 regex
 
 Paketverwaltung
 ---------------
 * http://packages.debian.org
-* dpkg -i
-* dpkg -P
-* dpkg -r
-* dpkg -S
-* dpkg -L
-* apt-get install
-* apt-get remove
+* | dpkg -i         | rpm -i                   |
+* | dpkg -P         |                          |
+* | dpkg -r         | rpm -e                   |
+* | dpkg -s         | rpm -qi                  |
+* | dpkg -S         | rpm -qf                  |
+* | dpkg -L         | rpm -ql                  |
+* | apt-get install | yum install / yum update |
+* | apt-get remove  | yum remove               |
 * aptitude
 * rpm/yum->dnf
 
