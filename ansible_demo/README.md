@@ -58,7 +58,7 @@ Update package list on all demo servers:
 
 Get all OS versions:
 
-    ansible demo -m setup -a filter=ansible_lsb
+    ansible demo -m setup -a "filter=ansible_distribution*"
 
 
 Use playbooks
