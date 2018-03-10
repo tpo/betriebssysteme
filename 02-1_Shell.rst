@@ -133,8 +133,8 @@ Umleiten
 
 Iterieren
 ---------
-* ls | while read x; do
-* for i in 1 2 3; do
+* ls | while read x; do irgend; was; done
+* for i in 1 2 3; do was; anderes; done
 
 Variablen
 ---------
