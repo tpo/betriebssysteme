@@ -39,7 +39,7 @@ endobj
 << /Outlines 13 0 R /PageLabels 50 0 R /PageMode /UseNone /Pages 44 0 R /Type /Catalog >>
 endobj
 12 0 obj
-<< /Author () /CreationDate (D:20180305090140-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20180305090140-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20180310083917-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20180310083917-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Arbeiten in der Shell \(Bash\)) /Trapped /False >>
 endobj
 13 0 obj
@@ -1319,7 +1319,7 @@ Q
 endstream
 endobj
 47 0 obj
-<< /Length 9262 >>
+<< /Length 9299 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1927,7 +1927,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (ls | while read x; do) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (ls | while read x; do irgend; was; done) Tj T* ET
 Q
 Q
 q
@@ -1951,7 +1951,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (for i in 1 2 3; do) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (for i in 1 2 3; do was; anderes; done) Tj T* ET
 Q
 Q
 q
@@ -2661,19 +2661,19 @@ xref
 0000006146 00000 n
 0000013844 00000 n
 0000022811 00000 n
-0000032130 00000 n
-0000039786 00000 n
-0000040873 00000 n
-0000040953 00000 n
+0000032167 00000 n
+0000039823 00000 n
+0000040910 00000 n
 0000040990 00000 n
 0000041027 00000 n
 0000041064 00000 n
 0000041101 00000 n
+0000041138 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(S\347Y\246M\350\036\032\324hOj$\362RS) (S\347Y\246M\350\036\032\324hOj$\362RS)]
+ [(\317ykh9g.9/E_\342AxD\004) (\317ykh9g.9/E_\342AxD\004)]
  /Info 12 0 R /Root 11 0 R /Size 56 >>
 startxref
-41138
+41175
 %%EOF
