@@ -1,6 +1,4 @@
-# requires 'host_name' to be set
-#
 - include: osinfo.yml
   tags: osinfo
 
-- include: default_config.yml host_name={{ host_name }}
+- include: default_config.yml

@@ -3,5 +3,5 @@
   remote_user: root
 
   tasks:
-  - name: clean up host {{ host_name }} setup
-    file: path=/tmp/{{ host_name }} state=absent
+  - name: clean up host {{ inventory_hostname }} setup
+    file: path=/tmp/{{ inventory_hostname }} state=absent

@@ -12,6 +12,5 @@
 
   tasks:
 
-    # host_name is defined in host_vars/*
     - name: install special 
-      copy: src=files/special_config dest=/tmp/{{ host_name }}/special_config
+      copy: src=files/special_config dest=/tmp/{{ inventory_hostname }}/special_config
