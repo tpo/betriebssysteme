@@ -1,4 +1,4 @@
-- include: osinfo.yml
+- import_tasks: osinfo.yml
   tags: osinfo
 
-- include: default_config.yml
+- import_tasks: default_config.yml
