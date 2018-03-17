@@ -23,7 +23,7 @@ Configuration
     #http://www.ansibleworks.com/docs/intro_configuration.html
     #Overrides /etc/ansible/ansible.cfg
     [defaults]
-    hostfile=$(pwd)/production
+    inventory=$(pwd)/production
     roles_path=$(pwd)/roles
     transport=ssh
 
