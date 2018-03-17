@@ -74,8 +74,6 @@ Weitere Features
 
 * includes
   * siehe ansible_demo/roles/common/tasks/main.yml
-* Variablen
-  * siehe auch ansible_demo/host_vars
 * Tags
   * ansible-playbook site.yml --tags=osinfo
 
