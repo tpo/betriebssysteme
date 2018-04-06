@@ -10,24 +10,28 @@ endobj
 << /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
 endobj
 4 0 obj
-<< /A << /S /URI /Type /Action /URI (https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.19.3.tar.xz) >> /Border [ 0 0 0 ] /Rect [ 132.5929 623.7736 407.1429 635.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://www.kernel.org/pub/linux/kernel/v3.x/linux-3.19.3.tar.xz) >> /Border [ 0 0 0 ] /Rect [ 132.5929 623.0236 407.1429 635.0236 ] /Subtype /Link /Type /Annot >>
 endobj
 5 0 obj
-<< /Annots [ 4 0 R ] /Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+<< /Annots [ 4 0 R ] /Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 9 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
   /Trans <<  >> /Type /Page >>
 endobj
 6 0 obj
-<< /Outlines 10 0 R /PageLabels 11 0 R /PageMode /UseNone /Pages 8 0 R /Type /Catalog >>
+<< /Contents 11 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 9 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
 endobj
 7 0 obj
-<< /Author () /CreationDate (D:20170519204605-01'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
-  /Title (Kernel anpassen) >>
+<< /Outlines 12 0 R /PageLabels 13 0 R /PageMode /UseNone /Pages 9 0 R /Type /Catalog >>
 endobj
 8 0 obj
-<< /Count 1 /Kids [ 5 0 R ] /Type /Pages >>
+<< /Author () /CreationDate (D:20180406223834-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20180406223834-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Kernel anpassen) /Trapped /False >>
 endobj
 9 0 obj
-<< /Length 9868 >>
+<< /Count 2 /Kids [ 5 0 R 6 0 R ] /Type /Pages >>
+endobj
+10 0 obj
+<< /Length 12807 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -134,7 +138,7 @@ q
 1 0 0 1 23 15 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Kernel runterladen) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Kernel runterladen. Z.B.) Tj T* ET
 Q
 Q
 q
@@ -281,7 +285,31 @@ q
 1 0 0 1 62.69291 551.0236 cm
 Q
 q
-1 0 0 1 62.69291 521.0236 cm
+1 0 0 1 62.69291 467.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 69 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 69 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Abh\344ngikeiten des Kernel Builds installieren:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 63 cm
+Q
+q
+1 0 0 1 23 63 cm
+Q
+q
+1 0 0 1 23 33 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -295,7 +323,7 @@ q
 1 0 0 1 23 15 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Abh\344ngikeiten des Kernel Builds installieren:) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (unter Debian/Ubuntu/etc.) Tj T* ET
 Q
 Q
 q
@@ -332,10 +360,94 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 515.0236 cm
+1 0 0 1 23 27 cm
 Q
 q
-1 0 0 1 62.69291 449.0236 cm
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (unter Fedora/RedHat/CentOS/etc,) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (yum install bison flex bc rpm-build bc gcc make bzip2 # nicht getestet) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 461.0236 cm
+Q
+q
+1 0 0 1 62.69291 341.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Kernel konfigurieren) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 99 cm
+Q
+q
+1 0 0 1 23 99 cm
+Q
+q
+1 0 0 1 23 33 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -349,7 +461,7 @@ q
 1 0 0 1 23 51 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Kernel konfigurieren) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (eigenen Kernel konfigurieren) Tj T* ET
 Q
 Q
 q
@@ -434,10 +546,34 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 443.0236 cm
+1 0 0 1 23 27 cm
 Q
 q
-1 0 0 1 62.69291 431.0236 cm
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (minimalen Kernel konfigurieren) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -451,17 +587,53 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (vim +432 arch/x86/boot/compressed/misc.c # Meldung frei anpassen) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (make tinyconfig) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 425.0236 cm
+1 0 0 1 23 -3 cm
 Q
 q
-1 0 0 1 62.69291 377.0236 cm
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 335.0236 cm
+Q
+q
+1 0 0 1 62.69291 269.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (vim +432 arch/x86/boot/compressed/misc.c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 45 cm
+Q
+q
+1 0 0 1 23 45 cm
+Q
+q
+1 0 0 1 23 -3 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -475,7 +647,115 @@ q
 1 0 0 1 23 33 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Debian Paket des Kernels bauen) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (folgende Zeile einf\374gen:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 27 cm
+Q
+q
+1 0 0 1 23 27 cm
+Q
+q
+1 0 0 1 23 15 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (__putstr\("done.nBooting Bumba Zumba OS.n"\);) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Meldung frei anpassen) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 263.0236 cm
+Q
+q
+1 0 0 1 62.69291 125.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Paket des Kernels bauen) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 117 cm
+Q
+q
+1 0 0 1 23 117 cm
+Q
+q
+1 0 0 1 23 69 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Debian) Tj T* ET
 Q
 Q
 q
@@ -536,34 +816,142 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 371.0236 cm
+1 0 0 1 23 63 cm
 Q
 q
-1 0 0 1 62.69291 323.0236 cm
+1 0 0 1 23 -3 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 33 cm
+1 0 0 1 6 51 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 33 cm
+1 0 0 1 23 51 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (wenn n\366tig neuen Kernel in VM hineinkopieren) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (rpm) Tj T* ET
 Q
 Q
 q
-1 0 0 1 23 27 cm
+1 0 0 1 23 45 cm
+Q
+q
+1 0 0 1 23 45 cm
+Q
+q
+1 0 0 1 23 33 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (als root: make binrpm-pkg) Tj T* ET
+Q
+Q
+q
+Q
 Q
 q
 1 0 0 1 23 27 cm
 Q
 q
 1 0 0 1 23 15 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (dauert lange) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Paket ist unter /root/rpmbuild/RPMS/$ARCH/kernel-3.19.3-1.i386.rpm) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 119.0236 cm
+Q
+q
+1 0 0 1 62.69291 94.86614 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9.15748 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 9.15748 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (wenn n\366tig neuen Kernel in VM hineinkopieren) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 3.15748 cm
+Q
+q
+1 0 0 1 23 3.15748 cm
+Q
+q
+1 0 0 1 23 -8.84252 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -584,8 +972,37 @@ q
 Q
 Q
 q
-1 0 0 1 23 9 cm
+1 0 0 1 23 -3 cm
 Q
+q
+Q
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 122.2849 0 Td (T.Posp\355\232ek, MAS: Betriebssysteme, Kernel anpassen) Tj T* -122.2849 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 233.9949 0 Td (1/2) Tj T* -233.9949 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+11 0 obj
+<< /Length 4316 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 -1 Tm  T* ET
 q
 1 0 0 1 23 -3 cm
 0 0 0 rg
@@ -614,34 +1031,34 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 317.0236 cm
+1 0 0 1 62.69291 735.0236 cm
 Q
 q
-1 0 0 1 62.69291 269.0236 cm
+1 0 0 1 62.69291 579.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 33 cm
+1 0 0 1 6 141 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 33 cm
+1 0 0 1 23 141 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (neuen Kernel in VM installieren) Tj T* ET
 Q
 Q
 q
-1 0 0 1 23 27 cm
+1 0 0 1 23 135 cm
 Q
 q
-1 0 0 1 23 27 cm
+1 0 0 1 23 135 cm
 Q
 q
-1 0 0 1 23 15 cm
+1 0 0 1 23 123 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -660,6 +1077,30 @@ Q
 Q
 q
 Q
+Q
+q
+1 0 0 1 23 117 cm
+Q
+q
+1 0 0 1 23 87 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Debian) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 9 cm
 Q
 q
 1 0 0 1 23 9 cm
@@ -692,10 +1133,148 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 263.0236 cm
+1 0 0 1 23 81 cm
 Q
 q
-1 0 0 1 62.69291 251.0236 cm
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 69 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 69 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (rpm) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 63 cm
+Q
+q
+1 0 0 1 23 63 cm
+Q
+q
+1 0 0 1 23 51 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (rpm -i kernel-4.16.0-1.i386.rpm) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 45 cm
+Q
+q
+1 0 0 1 23 15 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (vim /etc/grub.d/40_custom) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (menu entry hinzuf\374gen, analog zu /boot/grub2/grub.conf) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (grub2-mkconfig -o /boot/grub2/grub.cfg) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 573.0236 cm
+Q
+q
+1 0 0 1 62.69291 561.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -716,10 +1295,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 251.0236 cm
+1 0 0 1 62.69291 561.0236 cm
 Q
 q
-1 0 0 1 62.69291 251.0236 cm
+1 0 0 1 62.69291 561.0236 cm
 Q
 q
 1 0 0 1 56.69291 773.1969 cm
@@ -732,41 +1311,47 @@ q
 1 0 0 1 56.69291 56.69291 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 233.9949 0 Td (1/1) Tj T* -233.9949 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 233.9949 0 Td (2/2) Tj T* -233.9949 0 Td ET
 Q
 Q
  
 endstream
 endobj
-10 0 obj
+12 0 obj
 << /Count 0 /Type /Outlines >>
 endobj
-11 0 obj
-<< /Nums [ 0 12 0 R ] >>
+13 0 obj
+<< /Nums [ 0 14 0 R 1 15 0 R ] >>
 endobj
-12 0 obj
+14 0 obj
 << /S /D /St 1 >>
 endobj
+15 0 obj
+<< /S /D /St 2 >>
+endobj
 xref
-0 13
+0 16
 0000000000 65535 f
 0000000075 00000 n
 0000000119 00000 n
 0000000229 00000 n
 0000000344 00000 n
 0000000563 00000 n
-0000000788 00000 n
-0000000895 00000 n
-0000001120 00000 n
-0000001182 00000 n
-0000011106 00000 n
-0000011156 00000 n
-0000011200 00000 n
+0000000789 00000 n
+0000000997 00000 n
+0000001104 00000 n
+0000001380 00000 n
+0000001448 00000 n
+0000014313 00000 n
+0000018686 00000 n
+0000018736 00000 n
+0000018789 00000 n
+0000018826 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\232O\204\363\363\324\274\326.5d\356\253\213\3765) (\232O\204\363\363\324\274\326.5d\356\253\213\3765)]
- /Info 7 0 R /Root 6 0 R /Size 13 >>
+ [(\015\335\267\221\016\317F\212\336\304r\221\204\351\020N) (\015\335\267\221\016\317F\212\336\304r\221\204\351\020N)]
+ /Info 8 0 R /Root 7 0 R /Size 16 >>
 startxref
-11237
+18863
 %%EOF
