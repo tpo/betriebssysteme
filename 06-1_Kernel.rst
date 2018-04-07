@@ -25,7 +25,7 @@ Kernel anpassen
 
   * unter Fedora/RedHat/CentOS/etc,
 
-    * yum install bison flex bc rpm-build bc gcc make bzip2 # nicht getestet
+    * yum install bison flex bc rpm-build bc gcc make bzip2 ncurses-devel # nicht getestet
 
 * Kernel konfigurieren
 
