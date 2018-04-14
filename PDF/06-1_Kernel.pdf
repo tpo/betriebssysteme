@@ -24,14 +24,14 @@ endobj
 << /Outlines 12 0 R /PageLabels 13 0 R /PageMode /UseNone /Pages 9 0 R /Type /Catalog >>
 endobj
 8 0 obj
-<< /Author () /CreationDate (D:20180406223834-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20180406223834-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20180407102504-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20180407102504-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Kernel anpassen) /Trapped /False >>
 endobj
 9 0 obj
 << /Count 2 /Kids [ 5 0 R 6 0 R ] /Type /Pages >>
 endobj
 10 0 obj
-<< /Length 12807 >>
+<< /Length 12821 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -401,7 +401,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (yum install bison flex bc rpm-build bc gcc make bzip2 # nicht getestet) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (yum install bison flex bc rpm-build bc gcc make bzip2 ncurses-devel # nicht getestet) Tj T* ET
 Q
 Q
 q
@@ -1342,16 +1342,16 @@ xref
 0000001104 00000 n
 0000001380 00000 n
 0000001448 00000 n
-0000014313 00000 n
-0000018686 00000 n
-0000018736 00000 n
-0000018789 00000 n
-0000018826 00000 n
+0000014327 00000 n
+0000018700 00000 n
+0000018750 00000 n
+0000018803 00000 n
+0000018840 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\015\335\267\221\016\317F\212\336\304r\221\204\351\020N) (\015\335\267\221\016\317F\212\336\304r\221\204\351\020N)]
+ [(\217\322\367\352\323D\022\345W\235\036Q\013m8\374) (\217\322\367\352\323D\022\345W\235\036Q\013m8\374)]
  /Info 8 0 R /Root 7 0 R /Size 16 >>
 startxref
-18863
+18877
 %%EOF
