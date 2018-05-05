@@ -4,7 +4,7 @@ malloc, free und verkettete Listen
 malloc
 ------
 
-* malloc dient unter C der Aquisition eines Stückes Speicher,
+* malloc dient unter C der Aquisition eines Stücks Speicher,
   den man dann frei beschreiben kann
 
 * Der von malloc erhaltene Speicher liegt im *Heap*. Der Heap
@@ -18,7 +18,7 @@ free
 ----
 
 * free wird für die Rückgabe von nicht mehr gebrauchtem
-  Speichers an das System verwendet.
+  Speichers an das System (die "Runtime") verwendet.
 
 * wenn man laufend Speicher via malloc alloziiert, aber
   nie mehr via free freigibt, dann hat das System weniger
