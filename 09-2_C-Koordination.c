@@ -2,6 +2,7 @@
 
 #include <stdio.h>    /* printf */
 #include <pthread.h>  /* Thread Manipulation */
+#include <unistd.h>   /* sleep */
 
 /* -------------------------------------- *
  * Pfanne Typ und Methoden                *
