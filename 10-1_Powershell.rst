@@ -4,6 +4,8 @@ Powershell
 Basierend auf dem "Powershell Tutorial":http://www.powershellpro.com/powershell-tutorial-introduction/
 von Jesse Hamrick.
 
+(Note to self: qemu: Exit VM: Ctrl-Alt-G, Exit Fullscreen: Ctrl-Alt-F)
+
 Ausführungsumgebung
 ===================
 
@@ -282,7 +284,7 @@ Spezielle Variablen
 ===================
 
 =======  =======================================
-$_       jetziges Pipeline Objelt
+$_       jetziges Pipeline Objekt
 $Args    Argument an jetzige Methode
 $Error   letzes Fehlerobjekt
 $Home    Heimverzeichnis des aktuellen Benutzers
