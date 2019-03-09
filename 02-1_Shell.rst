@@ -37,7 +37,7 @@ Docu
 Dateien anzeigen
 ----------------
 * cat
-* less
+* less (more)
 
 Varianten von Anzeigen
 ----------------------
