@@ -96,8 +96,8 @@ dpkg -r           rpm -e
 dpkg -s           rpm -qi                   
 dpkg -S           rpm -qf                   
 dpkg -L           rpm -ql                   
-apt-get install   yum install / yum update  
-apt-get remove    yum remove                
+apt install       yum install / yum update  
+apt remove        yum remove                
 ================  =========================
 
 * aptitude
