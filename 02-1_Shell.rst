@@ -1,6 +1,8 @@
 Arbeiten in der Shell (Bash)
 ============================
 
+Warum? https://xkcd.com/1205/
+
 verschiedene Shells
 -------------------
 * bash
