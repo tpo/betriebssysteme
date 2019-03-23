@@ -9,7 +9,6 @@ Demo
 ::
 
     $ cd ansible_demo
-    $ export ANSIBLE_CONFIG=$(pwd)/ansible.cfg
     $ ansible-playbook site.yml
 
 ähnliche Werkzeuge
