@@ -22,7 +22,8 @@ Kernel anpassen
   * unter Debian/Ubuntu/etc.
 
         apt-get install ncurses-dev pkg-config bc gcc libc6-dev \
-                        make bzip2 binutils dpkg-dev flex bison
+                        make bzip2 binutils dpkg-dev flex bison \
+                        libssl-dev libelf-dev
 
   * unter Fedora/RedHat/CentOS/etc,
 
@@ -41,19 +42,26 @@ Kernel anpassen
 
         make tinyconfig
 
+  * oder, um einen Kernel entsprechend den gerade geladenen Modulen
+    machen:
+
+        make localmodconfig         # [1]
+
 * vim +421 arch/x86/boot/compressed/misc.c
 
   * folgende Zeile finden:
 
         debug_putstr("done.\nBooting the kernel.\n");
 
-  * Meldung frei anpassen
+  * In nächste Zeile eine freie Meldung reinschreiben:
+
+        warn("Hossa, mein eigenes, verbessertes OS!\n");
 
 * Paket des Kernels bauen
 
   * Debian
 
-    * als root: make deb-pkg
+    * als root: make bindeb-pkg     # [1]
     * dauert lange
 
   * rpm
@@ -88,3 +96,8 @@ Kernel anpassen
     * grub2-mkconfig -o /boot/grub2/grub.cfg
 
 * VM neustarten
+
+### Quellen:
+
+[1] https://help.ubuntu.com/community/Kernel/Compile 
+[2] https://kernel-team.pages.debian.net/kernel-handbook/
