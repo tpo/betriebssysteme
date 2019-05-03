@@ -89,7 +89,7 @@ Profile Anlegen
 Ein Profile ist ein Script, das beim Starten der PowerShell ausgeführt wird. Der Pfad
 des aktuellen Profils ist in $Profile gespeichert und kann angezeigt werden mittels:
 
-* Profile
+* echo $Profile
 
 Erstellen eines Profils:
 
