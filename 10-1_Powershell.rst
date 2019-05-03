@@ -1,7 +1,7 @@
 Powershell
 ==========
 
-Basierend auf dem "Powershell Tutorial":http://www.powershellpro.com/powershell-tutorial-introduction/
+Basierend auf dem "Powershell Tutorial":https://web.archive.org/web/20151030044959/http://www.powershellpro.com/powershell-tutorial-introduction/
 von Jesse Hamrick.
 
 (Note to self: qemu: Exit VM: Ctrl-Alt-G, Exit Fullscreen: Ctrl-Alt-F)
@@ -528,7 +528,7 @@ Um alle Methoden von 'Win32_NetworkAdapterConfiguration' anzuzeigen:
 
 Ggf. TODO
 =========
-* http://www.powershellpro.com/
+* https://web.archive.org/web/20151030044959/http://www.powershellpro.com/
   * PowerShell Scripting with WMI Part 2
   * Managing Active Directory with Windows PowerShell
 
