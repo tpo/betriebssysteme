@@ -85,7 +85,7 @@ void* kind_aktivitaet( void* pfanne_vp)
 
        while( pfanne_p->inhalt != ESSEN) {
          printf("Kind: Hunger :-(!\n");
-	 pthread_cond_wait( &pfanne_p->essen_bereit, &pfanne_p->zugriff);
+         pthread_cond_wait( &pfanne_p->essen_bereit, &pfanne_p->zugriff);
        }
        essen( pfanne_p);
         
