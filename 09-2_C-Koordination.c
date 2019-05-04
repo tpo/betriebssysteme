@@ -92,7 +92,7 @@ void* kind_aktivitaet( void* pfanne_vp)
      pthread_mutex_unlock( &pfanne_p->zugriff);
 }
 
-main() {
+int main() {
   pthread_t papa;
   pthread_t kind;
 
