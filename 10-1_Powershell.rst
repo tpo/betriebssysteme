@@ -58,6 +58,8 @@ Docu
     man -full Kommando ¦ format-list ¦ more
     help about_* ¦ more
 
+    Update-Help -Force # Docu updaten...
+
 Pipes
 =====
 Auf der Tastatur gibt's zwei 'Pipe' Zeichen, die gleich aussehen (können).
@@ -325,7 +327,7 @@ Operatoren
 
 Klammern für Sub-Ausdrücke können verwendet werden
 
-* $foo = 1 + ( 2 / 3 )
+   + $foo = 1 + ( 2 / 3 )
 
 Arrays
 ======
