@@ -1,58 +1,102 @@
 %PDF-1.4
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
 1 0 obj
-<< /F1 2 0 R /F2 3 0 R /F3 4 0 R >>
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R
+>>
 endobj
 2 0 obj
-<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
 endobj
 3 0 obj
-<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
 endobj
 4 0 obj
-<< /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
 endobj
 5 0 obj
-<< /A << /S /URI /Type /Action /URI (http://docs.python.org) >> /Border [ 0 0 0 ] /Rect [ 85.69291 239.3736 532.5827 251.3736 ] /Subtype /Link /Type /Annot >>
+<<
+/A <<
+/S /URI /Type /Action /URI (http://docs.python.org)
+>> /Border [ 0 0 0 ] /Rect [ 85.69291 239.3736 181.8629 251.3736 ] /Subtype /Link /Type /Annot
+>>
 endobj
 6 0 obj
-<< /Annots [ 5 0 R ] /Contents 17 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 16 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
-  /Trans <<  >> /Type /Page >>
+<<
+/Annots [ 5 0 R ] /Contents 17 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 16 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
 endobj
 7 0 obj
-<< /Contents 18 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 16 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
-  /Type /Page >>
+<<
+/Contents 18 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 16 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
 endobj
 8 0 obj
-<< /Outlines 10 0 R /PageLabels 19 0 R /PageMode /UseNone /Pages 16 0 R /Type /Catalog >>
+<<
+/Outlines 10 0 R /PageLabels 19 0 R /PageMode /UseNone /Pages 16 0 R /Type /Catalog
+>>
 endobj
 9 0 obj
-<< /Author () /CreationDate (D:20150413095558-01'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
-  /Title (Python) >>
+<<
+/Author () /CreationDate (D:20190511083455+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20190511083455+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Python) /Trapped /False
+>>
 endobj
 10 0 obj
-<< /Count 5 /First 11 0 R /Last 15 0 R /Type /Outlines >>
+<<
+/Count 5 /First 11 0 R /Last 15 0 R /Type /Outlines
+>>
 endobj
 11 0 obj
-<< /Dest [ 6 0 R /XYZ 62.69291 611.0236 0 ] /Next 12 0 R /Parent 10 0 R /Title (hello world) >>
+<<
+/Dest [ 6 0 R /XYZ 62.69291 611.0236 0 ] /Next 12 0 R /Parent 10 0 R /Title (hello world)
+>>
 endobj
 12 0 obj
-<< /Dest [ 6 0 R /XYZ 62.69291 544.8236 0 ] /Next 13 0 R /Parent 10 0 R /Prev 11 0 R /Title (REPL/Shell) >>
+<<
+/Dest [ 6 0 R /XYZ 62.69291 544.8236 0 ] /Next 13 0 R /Parent 10 0 R /Prev 11 0 R /Title (REPL/Shell)
+>>
 endobj
 13 0 obj
-<< /Dest [ 6 0 R /XYZ 62.69291 286.6236 0 ] /Next 14 0 R /Parent 10 0 R /Prev 12 0 R /Title (Docu) >>
+<<
+/Dest [ 6 0 R /XYZ 62.69291 286.6236 0 ] /Next 14 0 R /Parent 10 0 R /Prev 12 0 R /Title (Docu)
+>>
 endobj
 14 0 obj
-<< /Dest [ 6 0 R /XYZ 62.69291 229.6236 0 ] /Next 15 0 R /Parent 10 0 R /Prev 13 0 R /Title (Syntax) >>
+<<
+/Dest [ 6 0 R /XYZ 62.69291 229.6236 0 ] /Next 15 0 R /Parent 10 0 R /Prev 13 0 R /Title (Syntax)
+>>
 endobj
 15 0 obj
-<< /Dest [ 7 0 R /XYZ 62.69291 604.6236 0 ] /Parent 10 0 R /Prev 14 0 R /Title (ansible) >>
+<<
+/Dest [ 7 0 R /XYZ 62.69291 604.6236 0 ] /Parent 10 0 R /Prev 14 0 R /Title (ansible)
+>>
 endobj
 16 0 obj
-<< /Count 2 /Kids [ 6 0 R 7 0 R ] /Type /Pages >>
+<<
+/Count 2 /Kids [ 6 0 R 7 0 R ] /Type /Pages
+>>
 endobj
 17 0 obj
-<< /Length 5028 >>
+<<
+/Length 4735
+>>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -82,7 +126,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Python scheint sich als Sprache f\374r ) Tj /F2 10 Tf (robuste ) Tj /F1 10 Tf (Scripts zu etablieren.) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Python scheint sich als Sprache f\374r ) Tj /F2 10 Tf (robuste) Tj /F1 10 Tf ( Scripts zu etablieren.) Tj T* ET
 Q
 Q
 q
@@ -243,7 +287,6 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 .501961 rg
-0 0 .501961 RG
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://docs.python.org) Tj T* ET
 Q
 Q
@@ -335,7 +378,9 @@ Q
 endstream
 endobj
 18 0 obj
-<< /Length 3477 >>
+<<
+/Length 3239
+>>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -578,43 +623,54 @@ Q
 endstream
 endobj
 19 0 obj
-<< /Nums [ 0 20 0 R 1 21 0 R ] >>
+<<
+/Nums [ 0 20 0 R 1 21 0 R ]
+>>
 endobj
 20 0 obj
-<< /S /D /St 1 >>
+<<
+/S /D /St 1
+>>
 endobj
 21 0 obj
-<< /S /D /St 2 >>
+<<
+/S /D /St 2
+>>
 endobj
 xref
 0 22
-0000000000 65535 f
-0000000075 00000 n
-0000000129 00000 n
-0000000239 00000 n
-0000000354 00000 n
-0000000462 00000 n
-0000000639 00000 n
-0000000866 00000 n
-0000001075 00000 n
-0000001183 00000 n
-0000001399 00000 n
-0000001476 00000 n
-0000001591 00000 n
-0000001718 00000 n
-0000001839 00000 n
-0000001962 00000 n
-0000002073 00000 n
-0000002142 00000 n
-0000007227 00000 n
-0000010761 00000 n
-0000010814 00000 n
-0000010851 00000 n
+0000000000 65535 f 
+0000000073 00000 n 
+0000000124 00000 n 
+0000000231 00000 n 
+0000000343 00000 n 
+0000000448 00000 n 
+0000000622 00000 n 
+0000000845 00000 n 
+0000001050 00000 n 
+0000001155 00000 n 
+0000001418 00000 n 
+0000001492 00000 n 
+0000001604 00000 n 
+0000001728 00000 n 
+0000001846 00000 n 
+0000001966 00000 n 
+0000002074 00000 n 
+0000002140 00000 n 
+0000006927 00000 n 
+0000010218 00000 n 
+0000010268 00000 n 
+0000010302 00000 n 
 trailer
-<< /ID 
- % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(.\220\341\337!O\024\213@|\003\016\237\252b\326) (.\220\341\337!O\024\213@|\003\016\237\252b\326)]
- /Info 9 0 R /Root 8 0 R /Size 22 >>
+<<
+/ID 
+[<338eb295156d60f61f6d8c2e89979e31><338eb295156d60f61f6d8c2e89979e31>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 9 0 R
+/Root 8 0 R
+/Size 22
+>>
 startxref
-10888
+10336
 %%EOF

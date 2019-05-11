@@ -1,49 +1,81 @@
 %PDF-1.4
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
 1 0 obj
-<< /F1 2 0 R /F2 3 0 R /F3 4 0 R >>
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R
+>>
 endobj
 2 0 obj
-<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
 endobj
 3 0 obj
-<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
 endobj
 4 0 obj
-<< /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
 endobj
 5 0 obj
-<< /Contents 14 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 13 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
-  /Type /Page >>
+<<
+/Contents 14 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 13 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
 endobj
 6 0 obj
-<< /Outlines 8 0 R /PageLabels 15 0 R /PageMode /UseNone /Pages 13 0 R /Type /Catalog >>
+<<
+/Outlines 8 0 R /PageLabels 15 0 R /PageMode /UseNone /Pages 13 0 R /Type /Catalog
+>>
 endobj
 7 0 obj
-<< /Author () /CreationDate (D:20180505082659-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20180505082659-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title () /Trapped /False >>
+<<
+/Author () /CreationDate (D:20190511083455+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20190511083455+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title () /Trapped /False
+>>
 endobj
 8 0 obj
-<< /Count 5 /First 9 0 R /Last 12 0 R /Type /Outlines >>
+<<
+/Count 5 /First 9 0 R /Last 12 0 R /Type /Outlines
+>>
 endobj
 9 0 obj
-<< /Count 2 /Dest [ 5 0 R /XYZ 62.69291 753.0236 0 ] /First 10 0 R /Last 11 0 R /Next 12 0 R /Parent 8 0 R 
-  /Title (malloc, free und verkettete Listen) >>
+<<
+/Count 2 /Dest [ 5 0 R /XYZ 62.69291 753.0236 0 ] /First 10 0 R /Last 11 0 R /Next 12 0 R /Parent 8 0 R 
+  /Title (malloc, free und verkettete Listen)
+>>
 endobj
 10 0 obj
-<< /Dest [ 5 0 R /XYZ 62.69291 720.0236 0 ] /Next 11 0 R /Parent 9 0 R /Title (malloc) >>
+<<
+/Dest [ 5 0 R /XYZ 62.69291 720.0236 0 ] /Next 11 0 R /Parent 9 0 R /Title (malloc)
+>>
 endobj
 11 0 obj
-<< /Dest [ 5 0 R /XYZ 62.69291 618.0236 0 ] /Parent 9 0 R /Prev 10 0 R /Title (free) >>
+<<
+/Dest [ 5 0 R /XYZ 62.69291 618.0236 0 ] /Parent 9 0 R /Prev 10 0 R /Title (free)
+>>
 endobj
 12 0 obj
-<< /Dest [ 5 0 R /XYZ 62.69291 522.0236 0 ] /Parent 8 0 R /Prev 9 0 R /Title (Verkettete Listen) >>
+<<
+/Dest [ 5 0 R /XYZ 62.69291 522.0236 0 ] /Parent 8 0 R /Prev 9 0 R /Title (Verkettete Listen)
+>>
 endobj
 13 0 obj
-<< /Count 1 /Kids [ 5 0 R ] /Type /Pages >>
+<<
+/Count 1 /Kids [ 5 0 R ] /Type /Pages
+>>
 endobj
 14 0 obj
-<< /Length 3656 >>
+<<
+/Length 3468
+>>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -236,35 +268,44 @@ Q
 endstream
 endobj
 15 0 obj
-<< /Nums [ 0 16 0 R ] >>
+<<
+/Nums [ 0 16 0 R ]
+>>
 endobj
 16 0 obj
-<< /S /D /St 1 >>
+<<
+/S /D /St 1
+>>
 endobj
 xref
 0 17
-0000000000 65535 f
-0000000075 00000 n
-0000000129 00000 n
-0000000239 00000 n
-0000000354 00000 n
-0000000472 00000 n
-0000000681 00000 n
-0000000788 00000 n
-0000001049 00000 n
-0000001124 00000 n
-0000001300 00000 n
-0000001409 00000 n
-0000001516 00000 n
-0000001635 00000 n
-0000001698 00000 n
-0000005411 00000 n
-0000005455 00000 n
+0000000000 65535 f 
+0000000073 00000 n 
+0000000124 00000 n 
+0000000231 00000 n 
+0000000343 00000 n 
+0000000458 00000 n 
+0000000663 00000 n 
+0000000767 00000 n 
+0000001024 00000 n 
+0000001096 00000 n 
+0000001268 00000 n 
+0000001374 00000 n 
+0000001478 00000 n 
+0000001594 00000 n 
+0000001654 00000 n 
+0000005174 00000 n 
+0000005215 00000 n 
 trailer
-<< /ID 
- % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\013\207\213v\000\033\014_\231\230\243b\377\350ec) (\013\207\213v\000\033\014_\231\230\243b\377\350ec)]
- /Info 7 0 R /Root 6 0 R /Size 17 >>
+<<
+/ID 
+[<274a81df76e0479ceb63cd83d64caafb><274a81df76e0479ceb63cd83d64caafb>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 7 0 R
+/Root 6 0 R
+/Size 17
+>>
 startxref
-5492
+5249
 %%EOF

@@ -1,52 +1,90 @@
 %PDF-1.4
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
 1 0 obj
-<< /F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R >>
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R
+>>
 endobj
 2 0 obj
-<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
 endobj
 3 0 obj
-<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
 endobj
 4 0 obj
-<< /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
 endobj
 5 0 obj
-<< /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
 endobj
 6 0 obj
-<< /Contents 15 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 14 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
-  /Type /Page >>
+<<
+/Contents 15 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 14 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
 endobj
 7 0 obj
-<< /Contents 16 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 14 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
-  /Type /Page >>
+<<
+/Contents 16 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 14 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
 endobj
 8 0 obj
-<< /Outlines 10 0 R /PageLabels 17 0 R /PageMode /UseNone /Pages 14 0 R /Type /Catalog >>
+<<
+/Outlines 10 0 R /PageLabels 17 0 R /PageMode /UseNone /Pages 14 0 R /Type /Catalog
+>>
 endobj
 9 0 obj
-<< /Author () /CreationDate (D:20150413095601-01'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
-  /Title (C Pthreads Koordination) >>
+<<
+/Author () /CreationDate (D:20190511083456+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20190511083456+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (C Pthreads Koordination) /Trapped /False
+>>
 endobj
 10 0 obj
-<< /Count 3 /First 11 0 R /Last 13 0 R /Type /Outlines >>
+<<
+/Count 3 /First 11 0 R /Last 13 0 R /Type /Outlines
+>>
 endobj
 11 0 obj
-<< /Dest [ 6 0 R /XYZ 62.69291 649.8236 0 ] /Next 12 0 R /Parent 10 0 R /Title (Threads) >>
+<<
+/Dest [ 6 0 R /XYZ 62.69291 649.8236 0 ] /Next 12 0 R /Parent 10 0 R /Title (Threads)
+>>
 endobj
 12 0 obj
-<< /Dest [ 6 0 R /XYZ 62.69291 499.6236 0 ] /Next 13 0 R /Parent 10 0 R /Prev 11 0 R /Title (Mutex) >>
+<<
+/Dest [ 6 0 R /XYZ 62.69291 499.6236 0 ] /Next 13 0 R /Parent 10 0 R /Prev 11 0 R /Title (Mutex)
+>>
 endobj
 13 0 obj
-<< /Dest [ 6 0 R /XYZ 62.69291 253.4236 0 ] /Parent 10 0 R /Prev 12 0 R /Title (Bedingungsvariablen) >>
+<<
+/Dest [ 6 0 R /XYZ 62.69291 253.4236 0 ] /Parent 10 0 R /Prev 12 0 R /Title (Bedingungsvariablen)
+>>
 endobj
 14 0 obj
-<< /Count 2 /Kids [ 6 0 R 7 0 R ] /Type /Pages >>
+<<
+/Count 2 /Kids [ 6 0 R 7 0 R ] /Type /Pages
+>>
 endobj
 15 0 obj
-<< /Length 4487 >>
+<<
+/Length 4334
+>>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -59,7 +97,7 @@ Q
 q
 1 0 0 1 62.69291 695.0236 cm
 q
-BT 1 0 0 1 0 14 Tm 1.989213 Tw 12 TL /F1 10 Tf 0 0 0 rg (Programme, welche Threads verwenden muss man mit der ) Tj /F3 10 Tf 0 0 0 rg (pthreads ) Tj /F1 10 Tf 0 0 0 rg (Library linken. Dies macht man) Tj T* 0 Tw (indem man dem Compiler das Flag ) Tj /F3 10 Tf 0 0 0 rg (-lpthread ) Tj /F1 10 Tf 0 0 0 rg (\374bergibt:) Tj T* ET
+BT 1 0 0 1 0 14 Tm 1.989213 Tw 12 TL /F1 10 Tf 0 0 0 rg (Programme, welche Threads verwenden muss man mit der ) Tj /F3 10 Tf 0 0 0 rg (pthreads) Tj /F1 10 Tf 0 0 0 rg ( Library linken. Dies macht man) Tj T* 0 Tw (indem man dem Compiler das Flag ) Tj /F3 10 Tf 0 0 0 rg (-lpthread) Tj /F1 10 Tf 0 0 0 rg ( \374bergibt:) Tj T* ET
 Q
 Q
 q
@@ -118,13 +156,13 @@ Q
 q
 1 0 0 1 62.69291 448.6236 cm
 q
-BT 1 0 0 1 0 14 Tm .459984 Tw 12 TL /F3 10 Tf 0 0 0 rg (pthread_mutex_t ) Tj /F1 10 Tf 0 0 0 rg (repr\344sentiert ein Objekt, das man, als Thread, entweder ) Tj /F3 10 Tf (nur f\374r sich selbst ) Tj /F1 10 Tf (hat oder gar) Tj T* 0 Tw (nicht hat.) Tj T* ET
+BT 1 0 0 1 0 14 Tm .459984 Tw 12 TL /F3 10 Tf 0 0 0 rg (pthread_mutex_t) Tj /F1 10 Tf 0 0 0 rg ( repr\344sentiert ein Objekt, das man, als Thread, entweder ) Tj /F3 10 Tf (nur f\374r sich selbst) Tj /F1 10 Tf ( hat oder gar) Tj T* 0 Tw (nicht hat.) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 418.6236 cm
 q
-BT 1 0 0 1 0 14 Tm .295697 Tw 12 TL /F1 10 Tf 0 0 0 rg (Wenn man sich das Mutex Objekt mittels ) Tj /F3 10 Tf 0 0 0 rg (pthread_mutex_lock ) Tj /F1 10 Tf 0 0 0 rg (aneignen will, und ein anderer Thread h\344llt) Tj T* 0 Tw (gerade diese Mutex, dann wird man blockiert, bis der andere Thread die Mutex losl\344sst.) Tj T* ET
+BT 1 0 0 1 0 14 Tm .295697 Tw 12 TL /F1 10 Tf 0 0 0 rg (Wenn man sich das Mutex Objekt mittels ) Tj /F3 10 Tf 0 0 0 rg (pthread_mutex_lock) Tj /F1 10 Tf 0 0 0 rg ( aneignen will, und ein anderer Thread h\344llt) Tj T* 0 Tw (gerade diese Mutex, dann wird man blockiert, bis der andere Thread die Mutex losl\344sst.) Tj T* ET
 Q
 Q
 q
@@ -163,7 +201,7 @@ Q
 q
 1 0 0 1 62.69291 160.4236 cm
 q
-BT 1 0 0 1 0 38 Tm .203984 Tw 12 TL /F1 10 Tf 0 0 0 rg (Das eingetroffene Ereignis hat immer etwas mit einer Resource zu tun. Damit man verifizieren kann, dass) Tj T* 0 Tw .569985 Tw (diese Resource in einen Zustand getreten ist, auf den man wartet, ) Tj /F3 10 Tf (muss ) Tj /F1 10 Tf (man alleinigen Zugriff auf diese) Tj T* 0 Tw .019983 Tw (Resource haben. Der alleinige Zugriff auf die Resource ) Tj /F3 10 Tf (muss ) Tj /F1 10 Tf (mit einer Mutex sichergestellt werden. Diese) Tj T* 0 Tw (Mutex ) Tj /F3 10 Tf (muss ) Tj /F1 10 Tf (man beim Warten auf eine Zustands\344nderung angeben.) Tj T* ET
+BT 1 0 0 1 0 38 Tm .203984 Tw 12 TL /F1 10 Tf 0 0 0 rg (Das eingetroffene Ereignis hat immer etwas mit einer Resource zu tun. Damit man verifizieren kann, dass) Tj T* 0 Tw .569985 Tw (diese Resource in einen Zustand getreten ist, auf den man wartet, ) Tj /F3 10 Tf (muss) Tj /F1 10 Tf ( man alleinigen Zugriff auf diese) Tj T* 0 Tw .019983 Tw (Resource haben. Der alleinige Zugriff auf die Resource ) Tj /F3 10 Tf (muss) Tj /F1 10 Tf ( mit einer Mutex sichergestellt werden. Diese) Tj T* 0 Tw (Mutex ) Tj /F3 10 Tf (muss) Tj /F1 10 Tf ( man beim Warten auf eine Zustands\344nderung angeben.) Tj T* ET
 Q
 Q
 q
@@ -204,7 +242,9 @@ Q
 endstream
 endobj
 16 0 obj
-<< /Length 974 >>
+<<
+/Length 935
+>>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -248,41 +288,52 @@ Q
 endstream
 endobj
 17 0 obj
-<< /Nums [ 0 18 0 R 1 19 0 R ] >>
+<<
+/Nums [ 0 18 0 R 1 19 0 R ]
+>>
 endobj
 18 0 obj
-<< /S /D /St 1 >>
+<<
+/S /D /St 1
+>>
 endobj
 19 0 obj
-<< /S /D /St 2 >>
+<<
+/S /D /St 2
+>>
 endobj
 xref
 0 20
-0000000000 65535 f
-0000000075 00000 n
-0000000139 00000 n
-0000000249 00000 n
-0000000364 00000 n
-0000000482 00000 n
-0000000590 00000 n
-0000000799 00000 n
-0000001008 00000 n
-0000001116 00000 n
-0000001349 00000 n
-0000001426 00000 n
-0000001537 00000 n
-0000001659 00000 n
-0000001782 00000 n
-0000001851 00000 n
-0000006395 00000 n
-0000007425 00000 n
-0000007478 00000 n
-0000007515 00000 n
+0000000000 65535 f 
+0000000073 00000 n 
+0000000134 00000 n 
+0000000241 00000 n 
+0000000353 00000 n 
+0000000468 00000 n 
+0000000573 00000 n 
+0000000778 00000 n 
+0000000983 00000 n 
+0000001088 00000 n 
+0000001368 00000 n 
+0000001442 00000 n 
+0000001550 00000 n 
+0000001669 00000 n 
+0000001789 00000 n 
+0000001855 00000 n 
+0000006241 00000 n 
+0000007227 00000 n 
+0000007277 00000 n 
+0000007311 00000 n 
 trailer
-<< /ID 
- % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(7\013r$\010\037[>\274@\351a\211\237\177\307) (7\013r$\010\037[>\274@\351a\211\237\177\307)]
- /Info 9 0 R /Root 8 0 R /Size 20 >>
+<<
+/ID 
+[<cc28837793d825dcde5654a0ae8e5bc7><cc28837793d825dcde5654a0ae8e5bc7>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 9 0 R
+/Root 8 0 R
+/Size 20
+>>
 startxref
-7552
+7345
 %%EOF
