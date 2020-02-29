@@ -49,9 +49,9 @@ Varianten von Anzeigen
 
 Logs
 ----
-* /var/log
-  - syslog
-  - kern
+/var/log
+- syslog
+- kern
 
 Was geht?
 ---------
@@ -63,7 +63,6 @@ Was geht?
 Daemons, Kernel Threads
 -----------------------
 * /etc/init.d
-* /etc/init     # upstart
 * /etc/systemd/system
 * systemctl list-units
 
