@@ -81,7 +81,7 @@ Dateien finden
 
 Sachen in Dateien finden
 ------------------------
-* grep (ack)
+* grep (ack, rg)
 * man 7 regex
 
 Paketverwaltung
