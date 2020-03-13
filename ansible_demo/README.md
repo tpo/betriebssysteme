@@ -16,25 +16,6 @@ From source:
     sudo checkinstall
 
 
-Configuration
--------------
-
-    cat > ansible.cfg <<EOS
-    #http://www.ansibleworks.com/docs/intro_configuration.html
-    #Overrides /etc/ansible/ansible.cfg
-    [defaults]
-    inventory=$(pwd)/production
-    roles_path=$(pwd)/roles
-    transport=ssh
-
-    #default module name for /usr/bin/ansible
-    module_name=shell
-    EOS
-
-    # only needed for our demo
-    #
-    export ANSIBLE_CONFIG=$(pwd)/ansible.cfg
-
 Test
 ----
 

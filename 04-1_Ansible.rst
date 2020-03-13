@@ -9,7 +9,7 @@ Demo
 ::
 
     $ cd ansible_demo
-    $ ansible-playbook -i inventory site.yml
+    $ ansible-playbook site.yml
 
 ähnliche Werkzeuge
 ------------------

@@ -1,2 +1,8 @@
-host_1
-host_2
+# inventory file for production
+#
+# http://docs.ansible.com/intro_inventory.html
+# http://docs.ansible.com/intro_patterns.html
+
+[demo]
+host_1 ansible_host=127.0.0.1
+host_2 ansible_host=127.0.0.1
