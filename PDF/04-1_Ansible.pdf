@@ -61,7 +61,7 @@ endobj
 endobj
 10 0 obj
 <<
-/Author () /CreationDate (D:20200313210241+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200313210241+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20200313211547+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200313211547+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Ansible) /Trapped /False
 >>
 endobj
@@ -138,7 +138,7 @@ endobj
 endobj
 25 0 obj
 <<
-/Length 7062
+/Length 7049
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -176,7 +176,7 @@ n -6 -6 468.6898 36 re B*
 Q
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F3 10 Tf 12 TL ($ cd ansible_demo) Tj T* ($ ansible-playbook -i inventory site.yml) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F3 10 Tf 12 TL ($ cd ansible_demo) Tj T* ($ ansible-playbook site.yml) Tj T* ET
 Q
 Q
 Q
@@ -1023,14 +1023,14 @@ xref
 0000003074 00000 n 
 0000003188 00000 n 
 0000003254 00000 n 
-0000010368 00000 n 
-0000014902 00000 n 
-0000014952 00000 n 
-0000014986 00000 n 
+0000010355 00000 n 
+0000014889 00000 n 
+0000014939 00000 n 
+0000014973 00000 n 
 trailer
 <<
 /ID 
-[<78c14526a3fcda8818be14d24efab76d><78c14526a3fcda8818be14d24efab76d>]
+[<7a731f63adb590c642749e00d18f7a15><7a731f63adb590c642749e00d18f7a15>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 10 0 R
@@ -1038,5 +1038,5 @@ trailer
 /Size 30
 >>
 startxref
-15020
+15007
 %%EOF
