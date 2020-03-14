@@ -11,6 +11,10 @@ verschiedene Shells
 * ksh
 * etc.
 
+In einer Desktop Umgebung lässt man die Shell normalerweise in
+einem Terminal Programm laufen. Dieses heisst z.B.
+Konsole/Console/Terminal etc.
+
 cd
 --
 * cd DIR
