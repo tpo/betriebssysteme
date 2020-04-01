@@ -1,6 +1,10 @@
 Regeln für den Umgang mit Jitsi Meet im Unterricht
 ==================================================
 
+Bitte, bis
+[dieses Problem](https://github.com/jitsi/jitsi-meet/issues/5439)
+gelöst ist, **ausschliesslich** Chrome oder Chromium verwenden.
+
 Wichtige Tasten
 ---------------
 
