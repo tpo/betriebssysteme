@@ -7,6 +7,7 @@ Kernel anpassen
 * auf kernel.org gehen und URL des aktuelsten Kernels notiern
 * Kernel runterladen. Z.B.
 
+      apt-get install wget
       wget https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.0.7.tar.xz
 
 * Kernel auspacken
