@@ -1,5 +1,11 @@
 Kernel anpassen
 ===============
+
+Die Umgebung in welcher ein Kernel gebaut wird braucht ca:
+
+  * 1GB RAM
+  * 8GB Disk Space
+
 * Arbeitsverzeichnis erstellen und reinwechseln
 
   * mkdir uebung && cd uebung
