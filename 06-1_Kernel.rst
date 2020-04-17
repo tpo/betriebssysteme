@@ -7,7 +7,7 @@ Kernel anpassen
 * auf kernel.org gehen und URL des aktuelsten Kernels notiern
 * Kernel runterladen. Z.B.
 
-      apt-get install wget
+      apt-get install wget vim
       wget https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.0.7.tar.xz
 
 * Kernel auspacken
@@ -32,21 +32,24 @@ Kernel anpassen
 
 * Kernel konfigurieren
 
-  * eigenen Kernel konfigurieren
+  * einen Kernel entsprechend den gerade geladenen Modulen konfigurieren:
+
+        make localmodconfig         # [1]
+
+  * wer sich Mal anschauen möchte, was man so alles im Kernel konfigurieren
+    kann:
 
         make menuconfig
 
-    * so viel Unnötiges wie mögliche weg-konfigurieren, damit Bauzeit kürzer wird
-    * VirtualBox Netzwerk-Karte ist Intel PRO/1000
+    * per default ist sehr viel drin und einen entsprechenden Kernel kompilieren
+      kann sehr lange dauern. Deshalb empfiehlt es sich, so viel Unnötiges wie
+      möglich wegzukonfigurieren, damit die Bauzeit kürzer wird.
 
-  * minimalen Kernel konfigurieren
+  * man kann auch versuchen einen minimalen Kernel zu konfigurieren, allerdings
+    wird berichtet, dass der auch schon für eine falsche Architektur (i386 statt
+    amd64 gebaut hat)
 
         make tinyconfig
-
-  * oder, um einen Kernel entsprechend den gerade geladenen Modulen
-    machen:
-
-        make localmodconfig         # [1]
 
 * vim +421 arch/x86/boot/compressed/misc.c
 
@@ -71,7 +74,8 @@ Kernel anpassen
     * dauert lange
     * Paket ist unter /root/rpmbuild/RPMS/$ARCH/kernel-5.0.7-1.i386.rpm
 
-* wenn nötig neuen Kernel in VM hineinkopieren
+* im Falle, dass man den neuen Kernel ausserhalb der VM gebaut hatte, diesen
+  nun hineinkopieren:
 
   * Parameter des folgenden Kommandos müssen an lokale Gegebenheiten
     angepasst werden:
