@@ -19,7 +19,7 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.0.7.tar.xz)
->> /Border [ 0 0 0 ] /Rect [ 215.7429 626.0236 479.1929 638.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 234.0729 626.0236 497.5229 638.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 5 0 obj
@@ -36,14 +36,14 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://help.ubuntu.com/community/Kernel/Compile)
->> /Border [ 0 0 0 ] /Rect [ 76.59291 453.0236 410.7378 465.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 76.59291 435.0236 410.7378 447.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 7 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://kernel-team.pages.debian.net/kernel-handbook/)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 441.0236 305.0429 453.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 423.0236 305.0429 435.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 8 0 obj
@@ -63,7 +63,7 @@ endobj
 endobj
 10 0 obj
 <<
-/Author () /CreationDate (D:20200404075107+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200404075107+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20200417223700+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200417223700+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Kernel anpassen) /Trapped /False
 >>
 endobj
@@ -74,7 +74,7 @@ endobj
 endobj
 12 0 obj
 <<
-/Length 10830
+/Length 10647
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -196,7 +196,7 @@ BT 1 0 0 1 0 2 Tm  T* ET
 q
 1 0 0 1 20 0 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (apt-get install wget wget ) Tj 0 0 .501961 rg (https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.0.7.tar.xz) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (apt-get install wget vim wget ) Tj 0 0 .501961 rg (https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.0.7.tar.xz) Tj T* ET
 Q
 Q
 q
@@ -437,130 +437,31 @@ q
 1 0 0 1 62.69291 446.0236 cm
 Q
 q
-1 0 0 1 62.69291 290.0236 cm
+1 0 0 1 62.69291 272.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 141 cm
+1 0 0 1 6 159 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 141 cm
+1 0 0 1 23 159 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Kernel konfigurieren) Tj T* ET
 Q
 Q
 q
-1 0 0 1 23 135 cm
+1 0 0 1 23 153 cm
 Q
 q
-1 0 0 1 23 135 cm
+1 0 0 1 23 153 cm
 Q
 q
-1 0 0 1 23 69 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 51 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 51 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (eigenen Kernel konfigurieren) Tj T* ET
-Q
-Q
-q
-1 0 0 1 23 45 cm
-Q
-q
-1 0 0 1 23 33 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 0 0 1 20 0 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (make menuconfig) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 23 33 cm
-Q
-q
-1 0 0 1 23 27 cm
-Q
-q
-1 0 0 1 23 27 cm
-Q
-q
-1 0 0 1 23 15 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (so viel Unn\366tiges wie m\366gliche weg-konfigurieren, damit Bauzeit k\374rzer wird) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 23 9 cm
-Q
-q
-1 0 0 1 23 -3 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (VirtualBox Netzwerk-Karte ist Intel PRO/1000) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-Q
-q
-Q
-Q
-q
-1 0 0 1 23 63 cm
-Q
-q
-1 0 0 1 23 33 cm
+1 0 0 1 23 123 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -574,52 +475,7 @@ q
 1 0 0 1 23 15 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (minimalen Kernel konfigurieren) Tj T* ET
-Q
-Q
-q
-1 0 0 1 23 9 cm
-Q
-q
-1 0 0 1 23 -3 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 0 0 1 20 0 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (make tinyconfig) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-Q
-q
-Q
-Q
-q
-1 0 0 1 23 27 cm
-Q
-q
-1 0 0 1 23 -3 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 15 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 15 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (oder, um einen Kernel entsprechend den gerade geladenen Modulen machen:) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (einen Kernel entsprechend den gerade geladenen Modulen konfigurieren:) Tj T* ET
 Q
 Q
 q
@@ -647,16 +503,136 @@ q
 Q
 Q
 q
+1 0 0 1 23 117 cm
+Q
+q
+1 0 0 1 23 45 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (wer sich Mal anschauen m\366chte, was man so alles im Kernel konfigurieren kann:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 51 cm
+Q
+q
+1 0 0 1 23 39 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (make menuconfig) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 39 cm
+Q
+q
+1 0 0 1 23 33 cm
+Q
+q
+1 0 0 1 23 33 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .053828 Tw (per default ist sehr viel drin und einen entsprechenden Kernel kompilieren kann sehr lange) Tj T* 0 Tw 2.129976 Tw (dauern. Deshalb empfiehlt es sich, so viel Unn\366tiges wie m\366glich wegzukonfigurieren,) Tj T* 0 Tw (damit die Bauzeit k\374rzer wird.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
 1 0 0 1 23 -3 cm
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 284.0236 cm
+1 0 0 1 23 39 cm
 Q
 q
-1 0 0 1 62.69291 200.0236 cm
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.096342 Tw (man kann auch versuchen einen minimalen Kernel zu konfigurieren, allerdings wird berichtet,) Tj T* 0 Tw (dass der auch schon f\374r eine falsche Architektur \(i386 statt amd64 gebaut hat\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (make tinyconfig) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 266.0236 cm
+Q
+q
+1 0 0 1 62.69291 182.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -773,34 +749,34 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 194.0236 cm
+1 0 0 1 62.69291 176.0236 cm
 Q
 q
 1 0 0 1 62.69291 88.86614 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 90.15748 cm
+1 0 0 1 6 72.15748 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 90.15748 cm
+1 0 0 1 23 72.15748 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Paket des Kernels bauen) Tj T* ET
 Q
 Q
 q
-1 0 0 1 23 84.15748 cm
+1 0 0 1 23 66.15748 cm
 Q
 q
-1 0 0 1 23 84.15748 cm
+1 0 0 1 23 66.15748 cm
 Q
 q
-1 0 0 1 23 36.15748 cm
+1 0 0 1 23 18.15748 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -875,52 +851,28 @@ q
 Q
 Q
 q
-1 0 0 1 23 30.15748 cm
+1 0 0 1 23 12.15748 cm
 Q
 q
 1 0 0 1 23 -5.84252 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 21 cm
+1 0 0 1 6 3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 21 cm
+1 0 0 1 23 3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (rpm) Tj T* ET
 Q
 Q
 q
-1 0 0 1 23 15 cm
-Q
-q
-1 0 0 1 23 15 cm
-Q
-q
-1 0 0 1 23 3 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
 1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (als root: make binrpm-pkg) Tj T* ET
-Q
-Q
-q
-Q
 Q
 q
 1 0 0 1 23 -3 cm
@@ -950,20 +902,44 @@ endstream
 endobj
 13 0 obj
 <<
-/Length 5794
+/Length 6127
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 723.0236 cm
+1 0 0 1 62.69291 705.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 6 17 Tm  T* ET
+BT 1 0 0 1 6 35 Tm  T* ET
 q
 1 0 0 1 23 -3 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 6 17 Tm  T* ET
+BT 1 0 0 1 6 35 Tm  T* ET
+q
+1 0 0 1 23 33 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (als root: make binrpm-pkg) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 27 cm
+Q
 q
 1 0 0 1 23 15 cm
 0 0 0 rg
@@ -1022,10 +998,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 717.0236 cm
+1 0 0 1 62.69291 699.0236 cm
 Q
 q
-1 0 0 1 62.69291 669.0236 cm
+1 0 0 1 62.69291 651.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1039,7 +1015,7 @@ q
 1 0 0 1 23 33 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (wenn n\366tig neuen Kernel in VM hineinkopieren) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (im Falle, dass man den neuen Kernel ausserhalb der VM gebaut hatte, diesen nun hineinkopieren:) Tj T* ET
 Q
 Q
 q
@@ -1100,10 +1076,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 663.0236 cm
+1 0 0 1 62.69291 645.0236 cm
 Q
 q
-1 0 0 1 62.69291 507.0236 cm
+1 0 0 1 62.69291 489.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1340,10 +1316,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 501.0236 cm
+1 0 0 1 62.69291 483.0236 cm
 Q
 q
-1 0 0 1 62.69291 489.0236 cm
+1 0 0 1 62.69291 471.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1364,23 +1340,23 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 489.0236 cm
+1 0 0 1 62.69291 471.0236 cm
 Q
 q
-1 0 0 1 62.69291 471.0236 cm
+1 0 0 1 62.69291 453.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (### Quellen:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 441.0236 cm
+1 0 0 1 62.69291 423.0236 cm
 q
 BT 1 0 0 1 0 14 Tm 107.9449 Tw 12 TL /F1 10 Tf 0 0 0 rg ([1] ) Tj 0 0 .501961 rg (https://help.ubuntu.com/community/Kernel/Compile) Tj 0 0 0 rg ( [2]) Tj T* 0 Tw 0 0 .501961 rg (https://kernel-team.pages.debian.net/kernel-handbook/) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 441.0236 cm
+1 0 0 1 62.69291 423.0236 cm
 Q
 q
 1 0 0 1 56.69291 773.1969 cm
@@ -1429,14 +1405,14 @@ xref
 0000001493 00000 n 
 0000001766 00000 n 
 0000001832 00000 n 
-0000012715 00000 n 
-0000018561 00000 n 
-0000018611 00000 n 
-0000018645 00000 n 
+0000012532 00000 n 
+0000018711 00000 n 
+0000018761 00000 n 
+0000018795 00000 n 
 trailer
 <<
 /ID 
-[<11cdb205546a02d9289a554991c4c8e3><11cdb205546a02d9289a554991c4c8e3>]
+[<d90a0b8ef6349cefe7d6991fb1241ec2><d90a0b8ef6349cefe7d6991fb1241ec2>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 10 0 R
@@ -1444,5 +1420,5 @@ trailer
 /Size 17
 >>
 startxref
-18679
+18829
 %%EOF
