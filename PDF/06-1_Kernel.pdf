@@ -19,7 +19,7 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.0.7.tar.xz)
->> /Border [ 0 0 0 ] /Rect [ 234.0729 626.0236 497.5229 638.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 234.0729 572.0236 497.5229 584.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 5 0 obj
@@ -36,14 +36,14 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://help.ubuntu.com/community/Kernel/Compile)
->> /Border [ 0 0 0 ] /Rect [ 76.59291 435.0236 410.7378 447.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 76.59291 363.0236 410.7378 375.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 7 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://kernel-team.pages.debian.net/kernel-handbook/)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 423.0236 305.0429 435.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 351.0236 305.0429 363.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 8 0 obj
@@ -63,7 +63,7 @@ endobj
 endobj
 10 0 obj
 <<
-/Author () /CreationDate (D:20200417223700+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200417223700+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20200417224056+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200417224056+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Kernel anpassen) /Trapped /False
 >>
 endobj
@@ -74,7 +74,7 @@ endobj
 endobj
 12 0 obj
 <<
-/Length 10647
+/Length 10339
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -86,13 +86,87 @@ BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 154.9149 0 Td (Kernel anpassen) Tj T* -154.914
 Q
 Q
 q
-1 0 0 1 62.69291 713.0236 cm
+1 0 0 1 62.69291 707.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Die Umgebung in welcher ein Kernel gebaut wird braucht ca:) Tj T* ET
+Q
 Q
 q
-1 0 0 1 62.69291 713.0236 cm
+1 0 0 1 62.69291 701.0236 cm
 Q
 q
-1 0 0 1 62.69291 683.0236 cm
+1 0 0 1 62.69291 665.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1GB RAM) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (8GB Disk Space) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 665.0236 cm
+Q
+q
+1 0 0 1 62.69291 659.0236 cm
+Q
+q
+1 0 0 1 62.69291 659.0236 cm
+Q
+q
+1 0 0 1 62.69291 629.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -105,7 +179,8 @@ Q
 q
 1 0 0 1 23 15 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Arbeitsverzeichnis erstellen und reinwechseln) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Arbeitsverzeichnis erstellen und reinwechseln) Tj T* ET
 Q
 Q
 q
@@ -141,10 +216,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 677.0236 cm
+1 0 0 1 62.69291 623.0236 cm
 Q
 q
-1 0 0 1 62.69291 665.0236 cm
+1 0 0 1 62.69291 611.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -165,10 +240,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 659.0236 cm
+1 0 0 1 62.69291 605.0236 cm
 Q
 q
-1 0 0 1 62.69291 629.0236 cm
+1 0 0 1 62.69291 575.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -209,10 +284,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 623.0236 cm
+1 0 0 1 62.69291 569.0236 cm
 Q
 q
-1 0 0 1 62.69291 593.0236 cm
+1 0 0 1 62.69291 539.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -254,10 +329,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 587.0236 cm
+1 0 0 1 62.69291 533.0236 cm
 Q
 q
-1 0 0 1 62.69291 557.0236 cm
+1 0 0 1 62.69291 503.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -299,10 +374,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 551.0236 cm
+1 0 0 1 62.69291 497.0236 cm
 Q
 q
-1 0 0 1 62.69291 452.0236 cm
+1 0 0 1 62.69291 398.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -434,10 +509,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 446.0236 cm
+1 0 0 1 62.69291 392.0236 cm
 Q
 q
-1 0 0 1 62.69291 272.0236 cm
+1 0 0 1 62.69291 218.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -629,10 +704,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 266.0236 cm
+1 0 0 1 62.69291 212.0236 cm
 Q
 q
-1 0 0 1 62.69291 182.0236 cm
+1 0 0 1 62.69291 128.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -749,34 +824,65 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 176.0236 cm
+1 0 0 1 62.69291 122.0236 cm
 Q
 q
-1 0 0 1 62.69291 88.86614 cm
+1 0 0 1 62.69291 104.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 72.15748 cm
+1 0 0 1 6 3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 72.15748 cm
+1 0 0 1 23 3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Paket des Kernels bauen) Tj T* ET
 Q
 Q
 q
-1 0 0 1 23 66.15748 cm
+1 0 0 1 23 -3 cm
 Q
 q
-1 0 0 1 23 66.15748 cm
+1 0 0 1 23 -3 cm
 Q
 q
-1 0 0 1 23 18.15748 cm
+Q
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 122.2849 0 Td (T.Posp\355\232ek, MAS: Betriebssysteme, Kernel anpassen) Tj T* -122.2849 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 233.9949 0 Td (1/2) Tj T* -233.9949 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+13 0 obj
+<<
+/Length 7204
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 633.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 107 Tm  T* ET
+q
+1 0 0 1 23 69 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -851,71 +957,32 @@ q
 Q
 Q
 q
-1 0 0 1 23 12.15748 cm
+1 0 0 1 23 63 cm
 Q
 q
-1 0 0 1 23 -5.84252 cm
+1 0 0 1 23 -3 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 3 cm
+1 0 0 1 6 51 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 3 cm
+1 0 0 1 23 51 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (rpm) Tj T* ET
 Q
 Q
 q
-1 0 0 1 23 -3 cm
+1 0 0 1 23 45 cm
 Q
 q
-1 0 0 1 23 -3 cm
+1 0 0 1 23 45 cm
 Q
-q
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 56.69291 773.1969 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 122.2849 0 Td (T.Posp\355\232ek, MAS: Betriebssysteme, Kernel anpassen) Tj T* -122.2849 0 Td ET
-Q
-Q
-q
-1 0 0 1 56.69291 56.69291 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 233.9949 0 Td (1/2) Tj T* -233.9949 0 Td ET
-Q
-Q
- 
-endstream
-endobj
-13 0 obj
-<<
-/Length 6127
->>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 62.69291 705.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 6 35 Tm  T* ET
-q
-1 0 0 1 23 -3 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 6 35 Tm  T* ET
 q
 1 0 0 1 23 33 cm
 0 0 0 rg
@@ -998,10 +1065,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 699.0236 cm
+1 0 0 1 62.69291 627.0236 cm
 Q
 q
-1 0 0 1 62.69291 651.0236 cm
+1 0 0 1 62.69291 579.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1076,10 +1143,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 645.0236 cm
+1 0 0 1 62.69291 573.0236 cm
 Q
 q
-1 0 0 1 62.69291 489.0236 cm
+1 0 0 1 62.69291 417.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1316,10 +1383,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 483.0236 cm
+1 0 0 1 62.69291 411.0236 cm
 Q
 q
-1 0 0 1 62.69291 471.0236 cm
+1 0 0 1 62.69291 399.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1340,23 +1407,23 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 471.0236 cm
+1 0 0 1 62.69291 399.0236 cm
 Q
 q
-1 0 0 1 62.69291 453.0236 cm
+1 0 0 1 62.69291 381.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (### Quellen:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 423.0236 cm
+1 0 0 1 62.69291 351.0236 cm
 q
 BT 1 0 0 1 0 14 Tm 107.9449 Tw 12 TL /F1 10 Tf 0 0 0 rg ([1] ) Tj 0 0 .501961 rg (https://help.ubuntu.com/community/Kernel/Compile) Tj 0 0 0 rg ( [2]) Tj T* 0 Tw 0 0 .501961 rg (https://kernel-team.pages.debian.net/kernel-handbook/) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 423.0236 cm
+1 0 0 1 62.69291 351.0236 cm
 Q
 q
 1 0 0 1 56.69291 773.1969 cm
@@ -1405,14 +1472,14 @@ xref
 0000001493 00000 n 
 0000001766 00000 n 
 0000001832 00000 n 
-0000012532 00000 n 
-0000018711 00000 n 
-0000018761 00000 n 
-0000018795 00000 n 
+0000012224 00000 n 
+0000019480 00000 n 
+0000019530 00000 n 
+0000019564 00000 n 
 trailer
 <<
 /ID 
-[<d90a0b8ef6349cefe7d6991fb1241ec2><d90a0b8ef6349cefe7d6991fb1241ec2>]
+[<33fdd4db3a6cf3e85bb40d2237a7f343><33fdd4db3a6cf3e85bb40d2237a7f343>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 10 0 R
@@ -1420,5 +1487,5 @@ trailer
 /Size 17
 >>
 startxref
-18829
+19598
 %%EOF
