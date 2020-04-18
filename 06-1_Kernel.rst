@@ -28,9 +28,7 @@ Die Umgebung in welcher ein Kernel gebaut wird braucht ca:
 
   * unter Debian/Ubuntu/etc.
 
-        apt-get install ncurses-dev pkg-config bc gcc libc6-dev \
-                        make bzip2 binutils dpkg-dev flex bison \
-                        libssl-dev libelf-dev
+        apt-get install ncurses-dev pkg-config bc gcc libc6-dev make bzip2 binutils dpkg-dev flex bison libssl-dev libelf-dev
 
   * unter Fedora/RedHat/CentOS/etc,
 
