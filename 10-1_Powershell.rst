@@ -111,7 +111,7 @@ Nicht *alle* CmdLets haben diese...
                  # das Kommando in echt ausgeführt hätte
   -Confirm       # zeigt Prompt an
   -Verbose       # detaillierte Ausgabe
-  -Debug         # debugging Infos
+  -Debug         # Debugging Infos
   -ErrorAction   # welche Aktion soll im Fehlerfall ausgeführt
                  # werden (continue, stop, silently continue
                  # oder inquire)
@@ -182,8 +182,8 @@ Set-Content   sc
 Provider
 ========
 
-Machen Datenquellen, z.B. die Registry, in Form von Dateisystemen verfügbar,
-was deren Manipulation mittels Datei-Operationen ermöglicht.
+Manche Datenquellen, z.B. die Registry, sind in Form von Dateisystemen
+verfügbar, was deren Manipulation mittels Datei-Operationen ermöglicht.
 
 Die Provider können Standard Optionen erweitern, welche spezifisch für die
 bearbeiteten Daten sind.
