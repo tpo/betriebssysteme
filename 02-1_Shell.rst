@@ -106,7 +106,7 @@ apt remove        yum remove
 ================  =========================
 
 * aptitude
-* rpm/yum->dnf
+* rpm/yum -> dnf
 
 Tab Completion
 --------------
