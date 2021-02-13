@@ -54,7 +54,7 @@ endobj
 endobj
 9 0 obj
 <<
-/Author () /CreationDate (D:20210213085109+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20210213085109+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20210213085255+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20210213085255+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Python) /Trapped /False
 >>
 endobj
@@ -95,7 +95,7 @@ endobj
 endobj
 17 0 obj
 <<
-/Length 5383
+/Length 5392
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -228,7 +228,7 @@ n -6 -6 468.6898 24 re B*
 Q
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (print "Hello") Tj T* ET
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (print\("Hello"\)) Tj T* ET
 Q
 Q
 Q
@@ -254,7 +254,7 @@ q
 n -6 -6 468.6898 216 re B*
 Q
 q
-BT 1 0 0 1 0 194 Tm 12 TL /F3 10 Tf 0 0 0 rg ($ python) Tj T* (...) Tj T* (>) Tj (>) Tj (>) Tj ( print "Foo") Tj T* (Foo) Tj T*  T* ($ python) Tj T* (...) Tj T* (Type "help", "copyright", "credits" or "license" for more information.) Tj T* (>) Tj (>) Tj (>) Tj ( help) Tj T* (Type help\(\) for interactive help, or help\(object\) for help about object.) Tj T* (>) Tj (>) Tj (>) Tj ( help\(\)) Tj T* (Welcome to Python 2.7!  This is the online help utility.) Tj T* (...) Tj T* (help) Tj (>) Tj ( print) Tj T* (The "print" statement) Tj T* (*********************) Tj T* (...) Tj T* ET
+BT 1 0 0 1 0 194 Tm 12 TL /F3 10 Tf 0 0 0 rg ($ python) Tj T* (...) Tj T* (>) Tj (>) Tj (>) Tj ( print\("Foo"\)) Tj T* (Foo) Tj T*  T* ($ python) Tj T* (...) Tj T* (Type "help", "copyright", "credits" or "license" for more information.) Tj T* (>) Tj (>) Tj (>) Tj ( help) Tj T* (Type help\(\) for interactive help, or help\(object\) for help about object.) Tj T* (>) Tj (>) Tj (>) Tj ( help\(\)) Tj T* (Welcome to Python 2.7!  This is the online help utility.) Tj T* (...) Tj T* (help) Tj (>) Tj ( print) Tj T* (The "print" statement) Tj T* (*********************) Tj T* (...) Tj T* ET
 Q
 Q
 Q
@@ -402,7 +402,7 @@ q
 n -6 -6 416.6898 36 re B*
 Q
 q
-BT 1 0 0 1 0 14 Tm 12 TL /F3 10 Tf 0 0 0 rg (if 2) Tj (>) Tj (1:) Tj T* (  print "Wer h\344tte das gedacht!") Tj T* ET
+BT 1 0 0 1 0 14 Tm 12 TL /F3 10 Tf 0 0 0 rg (if 2) Tj (>) Tj (1:) Tj T* (  print\("Wer h\344tte das gedacht!"\)) Tj T* ET
 Q
 Q
 Q
@@ -433,7 +433,7 @@ endstream
 endobj
 18 0 obj
 <<
-/Length 3309
+/Length 3312
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -461,7 +461,7 @@ q
 n -6 -6 416.6898 84 re B*
 Q
 q
-BT 1 0 0 1 0 62 Tm 12 TL /F3 10 Tf 0 0 0 rg  T* (def do_stuff\( param1, param2 \):) Tj T* (   print param1) Tj T* (   return 42) Tj T*  T* (do_stuff\( "a", "b" \)) Tj T* ET
+BT 1 0 0 1 0 62 Tm 12 TL /F3 10 Tf 0 0 0 rg  T* (def do_stuff\( param1, param2 \):) Tj T* (   print\(param1\)) Tj T* (   return 42) Tj T*  T* (do_stuff\( "a", "b" \)) Tj T* ET
 Q
 Q
 Q
@@ -711,14 +711,14 @@ xref
 0000001966 00000 n 
 0000002074 00000 n 
 0000002140 00000 n 
-0000007575 00000 n 
-0000010936 00000 n 
-0000010986 00000 n 
-0000011020 00000 n 
+0000007584 00000 n 
+0000010948 00000 n 
+0000010998 00000 n 
+0000011032 00000 n 
 trailer
 <<
 /ID 
-[<a0b5439d41612cfd8f5dd816140b2623><a0b5439d41612cfd8f5dd816140b2623>]
+[<1cab07353d414c19adfd82e8a23a04de><1cab07353d414c19adfd82e8a23a04de>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 9 0 R
@@ -726,5 +726,5 @@ trailer
 /Size 22
 >>
 startxref
-11054
+11066
 %%EOF
