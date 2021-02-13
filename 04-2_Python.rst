@@ -17,7 +17,7 @@ hello world
 
 ::
 
-  print "Hello"
+  print("Hello")
 
 REPL/Shell
 ----------
@@ -26,7 +26,7 @@ REPL/Shell
 
   $ python
   ...
-  >>> print "Foo"
+  >>> print("Foo")
   Foo
 
   $ python
@@ -59,10 +59,10 @@ Syntax
     ::
 
       if 2>1:
-        print "Wer hätte das gedacht!"
+        print("Wer hätte das gedacht!")
 
       def do_stuff( param1, param2 ):
-         print param1
+         print(param1)
          return 42
          
       do_stuff( "a", "b" )
