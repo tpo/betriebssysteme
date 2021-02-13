@@ -42,6 +42,9 @@ REPL/Shell
   *********************
   ...
 
+* ipython mit Vervollständigung, Hilfe zu Objekten etc.
+* diverse IDEs für Python
+
 Docu
 ----
 
