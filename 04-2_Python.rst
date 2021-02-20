@@ -12,6 +12,8 @@ Python
 
 * viel mehr cross-platform als Shell
 
+* Python 2 vs Python 3
+
 hello world
 -----------
 
@@ -24,18 +26,19 @@ REPL/Shell
 
 ::
 
-  $ python
+  $ python3
   ...
   >>> print("Foo")
   Foo
 
-  $ python
+  $ python3
   ...
+  Python 3.7.3 (default, Jul 25 2020, 13:03:44) 
+  [GCC 8.3.0] on linux
   Type "help", "copyright", "credits" or "license" for more information.
-  >>> help
   Type help() for interactive help, or help(object) for help about object.
   >>> help()
-  Welcome to Python 2.7!  This is the online help utility.
+  Welcome to Python 3.7's help utility!
   ...
   help> print
   The "print" statement
