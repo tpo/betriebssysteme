@@ -58,7 +58,8 @@ hosts
 roles
 ~~~~~
 
-* Rollen, welche von den hosts eingenommen werden
+* ursprünglich: Rollen, welche von den hosts eingenommen werden
+* heute: Einheit, welche Tasks zusammenfasst
 
 Tasks
 -----
