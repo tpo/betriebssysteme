@@ -53,7 +53,7 @@ hosts
 * Deklaration von Maschinen
 * diese können Tasks und Rollen beinhalten
   * siehe ansible_demo/hosts/host_1/setup.yml
-* siehe auch /etc/hosts bzw. ~/.ssh/config
+* siehe auch ansible_demo/inventory bzw. ~/.ssh/config
 
 roles
 ~~~~~
