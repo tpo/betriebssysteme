@@ -26,7 +26,7 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://raw.githubusercontent.com/EvilOlaf/vbox-guest-config/master/linux/linux-4.15.x-server.config)
->> /Border [ 0 0 0 ] /Rect [ 108.6929 233.0236 548.8529 245.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 108.6929 269.0236 548.8529 281.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 6 0 obj
@@ -48,14 +48,14 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://help.ubuntu.com/community/Kernel/Compile)
->> /Border [ 0 0 0 ] /Rect [ 76.59291 363.0236 410.7378 375.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 76.59291 351.0236 410.7378 363.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 9 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://kernel-team.pages.debian.net/kernel-handbook/)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 351.0236 305.0429 363.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 339.0236 305.0429 351.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 10 0 obj
@@ -75,7 +75,7 @@ endobj
 endobj
 12 0 obj
 <<
-/Author () /CreationDate (D:20210327091312+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20210327091312+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20210327095144+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20210327095144+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Kernel anpassen) /Trapped /False
 >>
 endobj
@@ -86,7 +86,7 @@ endobj
 endobj
 14 0 obj
 <<
-/Length 10253
+/Length 10600
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -509,70 +509,25 @@ q
 1 0 0 1 62.69291 395.0236 cm
 Q
 q
-1 0 0 1 62.69291 215.0236 cm
+1 0 0 1 62.69291 251.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 165 cm
+1 0 0 1 6 129 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 165 cm
+1 0 0 1 23 129 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Kernel konfigurieren) Tj T* ET
 Q
 Q
 q
-1 0 0 1 23 159 cm
-Q
-q
-1 0 0 1 23 159 cm
-Q
-q
-1 0 0 1 23 129 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 15 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 15 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (einen Kernel entsprechend den gerade geladenen Modulen konfigurieren:) Tj T* ET
-Q
-Q
-q
-1 0 0 1 23 9 cm
-Q
-q
-1 0 0 1 23 -3 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 0 0 1 20 0 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (make localmodconfig # [1]) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-Q
-q
-Q
+1 0 0 1 23 123 cm
 Q
 q
 1 0 0 1 23 123 cm
@@ -679,10 +634,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 209.0236 cm
+1 0 0 1 62.69291 245.0236 cm
 Q
 q
-1 0 0 1 62.69291 125.0236 cm
+1 0 0 1 62.69291 161.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -799,65 +754,34 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 119.0236 cm
+1 0 0 1 62.69291 155.0236 cm
 Q
 q
-1 0 0 1 62.69291 101.0236 cm
+1 0 0 1 62.69291 94.86614 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 3 cm
+1 0 0 1 6 45.15748 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 3 cm
+1 0 0 1 23 45.15748 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Paket des Kernels bauen) Tj T* ET
 Q
 Q
 q
-1 0 0 1 23 -3 cm
+1 0 0 1 23 39.15748 cm
 Q
 q
-1 0 0 1 23 -3 cm
+1 0 0 1 23 39.15748 cm
 Q
 q
-Q
-Q
-q
-1 0 0 1 56.69291 773.1969 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 122.2849 0 Td (T.Posp\355\232ek, MAS: Betriebssysteme, Kernel anpassen) Tj T* -122.2849 0 Td ET
-Q
-Q
-q
-1 0 0 1 56.69291 56.69291 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 233.9949 0 Td (1/2) Tj T* -233.9949 0 Td ET
-Q
-Q
- 
-endstream
-endobj
-15 0 obj
-<<
-/Length 7220
->>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 62.69291 633.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 6 107 Tm  T* ET
-q
-1 0 0 1 23 69 cm
+1 0 0 1 23 -8.84252 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -932,8 +856,39 @@ q
 Q
 Q
 q
-1 0 0 1 23 63 cm
+1 0 0 1 23 -3 cm
 Q
+q
+Q
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 122.2849 0 Td (T.Posp\355\232ek, MAS: Betriebssysteme, Kernel anpassen) Tj T* -122.2849 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 233.9949 0 Td (1/2) Tj T* -233.9949 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+15 0 obj
+<<
+/Length 7021
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 687.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 53 Tm  T* ET
 q
 1 0 0 1 23 -3 cm
 0 0 0 rg
@@ -1040,10 +995,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 627.0236 cm
+1 0 0 1 62.69291 681.0236 cm
 Q
 q
-1 0 0 1 62.69291 579.0236 cm
+1 0 0 1 62.69291 633.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1118,10 +1073,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 573.0236 cm
+1 0 0 1 62.69291 627.0236 cm
 Q
 q
-1 0 0 1 62.69291 417.0236 cm
+1 0 0 1 62.69291 471.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1358,10 +1313,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 411.0236 cm
+1 0 0 1 62.69291 465.0236 cm
 Q
 q
-1 0 0 1 62.69291 399.0236 cm
+1 0 0 1 62.69291 453.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1382,23 +1337,58 @@ q
 Q
 Q
 q
+1 0 0 1 62.69291 453.0236 cm
+Q
+q
+1 0 0 1 62.69291 435.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Post scriptum:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 405.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.349984 Tw (In der Theorie sollte es m\366glich sein, sich einen Kernel zu konfigurieren, welcher der aktuel laufenden) Tj T* 0 Tw (Konfiguration entspricht, das scheint aber leider nicht korrekt zu funktionieren:) Tj T* ET
+Q
+Q
+q
 1 0 0 1 62.69291 399.0236 cm
 Q
 q
-1 0 0 1 62.69291 381.0236 cm
+1 0 0 1 62.69291 387.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (make localmodconfig # [1]) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 387.0236 cm
+Q
+q
+1 0 0 1 62.69291 369.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (### Quellen:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 351.0236 cm
+1 0 0 1 62.69291 339.0236 cm
 q
 BT 1 0 0 1 0 14 Tm 107.9449 Tw 12 TL /F1 10 Tf 0 0 0 rg ([1] ) Tj 0 0 .501961 rg (https://help.ubuntu.com/community/Kernel/Compile) Tj 0 0 0 rg ( [2]) Tj T* 0 Tw 0 0 .501961 rg (https://kernel-team.pages.debian.net/kernel-handbook/) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 351.0236 cm
+1 0 0 1 62.69291 339.0236 cm
 Q
 q
 1 0 0 1 56.69291 773.1969 cm
@@ -1449,14 +1439,14 @@ xref
 0000001880 00000 n 
 0000002153 00000 n 
 0000002220 00000 n 
-0000012526 00000 n 
-0000019798 00000 n 
-0000019848 00000 n 
-0000019882 00000 n 
+0000012873 00000 n 
+0000019946 00000 n 
+0000019996 00000 n 
+0000020030 00000 n 
 trailer
 <<
 /ID 
-[<020a33350b4d2afc3609e9c8e4aaedfa><020a33350b4d2afc3609e9c8e4aaedfa>]
+[<42c81387cd08b6a2b6db5fba1885537a><42c81387cd08b6a2b6db5fba1885537a>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 12 0 R
@@ -1464,5 +1454,5 @@ trailer
 /Size 19
 >>
 startxref
-19916
+20064
 %%EOF
