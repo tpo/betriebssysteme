@@ -2,7 +2,7 @@
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R
+/F1 2 0 R /F2 3 0 R /F3 6 0 R
 >>
 endobj
 2 0 obj
@@ -18,37 +18,25 @@ endobj
 4 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.0.7.tar.xz)
->> /Border [ 0 0 0 ] /Rect [ 234.0729 572.0236 497.5229 584.0236 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.11.10.tar.xz)
+>> /Border [ 0 0 0 ] /Rect [ 234.0729 572.0236 508.6429 584.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 5 0 obj
 <<
-/Annots [ 4 0 R ] /Contents 12 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 11 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/A <<
+/S /URI /Type /Action /URI (https://raw.githubusercontent.com/EvilOlaf/vbox-guest-config/master/linux/linux-4.15.x-server.config)
+>> /Border [ 0 0 0 ] /Rect [ 108.6929 233.0236 548.8529 245.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 6 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://help.ubuntu.com/community/Kernel/Compile)
->> /Border [ 0 0 0 ] /Rect [ 76.59291 381.0236 410.7378 393.0236 ] /Subtype /Link /Type /Annot
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
 >>
 endobj
 7 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://kernel-team.pages.debian.net/kernel-handbook/)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 369.0236 305.0429 381.0236 ] /Subtype /Link /Type /Annot
->>
-endobj
-8 0 obj
-<<
-/Annots [ 6 0 R 7 0 R ] /Contents 13 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 11 0 R /Resources <<
+/Annots [ 4 0 R 5 0 R ] /Contents 14 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 13 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -56,25 +44,49 @@ endobj
 >> /Type /Page
 >>
 endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://help.ubuntu.com/community/Kernel/Compile)
+>> /Border [ 0 0 0 ] /Rect [ 76.59291 363.0236 410.7378 375.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
 9 0 obj
 <<
-/PageLabels 14 0 R /PageMode /UseNone /Pages 11 0 R /Type /Catalog
+/A <<
+/S /URI /Type /Action /URI (https://kernel-team.pages.debian.net/kernel-handbook/)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 351.0236 305.0429 363.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 10 0 obj
 <<
-/Author () /CreationDate (D:20200418093220+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200418093220+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (Kernel anpassen) /Trapped /False
+/Annots [ 8 0 R 9 0 R ] /Contents 15 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 13 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
 >>
 endobj
 11 0 obj
 <<
-/Count 2 /Kids [ 5 0 R 8 0 R ] /Type /Pages
+/PageLabels 16 0 R /PageMode /UseNone /Pages 13 0 R /Type /Catalog
 >>
 endobj
 12 0 obj
 <<
-/Length 10524
+/Author () /CreationDate (D:20210327091312+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20210327091312+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Kernel anpassen) /Trapped /False
+>>
+endobj
+13 0 obj
+<<
+/Count 2 /Kids [ 7 0 R 10 0 R ] /Type /Pages
+>>
+endobj
+14 0 obj
+<<
+/Length 10253
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -271,7 +283,7 @@ BT 1 0 0 1 0 2 Tm  T* ET
 q
 1 0 0 1 20 0 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (apt-get install wget vim wget ) Tj 0 0 .501961 rg (https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.0.7.tar.xz) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (apt-get install wget vim wget ) Tj 0 0 .501961 rg (https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.11.10.tar.xz) Tj T* ET
 Q
 Q
 q
@@ -316,7 +328,7 @@ q
 1 0 0 1 20 0 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (tar xJvf linux-5.0.7.tar.xz) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (tar xJvf linux-5.10.11.tar.xz) Tj T* ET
 Q
 Q
 q
@@ -361,7 +373,7 @@ q
 1 0 0 1 20 0 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (cd linux-5.0.7) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (cd linux-5.10.11) Tj T* ET
 Q
 Q
 q
@@ -430,7 +442,7 @@ q
 1 0 0 1 20 0 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.249069 Tw (apt-get install ncurses-dev pkg-config bc gcc libc6-dev make bzip2 binutils dpkg-dev flex) Tj T* 0 Tw (bison libssl-dev libelf-dev) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.249069 Tw (apt-get install ncurses-dev pkg-config bc gcc libc6-dev make bzip2 binutils dpkg-dev flex) Tj T* 0 Tw (bison libssl-dev libelf-dev rsync) Tj T* ET
 Q
 Q
 q
@@ -497,31 +509,31 @@ q
 1 0 0 1 62.69291 395.0236 cm
 Q
 q
-1 0 0 1 62.69291 221.0236 cm
+1 0 0 1 62.69291 215.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 159 cm
+1 0 0 1 6 165 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 159 cm
+1 0 0 1 23 165 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Kernel konfigurieren) Tj T* ET
 Q
 Q
 q
-1 0 0 1 23 153 cm
+1 0 0 1 23 159 cm
 Q
 q
-1 0 0 1 23 153 cm
+1 0 0 1 23 159 cm
 Q
 q
-1 0 0 1 23 123 cm
+1 0 0 1 23 129 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -563,10 +575,10 @@ q
 Q
 Q
 q
-1 0 0 1 23 117 cm
+1 0 0 1 23 123 cm
 Q
 q
-1 0 0 1 23 45 cm
+1 0 0 1 23 51 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -638,39 +650,23 @@ q
 Q
 Q
 q
-1 0 0 1 23 39 cm
+1 0 0 1 23 45 cm
 Q
 q
 1 0 0 1 23 -3 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 27 cm
+1 0 0 1 6 33 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 15 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.096342 Tw (man kann auch versuchen einen minimalen Kernel zu konfigurieren, allerdings wird berichtet,) Tj T* 0 Tw (dass der auch schon f\374r eine falsche Architektur \(i386 statt amd64 gebaut hat\)) Tj T* ET
-Q
-Q
-q
-1 0 0 1 23 9 cm
-Q
-q
 1 0 0 1 23 -3 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
 q
-1 0 0 1 20 0 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (make tinyconfig) Tj T* ET
+BT 1 0 0 1 0 38 Tm 7.576364 Tw 12 TL /F1 10 Tf 0 0 0 rg (im Netz findet man Konfigurationen f\374r Kernel, darunter diese hier f\374r VirtualBox:) Tj T* 0 Tw 0 0 .501961 rg (https://raw.githubusercontent.com/EvilOlaf/vbox-guest-config/master/linux/linux-4.15.x-server.config) Tj 0 0 0 rg  T* .509231 Tw (Diese kann man nach ) Tj /F3 10 Tf 0 0 0 rg (linux-5.11.10/.config) Tj /F1 10 Tf 0 0 0 rg ( kopieren \(und wenn der Kernel gebaut wird bei Fragen) Tj T* 0 Tw (alles mit Return best\344tigen\).) Tj T* ET
 Q
 Q
 q
@@ -683,16 +679,10 @@ q
 Q
 Q
 q
-1 0 0 1 23 -3 cm
+1 0 0 1 62.69291 209.0236 cm
 Q
 q
-Q
-Q
-q
-1 0 0 1 62.69291 215.0236 cm
-Q
-q
-1 0 0 1 62.69291 131.0236 cm
+1 0 0 1 62.69291 125.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -809,34 +799,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 125.0236 cm
+1 0 0 1 62.69291 119.0236 cm
 Q
 q
-1 0 0 1 62.69291 88.86614 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 21.15748 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 21.15748 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Paket des Kernels bauen) Tj T* ET
-Q
-Q
-q
-1 0 0 1 23 15.15748 cm
-Q
-q
-1 0 0 1 23 15.15748 cm
-Q
-q
-1 0 0 1 23 -2.84252 cm
+1 0 0 1 62.69291 101.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -850,7 +816,7 @@ q
 1 0 0 1 23 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Debian) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Paket des Kernels bauen) Tj T* ET
 Q
 Q
 q
@@ -858,9 +824,6 @@ q
 Q
 q
 1 0 0 1 23 -3 cm
-Q
-q
-Q
 Q
 q
 Q
@@ -882,22 +845,41 @@ Q
  
 endstream
 endobj
-13 0 obj
+15 0 obj
 <<
-/Length 6997
+/Length 7220
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 651.0236 cm
+1 0 0 1 62.69291 633.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 6 89 Tm  T* ET
+BT 1 0 0 1 6 107 Tm  T* ET
 q
 1 0 0 1 23 69 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 6 17 Tm  T* ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Debian) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 27 cm
+Q
+q
+1 0 0 1 23 27 cm
+Q
 q
 1 0 0 1 23 15 cm
 0 0 0 rg
@@ -1039,7 +1021,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Paket ist unter /root/rpmbuild/RPMS/$ARCH/kernel-5.0.7-1.i386.rpm) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Paket ist unter /root/rpmbuild/RPMS/$ARCH/kernel-5.10.11-1.i386.rpm) Tj T* ET
 Q
 Q
 q
@@ -1058,10 +1040,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 645.0236 cm
+1 0 0 1 62.69291 627.0236 cm
 Q
 q
-1 0 0 1 62.69291 597.0236 cm
+1 0 0 1 62.69291 579.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1123,7 +1105,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (scp -P 1234567 ../linux-image-5.0.7_5.0.7-1_amd64.deb localhost:/tmp) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (scp -P 1234567 ../linux-image-5.10.11_5.10.11-1_amd64.deb localhost:/tmp) Tj T* ET
 Q
 Q
 q
@@ -1136,10 +1118,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 591.0236 cm
+1 0 0 1 62.69291 573.0236 cm
 Q
 q
-1 0 0 1 62.69291 435.0236 cm
+1 0 0 1 62.69291 417.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1177,7 +1159,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (cd /dorthin_wo_linux-image-5.0.7_5.0.7-1_amd64.deb_ist \(entweder unter /tmp oder ../\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (cd /dorthin_wo_linux-image-5.10.11_5.10.11-1_amd64.deb_ist \(entweder unter /tmp oder ../\)) Tj T* ET
 Q
 Q
 q
@@ -1225,7 +1207,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (dpkg -i linux-image-5.0.7_5.0.7-1_amd64.deb) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (dpkg -i linux-image-5.10.11_5.10.11-1_amd64.deb) Tj T* ET
 Q
 Q
 q
@@ -1279,7 +1261,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (rpm -i kernel-5.0.7-1.i386.rpm) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (rpm -i kernel-5.10.11-1.i386.rpm) Tj T* ET
 Q
 Q
 q
@@ -1376,10 +1358,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 429.0236 cm
+1 0 0 1 62.69291 411.0236 cm
 Q
 q
-1 0 0 1 62.69291 417.0236 cm
+1 0 0 1 62.69291 399.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1400,23 +1382,23 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 417.0236 cm
+1 0 0 1 62.69291 399.0236 cm
 Q
 q
-1 0 0 1 62.69291 399.0236 cm
+1 0 0 1 62.69291 381.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (### Quellen:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 369.0236 cm
+1 0 0 1 62.69291 351.0236 cm
 q
 BT 1 0 0 1 0 14 Tm 107.9449 Tw 12 TL /F1 10 Tf 0 0 0 rg ([1] ) Tj 0 0 .501961 rg (https://help.ubuntu.com/community/Kernel/Compile) Tj 0 0 0 rg ( [2]) Tj T* 0 Tw 0 0 .501961 rg (https://kernel-team.pages.debian.net/kernel-handbook/) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 369.0236 cm
+1 0 0 1 62.69291 351.0236 cm
 Q
 q
 1 0 0 1 56.69291 773.1969 cm
@@ -1435,50 +1417,52 @@ Q
  
 endstream
 endobj
-14 0 obj
+16 0 obj
 <<
-/Nums [ 0 15 0 R 1 16 0 R ]
+/Nums [ 0 17 0 R 1 18 0 R ]
 >>
 endobj
-15 0 obj
+17 0 obj
 <<
 /S /D /St 1
 >>
 endobj
-16 0 obj
+18 0 obj
 <<
 /S /D /St 2
 >>
 endobj
 xref
-0 17
+0 19
 0000000000 65535 f 
 0000000073 00000 n 
-0000000114 00000 n 
-0000000221 00000 n 
-0000000333 00000 n 
-0000000548 00000 n 
-0000000771 00000 n 
-0000000971 00000 n 
-0000001176 00000 n 
-0000001405 00000 n 
-0000001493 00000 n 
-0000001766 00000 n 
-0000001832 00000 n 
-0000012409 00000 n 
-0000019458 00000 n 
-0000019508 00000 n 
-0000019542 00000 n 
+0000000124 00000 n 
+0000000231 00000 n 
+0000000343 00000 n 
+0000000560 00000 n 
+0000000812 00000 n 
+0000000927 00000 n 
+0000001156 00000 n 
+0000001356 00000 n 
+0000001561 00000 n 
+0000001791 00000 n 
+0000001880 00000 n 
+0000002153 00000 n 
+0000002220 00000 n 
+0000012526 00000 n 
+0000019798 00000 n 
+0000019848 00000 n 
+0000019882 00000 n 
 trailer
 <<
 /ID 
-[<ba7c2c4f55213e48aefd8a0995d40a5e><ba7c2c4f55213e48aefd8a0995d40a5e>]
+[<020a33350b4d2afc3609e9c8e4aaedfa><020a33350b4d2afc3609e9c8e4aaedfa>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
-/Info 10 0 R
-/Root 9 0 R
-/Size 17
+/Info 12 0 R
+/Root 11 0 R
+/Size 19
 >>
 startxref
-19576
+19916
 %%EOF
