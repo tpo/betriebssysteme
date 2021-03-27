@@ -14,21 +14,21 @@ Die Umgebung in welcher ein Kernel gebaut wird braucht ca:
 * Kernel runterladen. Z.B.
 
       apt-get install wget vim
-      wget https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.0.7.tar.xz
+      wget https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.11.10.tar.xz
 
 * Kernel auspacken
 
-      tar xJvf linux-5.0.7.tar.xz
+      tar xJvf linux-5.10.11.tar.xz
 
 * ins Kernel Quellcode-Verzeichnis wechseln
 
-      cd linux-5.0.7
+      cd linux-5.10.11
 
 * Abhängikeiten des Kernel Builds installieren:
 
   * unter Debian/Ubuntu/etc.
 
-        apt-get install ncurses-dev pkg-config bc gcc libc6-dev make bzip2 binutils dpkg-dev flex bison libssl-dev libelf-dev
+        apt-get install ncurses-dev pkg-config bc gcc libc6-dev make bzip2 binutils dpkg-dev flex bison libssl-dev libelf-dev rsync
 
   * unter Fedora/RedHat/CentOS/etc,
 
@@ -49,11 +49,10 @@ Die Umgebung in welcher ein Kernel gebaut wird braucht ca:
       kann sehr lange dauern. Deshalb empfiehlt es sich, so viel Unnötiges wie
       möglich wegzukonfigurieren, damit die Bauzeit kürzer wird.
 
-  * man kann auch versuchen einen minimalen Kernel zu konfigurieren, allerdings
-    wird berichtet, dass der auch schon für eine falsche Architektur (i386 statt
-    amd64 gebaut hat)
-
-        make tinyconfig
+  * im Netz findet man Konfigurationen für Kernel, darunter diese hier für
+    VirtualBox: https://raw.githubusercontent.com/EvilOlaf/vbox-guest-config/master/linux/linux-4.15.x-server.config
+    Diese kann man nach `linux-5.11.10/.config` kopieren (und wenn der Kernel
+    gebaut wird bei Fragen alles mit Return bestätigen).
 
 * vim +421 arch/x86/boot/compressed/misc.c
 
@@ -76,7 +75,7 @@ Die Umgebung in welcher ein Kernel gebaut wird braucht ca:
 
     * als root: make binrpm-pkg
     * dauert lange
-    * Paket ist unter /root/rpmbuild/RPMS/$ARCH/kernel-5.0.7-1.i386.rpm
+    * Paket ist unter /root/rpmbuild/RPMS/$ARCH/kernel-5.10.11-1.i386.rpm
 
 * im Falle, dass man den neuen Kernel ausserhalb der VM gebaut hatte, diesen
   nun hineinkopieren:
@@ -84,20 +83,20 @@ Die Umgebung in welcher ein Kernel gebaut wird braucht ca:
   * Parameter des folgenden Kommandos müssen an lokale Gegebenheiten
     angepasst werden:
 
-  * scp -P 1234567 ../linux-image-5.0.7_5.0.7-1_amd64.deb localhost:/tmp
+  * scp -P 1234567 ../linux-image-5.10.11_5.10.11-1_amd64.deb localhost:/tmp
 
 * neuen Kernel in VM installieren
 
-  * cd /dorthin_wo_linux-image-5.0.7_5.0.7-1_amd64.deb_ist
+  * cd /dorthin_wo_linux-image-5.10.11_5.10.11-1_amd64.deb_ist
     (entweder unter /tmp oder ../)
 
   * Debian
 
-    * dpkg -i linux-image-5.0.7_5.0.7-1_amd64.deb
+    * dpkg -i linux-image-5.10.11_5.10.11-1_amd64.deb
 
   * rpm
 
-    * rpm -i kernel-5.0.7-1.i386.rpm
+    * rpm -i kernel-5.10.11-1.i386.rpm
     * vim /etc/grub.d/40_custom
 
       * menu entry hinzufügen, analog zu /boot/grub2/grub.conf
