@@ -36,10 +36,6 @@ Die Umgebung in welcher ein Kernel gebaut wird braucht ca:
 
 * Kernel konfigurieren
 
-  * einen Kernel entsprechend den gerade geladenen Modulen konfigurieren:
-
-        make localmodconfig         # [1]
-
   * wer sich Mal anschauen möchte, was man so alles im Kernel konfigurieren
     kann:
 
@@ -104,6 +100,14 @@ Die Umgebung in welcher ein Kernel gebaut wird braucht ca:
     * grub2-mkconfig -o /boot/grub2/grub.cfg
 
 * VM neustarten
+
+Post scriptum:
+
+In der Theorie sollte es möglich sein, sich einen Kernel zu konfigurieren,
+welcher der aktuel laufenden Konfiguration entspricht, das scheint aber
+leider nicht korrekt zu funktionieren:
+
+        make localmodconfig         # [1]
 
 ### Quellen:
 
