@@ -6,8 +6,6 @@ Ansible ist ein Konfigurations- und Deployment-Automatisierungs-Werkzeug.
 Demo
 ----
 
-::
-
     $ cd ansible_demo
     $ ansible-playbook site.yml
 
@@ -30,7 +28,6 @@ Ziele bzw. Vorzüge
 * Automatisierung
 * halb-deklarative Syntax
 * Dokumentation der Installation
-
   * Ziel wird jeweils angegeben
 
 Dokumentation
@@ -48,16 +45,14 @@ Ansible Layout
 
 * ist relativ frei
 
-hosts
-~~~~~
+### hosts
 
 * Deklaration von Maschinen
 * diese können Tasks und Rollen beinhalten
   * siehe ansible_demo/hosts/host_1/setup.yml
 * siehe auch ansible_demo/inventory bzw. ~/.ssh/config
 
-roles
-~~~~~
+### roles
 
 * ursprünglich: Rollen, welche von den hosts eingenommen werden
 * heute: Einheit, welche Tasks zusammenfasst
