@@ -29,7 +29,7 @@ ls
 Pfad-Vervollständigung ("globing")
 ----------------------------------
 
-* *
+* ``*``
 
 man
 ---
@@ -134,7 +134,7 @@ Umleiten
 * >
 * <
 * 2>
-* |
+* ``|``
 
 Iterieren
 ---------
