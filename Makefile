@@ -26,7 +26,7 @@ PDF/%.pdf: %.odp
 	true
 
 PDF/%.pdf: %.md
-	pandoc --pdf-engine=xelatex --template=latex.template --standalone --self-contained "$<" -o "$@"
+	pandoc --pdf-engine=xelatex --template=latex.template --standalone --self-contained --listings "$<" -o "$@"
 
 PDF/%.pdf: %.rst
 	rst2pdf --header "T.Pospíšek, MAS: Betriebssysteme, ###Title###" --footer "###Page###/###Total###" "$<" -o "$@"

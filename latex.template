@@ -3,16 +3,24 @@
 %!TEX TS-program = xelatex
 \documentclass[12pt]{scrartcl}  
 
+% tpo
 % replace 2nd and 3rd level indents with bullets
 \AtBeginDocument{\renewcommand{\labelitemii}{\textbullet}}
 \AtBeginDocument{\renewcommand{\labelitemiii}{\textbullet}}
 
+% tpo
 % fix for pandoc 1.14
 % https://github.com/osener/markup.rocks/issues/4
 % https://github.com/therealmarv/phd_thesis_markdown/commit/ef180985bcd829de8e61f8767d372cbfc32030c5
 %
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% tpo
+\usepackage{color}
+% color from http://latexcolor.com/
+\definecolor{cosmiclatte}{rgb}{1.0, 0.97, 0.91}
+\usepackage{listings}
 
 % The declaration of the document class:
 
@@ -330,6 +338,8 @@ $endif$
 % It then concludes the document it has been writing. 
 
 \begin{document}
+
+\lstset{backgroundcolor=\color{cosmiclatte},basicstyle=\ttfamily}
 
 $if(title)$
 \maketitle
