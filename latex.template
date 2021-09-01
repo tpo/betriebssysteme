@@ -1,5 +1,18 @@
+% based on https://gist.github.com/michaelt/1017790
+%
 %!TEX TS-program = xelatex
 \documentclass[12pt]{scrartcl}  
+
+% replace 2nd and 3rd level indents with bullets
+\AtBeginDocument{\renewcommand{\labelitemii}{\textbullet}}
+\AtBeginDocument{\renewcommand{\labelitemiii}{\textbullet}}
+
+% fix for pandoc 1.14
+% https://github.com/osener/markup.rocks/issues/4
+% https://github.com/therealmarv/phd_thesis_markdown/commit/ef180985bcd829de8e61f8767d372cbfc32030c5
+%
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
 % The declaration of the document class:
 
@@ -118,32 +131,14 @@
 % If you have a copy you might try it; as it is
 % I will comment it out and supply something more certain to be around:
 
-\setmainfont{Times Roman}
-
-% Properly one should specify a sanserif font and a monospace font
-% see e.g. the example of Kieran Healy:
-% \setromanfont[Mapping=tex-text,Numbers=OldStyle]{Minion Pro} 
-% \setsansfont[Mapping=tex-text]{Minion Pro} 
-% \setmonofont[Mapping=tex-text,Scale=0.8]{Pragmata}
-
-% But I hate sanserif fonts, and anyway there are defaults.
-
-
-
-% Heading styles:
-% These commands keep the koma system from making stupid sans serif section headings
-\setkomafont{title}{\rmfamily\mdseries\upshape\normalsize}
-\setkomafont{sectioning}{\rmfamily\mdseries\upshape\normalsize}
-\setkomafont{descriptionlabel}{\rmfamily\mdseries\upshape\normalsize}
-
-
+% tpo
+\setmainfont{Latin Modern Sans}
 
 % I'm puzzled why I have this foonote speciality, 
 % I wonder if it's part of my problem I've been having, but wont look
 % into it now. 
 \usepackage[flushmargin]{footmisc} 
 % \usepackage[hang,flushmargin]{footmisc}
-
 
 % So much for my personal template.
 
@@ -191,7 +186,6 @@ $if(fancy-enums)$
 }\makeatother
 \usepackage{enumerate}
 $endif$
-
 
 % Table formatting: 
 % What if you make a table? -- Pandoc knows, of course, and 
@@ -291,9 +285,18 @@ $endif$
 % Other stuff you specify on the command line:
 % You can include stuff for the header from a file specified on the command line;
 % I've never done this, but that stuff will go here:
-$for(header-includes)$
-$header-includes$
-$endfor$
+% tpo
+%% $for(header-includes)$
+%% $header-includes$
+%% $endfor$
+% tpo
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead[LO,LE]{}
+\fancyhead[CO,CE]{T.Pospíšek, MAS - Betriebssysteme}
+\fancyhead[RO,RE]{}
+\fancyfoot[CO,CE]{}
+\fancyfoot[LE,RO]{\thepage}
 
 % Title, authors, date.
 % If you specified title authors and date at the start of 
@@ -304,9 +307,10 @@ $if(title)$
 \title{$title$}
 $endif$
 \author{$for(author)$$author$$sep$\\$endfor$}
-$if(date)$
-\date{$date$}
-$endif$
+% tpo
+%% $if(date)$
+%% \date{$date$}
+%% $endif$
 
 % At last: 
 % The document itself!:
@@ -326,7 +330,6 @@ $endif$
 % It then concludes the document it has been writing. 
 
 \begin{document}
-
 
 $if(title)$
 \maketitle
