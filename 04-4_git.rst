@@ -8,6 +8,7 @@ Git wird fürs Versionieren von Dateien in einem Verzeichnis verwendet
         $ cd mein_zeug
         $ git init        # Sag git, dass alles in diesem Verzeichnis
                           # versioniert werden soll.
+        Leeres Git-Repository in /home/pepe/mein_zeug/.git/ initialisiert
                       
                           # Dieser Schritt erstellt nur das
                           # Unterverzeichnis '.git/' mit Kontrol-
@@ -20,13 +21,27 @@ Git wird fürs Versionieren von Dateien in einem Verzeichnis verwendet
          mein_verzeichnis/
          mein_verzeichnis/und_noch_eine.txt
 
+         $ git status
+         Auf Branch master
+         
+         Noch keine Commits
+         
+         Unversionierte Dateien:
+           (benutzen Sie "git add <Datei>...", um die Änderungen zum Commit vorzumerken)
+                 mein_binary.exe
+                 mein_verzeichnis/
+                 meine_datei.txt
+         
+         nichts zum Commit vorgemerkt, aber es gibt unversionierte Dateien
+         (benutzen Sie "git add" zum Versionieren)
+
          $ git add *      # git pflegt eine Liste von Dateien, welche zu
                           # einem "Commit" gehören. Dieser Befehl fügt
                           # alle Dateien und Unter-Verzeichnisse dieser
                           # Liste hinzu...
 
-                          # Ein "Commit" sind Änderungen, welche zusammen etwas
-                          # bewirken.
+                          # Ein "Commit" sind Änderungen, welche alle zusammen eine
+                          # für einen Menschen sinnvoll verständliche Einheit bilden.
 
          $ git commit *   # hier sagt man git: "bitte speichere all die geänderten
                           # Dateien und Verzeichnisse welche ich Dir angegeben habe

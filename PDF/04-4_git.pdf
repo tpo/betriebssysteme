@@ -22,7 +22,7 @@ endobj
 endobj
 5 0 obj
 <<
-/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 9 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 /Trans <<
 
@@ -32,23 +32,33 @@ endobj
 endobj
 6 0 obj
 <<
-/PageLabels 10 0 R /PageMode /UseNone /Pages 8 0 R /Type /Catalog
+/Contents 11 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 9 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 7 0 obj
 <<
-/Author () /CreationDate (D:20190511083453+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20190511083453+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (Git) /Trapped /False
+/PageLabels 12 0 R /PageMode /UseNone /Pages 9 0 R /Type /Catalog
 >>
 endobj
 8 0 obj
 <<
-/Count 1 /Kids [ 5 0 R ] /Type /Pages
+/Author () /CreationDate (D:20210902002100+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20210902002100+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Git) /Trapped /False
 >>
 endobj
 9 0 obj
 <<
-/Length 2597
+/Count 2 /Kids [ 5 0 R 6 0 R ] /Type /Pages
+>>
+endobj
+10 0 obj
+<<
+/Length 2956
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -62,32 +72,28 @@ Q
 q
 1 0 0 1 62.69291 707.0236 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Git dient zum versionieren von Dateien in einem Verzeichnis) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Git wird f\374rs Versionieren von Dateien in einem Verzeichnis verwendet) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 205.8236 cm
+1 0 0 1 62.69291 126.2383 cm
 q
 q
-1 0 0 1 0 0 cm
+.952737 0 0 .952737 0 0 cm
 q
-1 0 0 1 6.6 6.6 cm
+1 0 0 1 6.6 6.927412 cm
 q
 .662745 .662745 .662745 RG
 .5 w
 .960784 .960784 .862745 rg
-n -6 -6 468.6898 492 re B*
+n -6 -6 492 600 re B*
 Q
 q
-0 0 0 rg
-BT 1 0 0 1 0 470 Tm /F3 10 Tf 12 TL ($ cd mein_zeug) Tj T* ($ git init        # Sag git, dass alles in diesem Verzeichnis) Tj T* (                  # versioniert werden soll.) Tj T*  T* (                  # Dieser Schritt erstellt nur das) Tj T* (                  # Unterverzeichnis '.git/' mit Kontrol-) Tj T* (                  # strukturen drin und hat keinen weiteren) Tj T* (                  # Seiteneffekt.) Tj T*  T* ( $ find) Tj T* ( meine_datei.txt) Tj T* ( mein_binary.exe) Tj T* ( mein_verzeichnis/) Tj T* ( mein_verzeichnis/und_noch_eine.txt) Tj T*  T* ( $ git add *      # git pflegt eine Liste von Dateien, welche zu) Tj T* (                  # einem "Commit" geh\366ren. Dieser Befehl f\374gt) Tj T* (                  # alle Dateien und Unter-Verzeichnisse dieser) Tj T* (                  # Liste hinzu...) Tj T*  T* (                  # Ein "Commit" sind \304nderungen, welche zusammen etwas) Tj T* (                  # bewirken.) Tj T*  T* ( $ git commit *   # hier sagt man git: "bitte speichere all die ge\344nderten) Tj T* (                  # Dateien und Verzeichnisse welche ich Dir angegeben habe) Tj T* (                  # als eine grosse \304nderung". Git fragt einen danach noch) Tj T* (                  # nach einem \304nderungstext \(prosa Beschreibung der) Tj T* (                  # \304nderungen\).) Tj T*  T* (                  # Eine Kopie der ge\344nderten Dateien wird nun in) Tj T* (                  # .git/objects abgespeichert.) Tj T*  T* ( # nun arbeite ich an meinen Dateien...) Tj T*  T* ( $ edit meine_datei.txt mein_binary.exe) Tj T*  T* ( # ... und sobald ich zufrieden mit dem \(Zwischen\)Resultat bin ...) Tj T*  T* ( $ git add meine_datei.txt mein_binary.exe) Tj T* ( $ git commit meine_datei.txt mein_binary.exe) Tj T* ET
+BT 1 0 0 1 0 578 Tm 12 TL /F3 10 Tf 0 0 0 rg ($ cd mein_zeug) Tj T* ($ git init        # Sag git, dass alles in diesem Verzeichnis) Tj T* (                  # versioniert werden soll.) Tj T* (Leeres Git-Repository in /home/pepe/mein_zeug/.git/ initialisiert) Tj T*  T* (                  # Dieser Schritt erstellt nur das) Tj T* (                  # Unterverzeichnis '.git/' mit Kontrol-) Tj T* (                  # strukturen drin und hat keinen weiteren) Tj T* (                  # Seiteneffekt.) Tj T*  T* ( $ find) Tj T* ( meine_datei.txt) Tj T* ( mein_binary.exe) Tj T* ( mein_verzeichnis/) Tj T* ( mein_verzeichnis/und_noch_eine.txt) Tj T*  T* ( $ git status) Tj T* ( Auf Branch master) Tj T*  T* ( Noch keine Commits) Tj T*  T* ( Unversionierte Dateien:) Tj T* (   \(benutzen Sie "git add ) Tj (<) Tj (Datei) Tj (>) Tj (...", um die \304nderungen zum Commit vorzumerken\)) Tj T* (         mein_binary.exe) Tj T* (         mein_verzeichnis/) Tj T* (         meine_datei.txt) Tj T*  T* ( nichts zum Commit vorgemerkt, aber es gibt unversionierte Dateien) Tj T* ( \(benutzen Sie "git add" zum Versionieren\)) Tj T*  T* ( $ git add *      # git pflegt eine Liste von Dateien, welche zu) Tj T* (                  # einem "Commit" geh\366ren. Dieser Befehl f\374gt) Tj T* (                  # alle Dateien und Unter-Verzeichnisse dieser) Tj T* (                  # Liste hinzu...) Tj T*  T* (                  # Ein "Commit" sind \304nderungen, welche alle zusammen eine) Tj T* (                  # f\374r einen Menschen sinnvoll verst\344ndliche Einheit bilden.) Tj T*  T* ( $ git commit *   # hier sagt man git: "bitte speichere all die ge\344nderten) Tj T* (                  # Dateien und Verzeichnisse welche ich Dir angegeben habe) Tj T* (                  # als eine grosse \304nderung". Git fragt einen danach noch) Tj T* (                  # nach einem \304nderungstext \(prosa Beschreibung der) Tj T* (                  # \304nderungen\).) Tj T*  T* (                  # Eine Kopie der ge\344nderten Dateien wird nun in) Tj T* (                  # .git/objects abgespeichert.) Tj T*  T* ( # nun arbeite ich an meinen Dateien...) Tj T*  T* ET
 Q
 Q
 Q
 Q
-Q
-q
-1 0 0 1 62.69291 197.8236 cm
 Q
 q
 1 0 0 1 56.69291 773.1969 cm
@@ -100,46 +106,100 @@ q
 1 0 0 1 56.69291 56.69291 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 233.9949 0 Td (1/1) Tj T* -233.9949 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 233.9949 0 Td (1/2) Tj T* -233.9949 0 Td ET
 Q
 Q
  
 endstream
 endobj
-10 0 obj
+11 0 obj
 <<
-/Nums [ 0 11 0 R ]
+/Length 820
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 667.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 84 re B*
+Q
+q
+BT 1 0 0 1 0 62 Tm 12 TL /F3 10 Tf 0 0 0 rg ( $ edit meine_datei.txt mein_binary.exe) Tj T*  T* ( # ... und sobald ich zufrieden mit dem \(Zwischen\)Resultat bin ...) Tj T*  T* ( $ git add meine_datei.txt mein_binary.exe) Tj T* ( $ git commit meine_datei.txt mein_binary.exe) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 659.8236 cm
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 153.4149 0 Td (T.Posp\355\232ek, MAS: Betriebssysteme, Git) Tj T* -153.4149 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 233.9949 0 Td (2/2) Tj T* -233.9949 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+12 0 obj
+<<
+/Nums [ 0 13 0 R 1 14 0 R ]
 >>
 endobj
-11 0 obj
+13 0 obj
 <<
 /S /D /St 1
 >>
 endobj
+14 0 obj
+<<
+/S /D /St 2
+>>
+endobj
 xref
-0 12
+0 15
 0000000000 65535 f 
 0000000073 00000 n 
 0000000124 00000 n 
 0000000231 00000 n 
 0000000343 00000 n 
 0000000448 00000 n 
-0000000651 00000 n 
-0000000738 00000 n 
-0000000998 00000 n 
-0000001057 00000 n 
-0000003705 00000 n 
-0000003746 00000 n 
+0000000652 00000 n 
+0000000856 00000 n 
+0000000943 00000 n 
+0000001203 00000 n 
+0000001268 00000 n 
+0000004276 00000 n 
+0000005147 00000 n 
+0000005197 00000 n 
+0000005231 00000 n 
 trailer
 <<
 /ID 
-[<14c31524c31953dfe9aece9d3ca5af31><14c31524c31953dfe9aece9d3ca5af31>]
+[<32077f3e33fd68f712c4fb98748c662c><32077f3e33fd68f712c4fb98748c662c>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
-/Info 7 0 R
-/Root 6 0 R
-/Size 12
+/Info 8 0 R
+/Root 7 0 R
+/Size 15
 >>
 startxref
-3780
+5265
 %%EOF
