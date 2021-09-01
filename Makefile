@@ -9,7 +9,7 @@ TMP := $(shell mktemp -d /tmp/MAS_LibreOffice_to_PDF.XXXXXX)
 #ODP_FILES := $(wildcard *.odp) # will include symlinks, which we don't want
 ODP_FILES := $(shell find . -maxdepth 2 -name "*.odp" -type f)
 RST_FILES := $(shell find . -maxdepth 2 -name "*.rst" -type f)
-MD_FILES  := $(shell find . -maxdepth 2 -name "*.md"  -type f)
+MD_FILES  := $(shell find . -maxdepth 1 -name "*.md"  -type f ! -name README.md)
 SYM_FILES := $(shell find . -maxdepth 2 \( -name "*.rst" -o -name "*.odp" \) -type l)
 
 OPDF_FILES := $(patsubst %.odp,PDF/%.pdf,$(ODP_FILES))
