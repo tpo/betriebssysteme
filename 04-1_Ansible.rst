@@ -30,6 +30,7 @@ Ziele bzw. Vorzüge
 * Automatisierung
 * halb-deklarative Syntax
 * Dokumentation der Installation
+
   * Ziel wird jeweils angegeben
 
 Dokumentation
