@@ -17,6 +17,7 @@
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
 % tpo
+% syntaxhighlighting for code
 \usepackage{color}
 % color from http://latexcolor.com/
 \definecolor{cosmiclatte}{rgb}{1.0, 0.97, 0.91}
@@ -339,6 +340,8 @@ $endif$
 
 \begin{document}
 
+% tpo
+% code listing settings - ttfamily is some monospace font
 \lstset{backgroundcolor=\color{cosmiclatte},basicstyle=\ttfamily}
 
 $if(title)$
