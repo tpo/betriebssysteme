@@ -1,7 +1,7 @@
 Git
 ===
 
-Git dient zum versionieren von Dateien in einem Verzeichnis
+Git wird fürs Versionieren von Dateien in einem Verzeichnis verwendet
 
 ::
 
