@@ -25,7 +25,7 @@ PDF/%.pdf: %.odp
 	[ "$$output_file" != "$@" ] && mv $$output_file $@; \
 	true
 
-PDF/%.pdf: %.md
+PDF/%.pdf: %.md latex.template
 	pandoc --pdf-engine=xelatex --template=latex.template --standalone --self-contained --listings "$<" -o "$@"
 
 PDF/%.pdf: %.rst
