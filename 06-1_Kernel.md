@@ -8,13 +8,14 @@ Die Umgebung in welcher ein Kernel gebaut wird braucht ca:
 
 * Arbeitsverzeichnis erstellen und reinwechseln
 
-  * mkdir uebung && cd uebung
+      mkdir uebung && cd uebung
 
 * auf kernel.org gehen und URL des aktuelsten Kernels notiern
 * Kernel runterladen. Z.B.
 
       apt-get install wget vim
-      wget https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.11.10.tar.xz
+      wget \
+        https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.11.10.tar.xz
 
 * Kernel auspacken
 
@@ -28,11 +29,16 @@ Die Umgebung in welcher ein Kernel gebaut wird braucht ca:
 
   * unter Debian/Ubuntu/etc.
 
-        apt-get install ncurses-dev pkg-config bc gcc libc6-dev make bzip2 binutils dpkg-dev flex bison libssl-dev libelf-dev rsync
+        apt-get install ncurses-dev pkg-config bc gcc
+                        libc6-dev make bzip2 binutils \
+                        dpkg-dev flex bison libssl-dev \
+                        libelf-dev rsync
 
   * unter Fedora/RedHat/CentOS/etc,
 
-        yum install bison flex bc rpm-build bc gcc make bzip2 ncurses-devel # nicht getestet
+        yum install bison flex bc rpm-build bc gcc make \
+                    bzip2 ncurses-devel
+        # nicht getestet!
 
 * Kernel konfigurieren
 
@@ -64,14 +70,16 @@ Die Umgebung in welcher ein Kernel gebaut wird braucht ca:
 
   * Debian
 
-    * als root: make bindeb-pkg     # [1]
+        sudo make bindeb-pkg     # [1]
+
     * dauert lange
 
   * rpm
 
-    * als root: make binrpm-pkg
+        sudo make binrpm-pkg
+
     * dauert lange
-    * Paket ist unter /root/rpmbuild/RPMS/$ARCH/kernel-5.10.11-1.i386.rpm
+    * Paket ist unter `/root/rpmbuild/RPMS/$ARCH/kernel-5.10.11-1.i386.rpm`
 
 * im Falle, dass man den neuen Kernel ausserhalb der VM gebaut hatte, diesen
   nun hineinkopieren:
@@ -79,25 +87,27 @@ Die Umgebung in welcher ein Kernel gebaut wird braucht ca:
   * Parameter des folgenden Kommandos müssen an lokale Gegebenheiten
     angepasst werden:
 
-  * scp -P 1234567 ../linux-image-5.10.11_5.10.11-1_amd64.deb localhost:/tmp
+        scp -P 1234567 \
+            ../linux-image-5.10.11_5.10.11-1_amd64.deb \
+            localhost:/tmp
 
 * neuen Kernel in VM installieren
 
-  * cd /dorthin_wo_linux-image-5.10.11_5.10.11-1_amd64.deb_ist
-    (entweder unter /tmp oder ../)
+      cd /dorthin_wo_linux-image-5.10.11_5.10.11-1_amd64.deb_ist
+      # (entweder unter /tmp oder ../)
 
   * Debian
 
-    * dpkg -i linux-image-5.10.11_5.10.11-1_amd64.deb
+        dpkg -i linux-image-5.10.11_5.10.11-1_amd64.deb
 
   * rpm
 
-    * rpm -i kernel-5.10.11-1.i386.rpm
-    * vim /etc/grub.d/40_custom
+        rpm -i kernel-5.10.11-1.i386.rpm
+        vim /etc/grub.d/40_custom
 
-      * menu entry hinzufügen, analog zu /boot/grub2/grub.conf
+    * menu entry hinzufügen, analog zu `/boot/grub2/grub.conf`
 
-    * grub2-mkconfig -o /boot/grub2/grub.cfg
+        grub2-mkconfig -o /boot/grub2/grub.cfg
 
 * VM neustarten
 
@@ -107,7 +117,7 @@ In der Theorie sollte es möglich sein, sich einen Kernel zu konfigurieren,
 welcher der aktuel laufenden Konfiguration entspricht, das scheint aber
 leider nicht korrekt zu funktionieren:
 
-        make localmodconfig         # [1]
+    make localmodconfig         # [1]
 
 ### Quellen:
 
