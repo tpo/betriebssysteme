@@ -7,15 +7,17 @@
 TMP := $(shell mktemp -d /tmp/MAS_LibreOffice_to_PDF.XXXXXX)
 
 #ODP_FILES := $(wildcard *.odp) # will include symlinks, which we don't want
-ODP_FILES := $(shell find . -maxdepth 2 -name "*.odp" -type f)
-RST_FILES := $(shell find . -maxdepth 2 -name "*.rst" -type f)
-MD_FILES  := $(shell find . -maxdepth 1 -name "*.md"  -type f ! -name README.md)
-SYM_FILES := $(shell find . -maxdepth 2 \( -name "*.rst" -o -name "*.odp" \) -type l)
+ODP_FILES := $(shell find . -maxdepth 2 -name "*.odp"                        -type f)
+RST_FILES := $(shell find . -maxdepth 2 -name "*.rst"                        -type f)
+MD_FILES  := $(shell find . -maxdepth 1 -name "*.md"                         -type f ! -name README.md)
+C_FILES   := $(shell find . -maxdepth 1 -name "*.c"                          -type f)
+SYM_FILES := $(shell find . -maxdepth 1 \( -name "*.rst" -o -name "*.odp" \) -type l)
 
-OPDF_FILES := $(patsubst %.odp,PDF/%.pdf,$(ODP_FILES))
-RPDF_FILES := $(patsubst %.rst,PDF/%.pdf,$(RST_FILES))
-MPDF_FILES := $(patsubst %.md,PDF/%.pdf,$(MD_FILES))
-SPDF_FILES := $(patsubst %.rst,PDF/%.pdf,$(patsubst %.odp,PDF/%.pdf,$(SYM_FILES)))
+OPDF_FILES := $(patsubst %.odp,PDF/%.pdf,                              $(ODP_FILES))
+RPDF_FILES := $(patsubst %.rst,PDF/%.pdf,                              $(RST_FILES))
+MPDF_FILES := $(patsubst %.md,PDF/%.pdf,                               $(MD_FILES))
+CPDF_FILES := $(patsubst %.c,PDF/%.c,                                  $(C_FILES))
+SPDF_FILES := $(patsubst %.rst,PDF/%.pdf, $(patsubst %.odp, PDF/%.pdf, $(SYM_FILES)))
 
 PDF/%.pdf: %.odp
 	libreoffice -env:UserInstallation=file://$(TMP) --headless --invisible --convert-to pdf --outdir PDF "$<"
@@ -31,13 +33,15 @@ PDF/%.pdf: %.md latex.template
 PDF/%.pdf: %.rst
 	rst2pdf --header "T.Pospíšek, MAS: Betriebssysteme, ###Title###" --footer "###Page###/###Total###" "$<" -o "$@"
 
+PDF/%.c: %.c
+	cd PDF && ln -s "../$<" "$<"
+
 # echo $(for i in $(SYM_FILES); do $(basename $i)
 
 .PHONY: all symlinks
 
-all: $(OPDF_FILES) $(RPDF_FILES) $(MPDF_FILES) symlinks
+all: $(OPDF_FILES) $(RPDF_FILES) $(MPDF_FILES) $(CPDF_FILES) extra_symlinks
 
-symlinks: 
+extra_symlinks:
 	cd PDF && [ -h 03-1_Shell.pdf ]              || ln -s 02-1_Shell.pdf 03-1_Shell.pdf
 	cd PDF && [ -h 03-2_Architekturansätze.pdf ] || ln -s 02-2_Architekturansätze.pdf 03-2_Architekturansätze.pdf
-
