@@ -23,6 +23,15 @@
 \definecolor{cosmiclatte}{rgb}{1.0, 0.97, 0.91}
 \usepackage{listings}
 
+% tpo
+% fix:
+%     ! Undefined control sequence.
+%     l.372     Diese kann man nach \passthrough
+%
+%     make: *** [Makefile:29: PDF/./06-1_Kernel.pdf] Fehler 43
+% https://stackoverflow.com/questions/50854429/bookdown-undefined-control-sequence-recently-read-passthrough#comment88977753_50859380
+\newcommand{\passthrough}[1]{\lstset{mathescape=false}#1\lstset{mathescape=true}} 
+
 % The declaration of the document class:
 
 % The second line here, i.e.
