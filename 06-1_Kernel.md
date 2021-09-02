@@ -70,7 +70,7 @@ Die Umgebung in welcher ein Kernel gebaut wird braucht ca:
 
   * Debian
 
-        sudo make bindeb-pkg     # [1]
+        sudo make bindeb-pkg
 
     * dauert lange
 
@@ -117,9 +117,9 @@ In der Theorie sollte es möglich sein, sich einen Kernel zu konfigurieren,
 welcher der aktuel laufenden Konfiguration entspricht, das scheint aber
 leider nicht korrekt zu funktionieren:
 
-    make localmodconfig         # [1]
+    make localmodconfig
 
 ### Quellen:
 
-[1] https://help.ubuntu.com/community/Kernel/Compile 
-[2] https://kernel-team.pages.debian.net/kernel-handbook/
+* https://help.ubuntu.com/community/Kernel/Compile 
+* https://kernel-team.pages.debian.net/kernel-handbook/
