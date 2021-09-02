@@ -19,7 +19,7 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://web.archive.org/web/20151030044959/http://www.powershellpro.com/powershell-tutorial-introduction/)
->> /Border [ 0 0 0 ] /Rect [ 244.3029 714.0236 532.2152 726.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 244.3029 714.0236 531.1129 726.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 5 0 obj
@@ -155,7 +155,7 @@ endobj
 endobj
 21 0 obj
 <<
-/Author () /CreationDate (D:20200509082225+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200509082225+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20210902105630+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20210902105630+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title () /Trapped /False
 >>
 endobj
@@ -337,7 +337,7 @@ endobj
 endobj
 57 0 obj
 <<
-/Dest [ 19 0 R /XYZ 62.69291 310.2236 0 ] /Parent 22 0 R /Prev 56 0 R /Title (Ggf. TODO)
+/Dest [ 19 0 R /XYZ 62.69291 310.2236 0 ] /Parent 22 0 R /Prev 56 0 R /Title (GgF. TODO)
 >>
 endobj
 58 0 obj
@@ -347,7 +347,7 @@ endobj
 endobj
 59 0 obj
 <<
-/Length 4240
+/Length 4248
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -360,7 +360,7 @@ Q
 q
 1 0 0 1 62.69291 702.0236 cm
 q
-BT 1 0 0 1 0 14 Tm .367441 Tw 12 TL /F1 10 Tf 0 0 0 rg (Basierend auf dem "Powershell Tutorial":) Tj 0 0 .501961 rg (https://web.archive.org/web/20151030044959/http://www.powers) Tj T* 0 Tw (hellpro.com/powershell-tutorial-introduction/) Tj 0 0 0 rg ( von Jesse Hamrick.) Tj T* ET
+BT 1 0 0 1 0 14 Tm 12 TL /F1 10 Tf 0 0 0 rg (Basierend auf dem "Powershell Tutorial":) Tj 0 0 .501961 rg (https://web.archive.org/web/20151030044959/http://www.powers) Tj 0 0 0 rg  T* 0 0 .501961 rg (hellpro.com/powershell-tutorial-introduction/) Tj 0 0 0 rg ( von Jesse Hamrick.) Tj T* ET
 Q
 Q
 q
@@ -397,6 +397,7 @@ q
 Q
 q
 1 0 0 1 62.69291 564.0236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -416,11 +417,13 @@ Q
 q
 Q
 Q
+Q
 q
 1 0 0 1 62.69291 558.0236 cm
 Q
 q
 1 0 0 1 62.69291 546.0236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -433,10 +436,11 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Kommandos sind ) Tj /F3 10 Tf 0 0 0 rg (CmdLets) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Kommandos sind ) Tj /F3 10 Tf (CmdLets) Tj T* ET
 Q
 Q
 q
+Q
 Q
 Q
 q
@@ -568,7 +572,7 @@ endstream
 endobj
 60 0 obj
 <<
-/Length 6906
+/Length 6954
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -599,6 +603,7 @@ q
 Q
 q
 1 0 0 1 62.69291 645.0236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -618,6 +623,7 @@ Q
 q
 Q
 Q
+Q
 q
 1 0 0 1 62.69291 645.0236 cm
 Q
@@ -635,6 +641,7 @@ q
 Q
 q
 1 0 0 1 62.69291 588.0236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -654,11 +661,13 @@ Q
 q
 Q
 Q
+Q
 q
 1 0 0 1 62.69291 582.0236 cm
 Q
 q
 1 0 0 1 62.69291 570.0236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -678,11 +687,13 @@ Q
 q
 Q
 Q
+Q
 q
 1 0 0 1 62.69291 564.0236 cm
 Q
 q
 1 0 0 1 62.69291 552.0236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -702,6 +713,7 @@ Q
 q
 Q
 Q
+Q
 q
 1 0 0 1 62.69291 552.0236 cm
 Q
@@ -719,6 +731,7 @@ q
 Q
 q
 1 0 0 1 62.69291 495.0236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -738,11 +751,13 @@ Q
 q
 Q
 Q
+Q
 q
 1 0 0 1 62.69291 489.0236 cm
 Q
 q
 1 0 0 1 62.69291 477.0236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -760,6 +775,7 @@ BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Set-Alias gs Get-Service) Tj T* ET
 Q
 Q
 q
+Q
 Q
 Q
 q
@@ -780,6 +796,7 @@ q
 Q
 q
 1 0 0 1 62.69291 441.0236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -797,6 +814,7 @@ BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Export-Alias -Path MyAliases.txt) Tj T* ET
 Q
 Q
 q
+Q
 Q
 Q
 q
@@ -823,6 +841,7 @@ q
 Q
 q
 1 0 0 1 62.69291 360.0236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -840,6 +859,7 @@ BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (echo $Profile) Tj T* ET
 Q
 Q
 q
+Q
 Q
 Q
 q
@@ -860,6 +880,7 @@ q
 Q
 q
 1 0 0 1 62.69291 324.0236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -879,11 +900,13 @@ Q
 q
 Q
 Q
+Q
 q
 1 0 0 1 62.69291 318.0236 cm
 Q
 q
 1 0 0 1 62.69291 306.0236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -903,11 +926,13 @@ Q
 q
 Q
 Q
+Q
 q
 1 0 0 1 62.69291 300.0236 cm
 Q
 q
 1 0 0 1 62.69291 288.0236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -927,11 +952,13 @@ Q
 q
 Q
 Q
+Q
 q
 1 0 0 1 62.69291 282.0236 cm
 Q
 q
 1 0 0 1 62.69291 270.0236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -949,6 +976,7 @@ BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Notepad $Profile) Tj T* ET
 Q
 Q
 q
+Q
 Q
 Q
 q
@@ -1006,7 +1034,7 @@ endstream
 endobj
 61 0 obj
 <<
-/Length 8196
+/Length 8248
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -1045,6 +1073,7 @@ q
 Q
 q
 1 0 0 1 62.69291 634.8236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1064,11 +1093,13 @@ Q
 q
 Q
 Q
+Q
 q
 1 0 0 1 62.69291 628.8236 cm
 Q
 q
 1 0 0 1 62.69291 616.8236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1088,11 +1119,13 @@ Q
 q
 Q
 Q
+Q
 q
 1 0 0 1 62.69291 610.8236 cm
 Q
 q
 1 0 0 1 62.69291 544.8236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1117,6 +1150,7 @@ q
 Q
 q
 1 0 0 1 23 33 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1136,11 +1170,13 @@ Q
 q
 Q
 Q
+Q
 q
 1 0 0 1 23 27 cm
 Q
 q
 1 0 0 1 23 -3 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1165,6 +1201,7 @@ q
 Q
 q
 1 0 0 1 23 -3 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1184,16 +1221,19 @@ Q
 q
 Q
 Q
-q
-1 0 0 1 23 -3 cm
-Q
-q
-Q
 Q
 q
 1 0 0 1 23 -3 cm
 Q
 q
+Q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
 Q
 Q
 q
@@ -1227,6 +1267,7 @@ q
 Q
 q
 1 0 0 1 62.69291 457.8236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1244,6 +1285,7 @@ BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Get-Command Format-*) Tj T* ET
 Q
 Q
 q
+Q
 Q
 Q
 q
@@ -1278,6 +1320,7 @@ q
 Q
 q
 1 0 0 1 62.69291 362.6236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1297,11 +1340,13 @@ Q
 q
 Q
 Q
+Q
 q
 1 0 0 1 62.69291 356.6236 cm
 Q
 q
 1 0 0 1 62.69291 344.6236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1321,11 +1366,13 @@ Q
 q
 Q
 Q
+Q
 q
 1 0 0 1 62.69291 338.6236 cm
 Q
 q
 1 0 0 1 62.69291 326.6236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1344,11 +1391,13 @@ Q
 q
 Q
 Q
+Q
 q
 1 0 0 1 62.69291 320.6236 cm
 Q
 q
 1 0 0 1 62.69291 308.6236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1365,6 +1414,7 @@ BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Get-ChildItem -Path C:\\ \246 Export
 Q
 Q
 q
+Q
 Q
 Q
 q
@@ -1384,6 +1434,7 @@ q
 Q
 q
 1 0 0 1 62.69291 251.6236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1403,6 +1454,7 @@ Q
 q
 Q
 Q
+Q
 q
 1 0 0 1 62.69291 251.6236 cm
 Q
@@ -1417,6 +1469,7 @@ q
 Q
 q
 1 0 0 1 62.69291 98.62362 cm
+q
 1 1 1 rg
 n 0 108 469.8898 -18 re f*
 .878431 .878431 .878431 rg
@@ -1543,6 +1596,7 @@ n 0 0 m 0 108 l S
 n 469.8898 0 m 469.8898 108 l S
 Q
 Q
+Q
 q
 1 0 0 1 56.69291 773.1969 cm
 q
@@ -1562,12 +1616,13 @@ endstream
 endobj
 62 0 obj
 <<
-/Length 6347
+/Length 6371
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
 1 0 0 1 62.69291 627.0236 cm
+q
 1 1 1 rg
 n 0 126 469.8898 -18 re f*
 .878431 .878431 .878431 rg
@@ -1693,6 +1748,7 @@ n 469.8898 0 m 469.8898 126 l S
 n 0 0 m 469.8898 0 l S
 Q
 Q
+Q
 q
 1 0 0 1 62.69291 627.0236 cm
 Q
@@ -1737,6 +1793,7 @@ q
 Q
 q
 1 0 0 1 62.69291 492.0236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1753,6 +1810,7 @@ BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Get-PSProvider) Tj T* ET
 Q
 Q
 q
+Q
 Q
 Q
 q
@@ -1794,6 +1852,7 @@ q
 Q
 q
 1 0 0 1 62.69291 348.8236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1811,6 +1870,7 @@ BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Get-PSDrive) Tj T* ET
 Q
 Q
 q
+Q
 Q
 Q
 q
@@ -1852,6 +1912,7 @@ q
 Q
 q
 1 0 0 1 62.69291 145.6236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1871,11 +1932,13 @@ Q
 q
 Q
 Q
+Q
 q
 1 0 0 1 62.69291 139.6236 cm
 Q
 q
 1 0 0 1 62.69291 127.6236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1894,11 +1957,13 @@ Q
 q
 Q
 Q
+Q
 q
 1 0 0 1 62.69291 121.6236 cm
 Q
 q
 1 0 0 1 62.69291 109.6236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1916,6 +1981,7 @@ BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Get-ChildItem -Name R* # alle Aliase deren Na
 Q
 Q
 q
+Q
 Q
 Q
 q
@@ -1950,7 +2016,7 @@ endstream
 endobj
 63 0 obj
 <<
-/Length 4690
+/Length 4702
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -1959,6 +2025,7 @@ q
 Q
 q
 1 0 0 1 62.69291 741.0236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1976,6 +2043,7 @@ BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Get-ChildItem \246 Where-Object {$_.Name -lik
 Q
 Q
 q
+Q
 Q
 Q
 q
@@ -2065,6 +2133,7 @@ q
 Q
 q
 1 0 0 1 62.69291 249.4236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -2075,6 +2144,7 @@ BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (> $foobar = $foobar -replace "welt",
 Q
 Q
 q
+Q
 Q
 Q
 q
@@ -2091,6 +2161,7 @@ q
 Q
 q
 1 0 0 1 62.69291 114.4236 cm
+q
 1 1 1 rg
 n 0 90 469.8898 -18 re f*
 .878431 .878431 .878431 rg
@@ -2189,6 +2260,7 @@ n 0 0 m 0 90 l S
 n 469.8898 0 m 469.8898 90 l S
 Q
 Q
+Q
 q
 1 0 0 1 62.69291 114.4236 cm
 Q
@@ -2224,12 +2296,13 @@ endstream
 endobj
 64 0 obj
 <<
-/Length 5685
+/Length 5705
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
 1 0 0 1 62.69291 741.0236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2249,6 +2322,7 @@ Q
 q
 Q
 Q
+Q
 q
 1 0 0 1 62.69291 741.0236 cm
 Q
@@ -2263,6 +2337,7 @@ q
 Q
 q
 1 0 0 1 62.69291 480.0236 cm
+q
 1 1 1 rg
 n 0 216 469.8898 -18 re f*
 .878431 .878431 .878431 rg
@@ -2452,6 +2527,7 @@ n 0 0 m 0 216 l S
 n 469.8898 0 m 469.8898 216 l S
 Q
 Q
+Q
 q
 1 0 0 1 62.69291 480.0236 cm
 Q
@@ -2463,6 +2539,7 @@ q
 Q
 q
 1 0 0 1 62.69291 462.0236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2480,6 +2557,7 @@ BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ([int]$zahl = 3) Tj T* ET
 Q
 Q
 q
+Q
 Q
 Q
 q
@@ -2524,6 +2602,7 @@ q
 Q
 q
 1 0 0 1 62.69291 351.8236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -2535,6 +2614,7 @@ q
 Q
 q
 1 0 0 1 20 0 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2554,10 +2634,12 @@ Q
 q
 Q
 Q
+Q
 q
 1 0 0 1 20 0 cm
 Q
 q
+Q
 Q
 Q
 q
@@ -2608,7 +2690,7 @@ endstream
 endobj
 65 0 obj
 <<
-/Length 4859
+/Length 4879
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -2700,6 +2782,7 @@ q
 Q
 q
 1 0 0 1 62.69291 546.4236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2719,11 +2802,13 @@ Q
 q
 Q
 Q
+Q
 q
 1 0 0 1 62.69291 540.4236 cm
 Q
 q
 1 0 0 1 62.69291 528.4236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2743,11 +2828,13 @@ Q
 q
 Q
 Q
+Q
 q
 1 0 0 1 62.69291 522.4236 cm
 Q
 q
 1 0 0 1 62.69291 510.4236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2767,11 +2854,13 @@ Q
 q
 Q
 Q
+Q
 q
 1 0 0 1 62.69291 504.4236 cm
 Q
 q
 1 0 0 1 62.69291 492.4236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2791,11 +2880,13 @@ Q
 q
 Q
 Q
+Q
 q
 1 0 0 1 62.69291 486.4236 cm
 Q
 q
 1 0 0 1 62.69291 474.4236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2813,6 +2904,7 @@ BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (foreach \($i in $collection\) {}) Tj T* ET
 Q
 Q
 q
+Q
 Q
 Q
 q
@@ -3158,7 +3250,7 @@ endstream
 endobj
 67 0 obj
 <<
-/Length 3795
+/Length 3799
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -3277,7 +3369,7 @@ Q
 q
 1 0 0 1 62.69291 289.2236 cm
 q
-BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Ggf. TODO) Tj T* ET
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (GgF. TODO) Tj T* ET
 Q
 Q
 q
@@ -3288,6 +3380,7 @@ q
 Q
 q
 1 0 0 1 62.69291 253.2236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -3304,6 +3397,7 @@ BT 1 0 0 1 0 14 Tm 1.306588 Tw 12 TL /F1 10 Tf 0 0 .501961 rg (https://web.archi
 Q
 Q
 q
+Q
 Q
 Q
 q
@@ -3442,28 +3536,28 @@ xref
 0000008375 00000 n 
 0000008486 00000 n 
 0000008601 00000 n 
-0000012893 00000 n 
-0000019851 00000 n 
-0000028099 00000 n 
-0000034498 00000 n 
-0000039240 00000 n 
-0000044977 00000 n 
-0000049888 00000 n 
-0000054241 00000 n 
-0000058088 00000 n 
-0000058204 00000 n 
-0000058238 00000 n 
-0000058272 00000 n 
-0000058306 00000 n 
-0000058340 00000 n 
-0000058374 00000 n 
-0000058408 00000 n 
-0000058442 00000 n 
-0000058476 00000 n 
+0000012901 00000 n 
+0000019907 00000 n 
+0000028207 00000 n 
+0000034630 00000 n 
+0000039384 00000 n 
+0000045141 00000 n 
+0000050072 00000 n 
+0000054425 00000 n 
+0000058276 00000 n 
+0000058392 00000 n 
+0000058426 00000 n 
+0000058460 00000 n 
+0000058494 00000 n 
+0000058528 00000 n 
+0000058562 00000 n 
+0000058596 00000 n 
+0000058630 00000 n 
+0000058664 00000 n 
 trailer
 <<
 /ID 
-[<3f9bc4a29d0a2916a0f15adea2a47fb5><3f9bc4a29d0a2916a0f15adea2a47fb5>]
+[<3b16b0e5a10bd08ea75451f8668e0165><3b16b0e5a10bd08ea75451f8668e0165>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 21 0 R
@@ -3471,5 +3565,5 @@ trailer
 /Size 78
 >>
 startxref
-58510
+58698
 %%EOF

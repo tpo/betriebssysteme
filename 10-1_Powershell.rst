@@ -528,7 +528,7 @@ Um alle Methoden von 'Win32_NetworkAdapterConfiguration' anzuzeigen:
   > Get-WmiObject Win32_NetworkAdapterConfiguration `¦
   >>   Get-Member -MemberType Methods ¦ Format-List
 
-Ggf. TODO
+GgF. TODO
 =========
 * https://web.archive.org/web/20151030044959/http://www.powershellpro.com/
   * PowerShell Scripting with WMI Part 2
