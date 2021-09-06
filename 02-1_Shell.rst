@@ -9,6 +9,8 @@ verschiedene Shells
 * /bin/sh
 * zsh
 * ksh
+* nushell
+* elvish
 * etc.
 
 In einer Desktop Umgebung lässt man die Shell normalerweise in
