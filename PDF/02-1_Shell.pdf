@@ -2,7 +2,7 @@
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 5 0 R /F4 10 0 R
+/F1 2 0 R /F2 3 0 R /F3 5 0 R
 >>
 endobj
 2 0 obj
@@ -29,7 +29,7 @@ endobj
 endobj
 6 0 obj
 <<
-/Annots [ 4 0 R ] /Contents 47 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 46 0 R /Resources <<
+/Annots [ 4 0 R ] /Contents 46 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 45 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -46,7 +46,7 @@ endobj
 endobj
 8 0 obj
 <<
-/Annots [ 7 0 R ] /Contents 48 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 46 0 R /Resources <<
+/Annots [ 7 0 R ] /Contents 47 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 45 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -56,7 +56,7 @@ endobj
 endobj
 9 0 obj
 <<
-/Contents 49 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 46 0 R /Resources <<
+/Contents 48 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 45 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 /Trans <<
 
@@ -66,12 +66,17 @@ endobj
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+/Contents 49 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 45 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 11 0 obj
 <<
-/Contents 50 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 46 0 R /Resources <<
+/Contents 50 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 45 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 /Trans <<
 
@@ -81,186 +86,176 @@ endobj
 endobj
 12 0 obj
 <<
-/Contents 51 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 46 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Outlines 14 0 R /PageLabels 51 0 R /PageMode /UseNone /Pages 45 0 R /Type /Catalog
 >>
 endobj
 13 0 obj
 <<
-/Outlines 15 0 R /PageLabels 52 0 R /PageMode /UseNone /Pages 46 0 R /Type /Catalog
+/Author () /CreationDate (D:20210914144938+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20210914144938+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Arbeiten in der Shell \(Bash\)) /Trapped /False
 >>
 endobj
 14 0 obj
 <<
-/Author () /CreationDate (D:20210906192039+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20210906192039+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (Arbeiten in der Shell \(Bash\)) /Trapped /False
+/Count 30 /First 15 0 R /Last 44 0 R /Type /Outlines
 >>
 endobj
 15 0 obj
 <<
-/Count 30 /First 16 0 R /Last 45 0 R /Type /Outlines
+/Dest [ 6 0 R /XYZ 62.69291 695.0236 0 ] /Next 16 0 R /Parent 14 0 R /Title (verschiedene Shells)
 >>
 endobj
 16 0 obj
 <<
-/Dest [ 6 0 R /XYZ 62.69291 695.0236 0 ] /Next 17 0 R /Parent 15 0 R /Title (verschiedene Shells)
+/Dest [ 6 0 R /XYZ 62.69291 500.0236 0 ] /Next 17 0 R /Parent 14 0 R /Prev 15 0 R /Title (cd)
 >>
 endobj
 17 0 obj
 <<
-/Dest [ 6 0 R /XYZ 62.69291 500.0236 0 ] /Next 18 0 R /Parent 15 0 R /Prev 16 0 R /Title (cd)
+/Dest [ 6 0 R /XYZ 62.69291 425.0236 0 ] /Next 18 0 R /Parent 14 0 R /Prev 16 0 R /Title (ls)
 >>
 endobj
 18 0 obj
 <<
-/Dest [ 6 0 R /XYZ 62.69291 425.0236 0 ] /Next 19 0 R /Parent 15 0 R /Prev 17 0 R /Title (ls)
+/Dest [ 6 0 R /XYZ 62.69291 332.0236 0 ] /Next 19 0 R /Parent 14 0 R /Prev 17 0 R /Title (Pfad-Vervollst\344ndigung \("globing"\))
 >>
 endobj
 19 0 obj
 <<
-/Dest [ 6 0 R /XYZ 62.69291 332.0236 0 ] /Next 20 0 R /Parent 15 0 R /Prev 18 0 R /Title (Pfad-Vervollst\344ndigung \("globing"\))
+/Dest [ 6 0 R /XYZ 62.69291 275.0236 0 ] /Next 20 0 R /Parent 14 0 R /Prev 18 0 R /Title (man)
 >>
 endobj
 20 0 obj
 <<
-/Dest [ 6 0 R /XYZ 62.69291 275.0236 0 ] /Next 21 0 R /Parent 15 0 R /Prev 19 0 R /Title (man)
+/Dest [ 6 0 R /XYZ 62.69291 200.0236 0 ] /Next 21 0 R /Parent 14 0 R /Prev 19 0 R /Title (Docu)
 >>
 endobj
 21 0 obj
 <<
-/Dest [ 6 0 R /XYZ 62.69291 200.0236 0 ] /Next 22 0 R /Parent 15 0 R /Prev 20 0 R /Title (Docu)
+/Dest [ 6 0 R /XYZ 62.69291 143.0236 0 ] /Next 22 0 R /Parent 14 0 R /Prev 20 0 R /Title (Dateien anzeigen)
 >>
 endobj
 22 0 obj
 <<
-/Dest [ 6 0 R /XYZ 62.69291 143.0236 0 ] /Next 23 0 R /Parent 15 0 R /Prev 21 0 R /Title (Dateien anzeigen)
+/Dest [ 8 0 R /XYZ 62.69291 729.0236 0 ] /Next 23 0 R /Parent 14 0 R /Prev 21 0 R /Title (Varianten von Anzeigen)
 >>
 endobj
 23 0 obj
 <<
-/Dest [ 8 0 R /XYZ 62.69291 729.0236 0 ] /Next 24 0 R /Parent 15 0 R /Prev 22 0 R /Title (Varianten von Anzeigen)
+/Dest [ 8 0 R /XYZ 62.69291 636.0236 0 ] /Next 24 0 R /Parent 14 0 R /Prev 22 0 R /Title (Logs)
 >>
 endobj
 24 0 obj
 <<
-/Dest [ 8 0 R /XYZ 62.69291 636.0236 0 ] /Next 25 0 R /Parent 15 0 R /Prev 23 0 R /Title (Logs)
+/Dest [ 8 0 R /XYZ 62.69291 585.0236 0 ] /Next 25 0 R /Parent 14 0 R /Prev 23 0 R /Title (Was geht?)
 >>
 endobj
 25 0 obj
 <<
-/Dest [ 8 0 R /XYZ 62.69291 585.0236 0 ] /Next 26 0 R /Parent 15 0 R /Prev 24 0 R /Title (Was geht?)
+/Dest [ 8 0 R /XYZ 62.69291 510.0236 0 ] /Next 26 0 R /Parent 14 0 R /Prev 24 0 R /Title (Daemons, Kernel Threads)
 >>
 endobj
 26 0 obj
 <<
-/Dest [ 8 0 R /XYZ 62.69291 510.0236 0 ] /Next 27 0 R /Parent 15 0 R /Prev 25 0 R /Title (Daemons, Kernel Threads)
+/Dest [ 8 0 R /XYZ 62.69291 417.0236 0 ] /Next 27 0 R /Parent 14 0 R /Prev 25 0 R /Title (Speicher und Prozesse)
 >>
 endobj
 27 0 obj
 <<
-/Dest [ 8 0 R /XYZ 62.69291 417.0236 0 ] /Next 28 0 R /Parent 15 0 R /Prev 26 0 R /Title (Speicher und Prozesse)
+/Dest [ 8 0 R /XYZ 62.69291 342.0236 0 ] /Next 28 0 R /Parent 14 0 R /Prev 26 0 R /Title (Dateien finden)
 >>
 endobj
 28 0 obj
 <<
-/Dest [ 8 0 R /XYZ 62.69291 342.0236 0 ] /Next 29 0 R /Parent 15 0 R /Prev 27 0 R /Title (Dateien finden)
+/Dest [ 8 0 R /XYZ 62.69291 213.0236 0 ] /Next 29 0 R /Parent 14 0 R /Prev 27 0 R /Title (Sachen in Dateien finden)
 >>
 endobj
 29 0 obj
 <<
-/Dest [ 8 0 R /XYZ 62.69291 213.0236 0 ] /Next 30 0 R /Parent 15 0 R /Prev 28 0 R /Title (Sachen in Dateien finden)
+/Dest [ 8 0 R /XYZ 62.69291 138.0236 0 ] /Next 30 0 R /Parent 14 0 R /Prev 28 0 R /Title (Paketverwaltung)
 >>
 endobj
 30 0 obj
 <<
-/Dest [ 8 0 R /XYZ 62.69291 138.0236 0 ] /Next 31 0 R /Parent 15 0 R /Prev 29 0 R /Title (Paketverwaltung)
+/Dest [ 9 0 R /XYZ 62.69291 543.0236 0 ] /Next 31 0 R /Parent 14 0 R /Prev 29 0 R /Title (Tab Completion)
 >>
 endobj
 31 0 obj
 <<
-/Dest [ 9 0 R /XYZ 62.69291 543.0236 0 ] /Next 32 0 R /Parent 15 0 R /Prev 30 0 R /Title (Tab Completion)
+/Dest [ 9 0 R /XYZ 62.69291 432.0236 0 ] /Next 32 0 R /Parent 14 0 R /Prev 30 0 R /Title (Command Options)
 >>
 endobj
 32 0 obj
 <<
-/Dest [ 9 0 R /XYZ 62.69291 432.0236 0 ] /Next 33 0 R /Parent 15 0 R /Prev 31 0 R /Title (Command Options)
+/Dest [ 9 0 R /XYZ 62.69291 285.0236 0 ] /Next 33 0 R /Parent 14 0 R /Prev 31 0 R /Title (Umleiten)
 >>
 endobj
 33 0 obj
 <<
-/Dest [ 9 0 R /XYZ 62.69291 285.0236 0 ] /Next 34 0 R /Parent 15 0 R /Prev 32 0 R /Title (Umleiten)
+/Dest [ 9 0 R /XYZ 62.69291 174.0236 0 ] /Next 34 0 R /Parent 14 0 R /Prev 32 0 R /Title (Iterieren)
 >>
 endobj
 34 0 obj
 <<
-/Dest [ 9 0 R /XYZ 62.69291 174.0236 0 ] /Next 35 0 R /Parent 15 0 R /Prev 33 0 R /Title (Iterieren)
+/Dest [ 10 0 R /XYZ 62.69291 753.0236 0 ] /Next 35 0 R /Parent 14 0 R /Prev 33 0 R /Title (Variablen)
 >>
 endobj
 35 0 obj
 <<
-/Dest [ 11 0 R /XYZ 62.69291 753.0236 0 ] /Next 36 0 R /Parent 15 0 R /Prev 34 0 R /Title (Variablen)
+/Dest [ 10 0 R /XYZ 62.69291 660.0236 0 ] /Next 36 0 R /Parent 14 0 R /Prev 34 0 R /Title (Quoting)
 >>
 endobj
 36 0 obj
 <<
-/Dest [ 11 0 R /XYZ 62.69291 660.0236 0 ] /Next 37 0 R /Parent 15 0 R /Prev 35 0 R /Title (Quoting)
+/Dest [ 10 0 R /XYZ 62.69291 513.0236 0 ] /Next 37 0 R /Parent 14 0 R /Prev 35 0 R /Title (Scripte Schreiben)
 >>
 endobj
 37 0 obj
 <<
-/Dest [ 11 0 R /XYZ 62.69291 513.0236 0 ] /Next 38 0 R /Parent 15 0 R /Prev 36 0 R /Title (Scripte Schreiben)
+/Dest [ 10 0 R /XYZ 62.69291 456.0236 0 ] /Next 38 0 R /Parent 14 0 R /Prev 36 0 R /Title (Editoren)
 >>
 endobj
 38 0 obj
 <<
-/Dest [ 11 0 R /XYZ 62.69291 456.0236 0 ] /Next 39 0 R /Parent 15 0 R /Prev 37 0 R /Title (Editoren)
+/Dest [ 10 0 R /XYZ 62.69291 381.0236 0 ] /Next 39 0 R /Parent 14 0 R /Prev 37 0 R /Title (Hashbang)
 >>
 endobj
 39 0 obj
 <<
-/Dest [ 11 0 R /XYZ 62.69291 381.0236 0 ] /Next 40 0 R /Parent 15 0 R /Prev 38 0 R /Title (Hashbang)
+/Dest [ 10 0 R /XYZ 62.69291 324.0236 0 ] /Next 40 0 R /Parent 14 0 R /Prev 38 0 R /Title (Filesystem Layout)
 >>
 endobj
 40 0 obj
 <<
-/Dest [ 11 0 R /XYZ 62.69291 324.0236 0 ] /Next 41 0 R /Parent 15 0 R /Prev 39 0 R /Title (Filesystem Layout)
+/Dest [ 10 0 R /XYZ 62.69291 237.0236 0 ] /Next 41 0 R /Parent 14 0 R /Prev 39 0 R /Title (Skript anschauen)
 >>
 endobj
 41 0 obj
 <<
-/Dest [ 11 0 R /XYZ 62.69291 237.0236 0 ] /Next 42 0 R /Parent 15 0 R /Prev 40 0 R /Title (Skript anschauen)
+/Dest [ 10 0 R /XYZ 62.69291 180.0236 0 ] /Next 42 0 R /Parent 14 0 R /Prev 40 0 R /Title (SSH)
 >>
 endobj
 42 0 obj
 <<
-/Dest [ 11 0 R /XYZ 62.69291 180.0236 0 ] /Next 43 0 R /Parent 15 0 R /Prev 41 0 R /Title (SSH)
+/Dest [ 11 0 R /XYZ 62.69291 753.0236 0 ] /Next 43 0 R /Parent 14 0 R /Prev 41 0 R /Title (sed)
 >>
 endobj
 43 0 obj
 <<
-/Dest [ 12 0 R /XYZ 62.69291 753.0236 0 ] /Next 44 0 R /Parent 15 0 R /Prev 42 0 R /Title (sed)
+/Dest [ 11 0 R /XYZ 62.69291 720.0236 0 ] /Next 44 0 R /Parent 14 0 R /Prev 42 0 R /Title (awk, perl)
 >>
 endobj
 44 0 obj
 <<
-/Dest [ 12 0 R /XYZ 62.69291 720.0236 0 ] /Next 45 0 R /Parent 15 0 R /Prev 43 0 R /Title (awk, perl)
+/Dest [ 11 0 R /XYZ 62.69291 687.0236 0 ] /Parent 14 0 R /Prev 43 0 R /Title (Othogonalit\344t)
 >>
 endobj
 45 0 obj
 <<
-/Dest [ 12 0 R /XYZ 62.69291 687.0236 0 ] /Parent 15 0 R /Prev 44 0 R /Title (Othogonalit\344t)
+/Count 5 /Kids [ 6 0 R 8 0 R 9 0 R 10 0 R 11 0 R ] /Type /Pages
 >>
 endobj
 46 0 obj
-<<
-/Count 5 /Kids [ 6 0 R 8 0 R 9 0 R 11 0 R 12 0 R ] /Type /Pages
->>
-endobj
-47 0 obj
 <<
 /Length 7165
 >>
@@ -829,7 +824,7 @@ Q
  
 endstream
 endobj
-48 0 obj
+47 0 obj
 <<
 /Length 7623
 >>
@@ -1446,7 +1441,7 @@ Q
  
 endstream
 endobj
-49 0 obj
+48 0 obj
 <<
 /Length 9270
 >>
@@ -2184,9 +2179,9 @@ Q
  
 endstream
 endobj
-50 0 obj
+49 0 obj
 <<
-/Length 7201
+/Length 7187
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -2307,7 +2302,8 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (for i in ) Tj /F4 10 Tf (seq 1 10) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (for i in `seq 1 10`) Tj T* ET
 Q
 Q
 q
@@ -2766,7 +2762,7 @@ Q
  
 endstream
 endobj
-51 0 obj
+50 0 obj
 <<
 /Length 1072
 >>
@@ -2842,106 +2838,105 @@ Q
  
 endstream
 endobj
-52 0 obj
+51 0 obj
 <<
-/Nums [ 0 53 0 R 1 54 0 R 2 55 0 R 3 56 0 R 4 57 0 R ]
+/Nums [ 0 52 0 R 1 53 0 R 2 54 0 R 3 55 0 R 4 56 0 R ]
 >>
 endobj
-53 0 obj
+52 0 obj
 <<
 /S /D /St 1
 >>
 endobj
-54 0 obj
+53 0 obj
 <<
 /S /D /St 2
 >>
 endobj
-55 0 obj
+54 0 obj
 <<
 /S /D /St 3
 >>
 endobj
-56 0 obj
+55 0 obj
 <<
 /S /D /St 4
 >>
 endobj
-57 0 obj
+56 0 obj
 <<
 /S /D /St 5
 >>
 endobj
 xref
-0 58
+0 57
 0000000000 65535 f 
 0000000073 00000 n 
-0000000135 00000 n 
-0000000242 00000 n 
-0000000354 00000 n 
-0000000528 00000 n 
-0000000633 00000 n 
-0000000856 00000 n 
-0000001034 00000 n 
-0000001257 00000 n 
-0000001462 00000 n 
-0000001578 00000 n 
-0000001784 00000 n 
-0000001990 00000 n 
-0000002096 00000 n 
-0000002384 00000 n 
-0000002459 00000 n 
-0000002579 00000 n 
-0000002695 00000 n 
-0000002811 00000 n 
-0000002964 00000 n 
-0000003081 00000 n 
-0000003199 00000 n 
-0000003329 00000 n 
-0000003465 00000 n 
-0000003583 00000 n 
-0000003706 00000 n 
-0000003843 00000 n 
-0000003978 00000 n 
-0000004106 00000 n 
-0000004244 00000 n 
-0000004373 00000 n 
-0000004501 00000 n 
-0000004630 00000 n 
-0000004752 00000 n 
-0000004875 00000 n 
-0000004999 00000 n 
-0000005121 00000 n 
-0000005253 00000 n 
-0000005376 00000 n 
-0000005499 00000 n 
-0000005631 00000 n 
-0000005762 00000 n 
-0000005880 00000 n 
-0000005998 00000 n 
-0000006122 00000 n 
-0000006240 00000 n 
-0000006326 00000 n 
-0000013543 00000 n 
-0000021218 00000 n 
-0000030540 00000 n 
-0000037793 00000 n 
-0000038917 00000 n 
-0000038994 00000 n 
-0000039028 00000 n 
-0000039062 00000 n 
-0000039096 00000 n 
-0000039130 00000 n 
+0000000124 00000 n 
+0000000231 00000 n 
+0000000343 00000 n 
+0000000517 00000 n 
+0000000622 00000 n 
+0000000845 00000 n 
+0000001023 00000 n 
+0000001246 00000 n 
+0000001451 00000 n 
+0000001657 00000 n 
+0000001863 00000 n 
+0000001969 00000 n 
+0000002257 00000 n 
+0000002332 00000 n 
+0000002452 00000 n 
+0000002568 00000 n 
+0000002684 00000 n 
+0000002837 00000 n 
+0000002954 00000 n 
+0000003072 00000 n 
+0000003202 00000 n 
+0000003338 00000 n 
+0000003456 00000 n 
+0000003579 00000 n 
+0000003716 00000 n 
+0000003851 00000 n 
+0000003979 00000 n 
+0000004117 00000 n 
+0000004246 00000 n 
+0000004374 00000 n 
+0000004503 00000 n 
+0000004625 00000 n 
+0000004748 00000 n 
+0000004872 00000 n 
+0000004994 00000 n 
+0000005126 00000 n 
+0000005249 00000 n 
+0000005372 00000 n 
+0000005504 00000 n 
+0000005635 00000 n 
+0000005753 00000 n 
+0000005871 00000 n 
+0000005995 00000 n 
+0000006113 00000 n 
+0000006199 00000 n 
+0000013416 00000 n 
+0000021091 00000 n 
+0000030413 00000 n 
+0000037652 00000 n 
+0000038776 00000 n 
+0000038853 00000 n 
+0000038887 00000 n 
+0000038921 00000 n 
+0000038955 00000 n 
+0000038989 00000 n 
 trailer
 <<
 /ID 
-[<c833aaafb6762295320641fcd025a10b><c833aaafb6762295320641fcd025a10b>]
+[<4368a604063b163bd2941fd4bb1c2b9a><4368a604063b163bd2941fd4bb1c2b9a>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
-/Info 14 0 R
-/Root 13 0 R
-/Size 58
+/Info 13 0 R
+/Root 12 0 R
+/Size 57
 >>
 startxref
-39164
+39023
 %%EOF
