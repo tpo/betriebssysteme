@@ -24,6 +24,11 @@
 \usepackage{listings}
 
 % tpo
+% needed for tables
+\usepackage{booktabs}
+\usepackage{longtable}
+
+% tpo
 % fix:
 %     ! Undefined control sequence.
 %     l.372     Diese kann man nach \passthrough
