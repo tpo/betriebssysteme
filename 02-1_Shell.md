@@ -94,18 +94,16 @@ Paketverwaltung
 ---------------
 * http://packages.debian.org
 
-================  =========================
-Debian/Ubuntu...  RedHat/Fedora/SuSE/...
-================  =========================
-dpkg -i           rpm -i                    
-dpkg -P                                     
-dpkg -r           rpm -e                    
-dpkg -s           rpm -qi                   
-dpkg -S           rpm -qf                   
-dpkg -L           rpm -ql                   
-apt install       yum install / yum update  
-apt remove        yum remove                
-================  =========================
+| Debian/Ubuntu...  | RedHat/Fedora/SuSE/...   | 
+|-------------------|--------------------------|  
+| dpkg -i           | rpm -i                   |  
+| dpkg -P           |                          |  
+| dpkg -r           | rpm -e                   |  
+| dpkg -s           | rpm -qi                  |  
+| dpkg -S           | rpm -qf                  |  
+| dpkg -L           | rpm -ql                  |  
+| apt install       | yum install / yum update |  
+| apt remove        | yum remove               |  
 
 * aptitude
 * rpm/yum -> dnf
@@ -180,20 +178,20 @@ Filesystem Layout
 -----------------
 * tree -L 1 /
 
-    /etc
-    /bin, /usr, /lib, /boot
-    /var
-    /mnt
-    /media
-    /dev
-    /sys
-    /proc
-    /proc/id
-    /home
-    ~/.dotfiles
-    ~/.config
-    ~/.cache
-    ~/.local -> daten
+      /etc
+      /bin, /usr, /lib, /boot
+      /var
+      /mnt
+      /media
+      /dev
+      /sys
+      /proc
+      /proc/id
+      /home
+      ~/.dotfiles
+      ~/.config
+      ~/.cache
+      ~/.local # daten
 
 Skript anschauen
 ----------------
