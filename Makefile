@@ -43,5 +43,5 @@ PDF/%.c: %.c
 all: $(OPDF_FILES) $(RPDF_FILES) $(MPDF_FILES) $(CPDF_FILES) extra_symlinks
 
 extra_symlinks:
-	cd PDF && [ -h 03-1_Shell.pdf ]              || ln -s 02-1_Shell.pdf 03-1_Shell.pdf
+	cd PDF && [ -h 02-1_Shell.pdf ]              || ln -s 01-1_Shell.pdf 02-1_Shell.pdf
 	cd PDF && [ -h 03-2_Architekturansätze.pdf ] || ln -s 02-2_Architekturansätze.pdf 03-2_Architekturansätze.pdf
