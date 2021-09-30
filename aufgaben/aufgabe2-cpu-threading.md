@@ -75,7 +75,7 @@ an teilautonom gelöst zu werden:
 
 * CPU und Clock als Tasks. Kommunikation
   eines Interrupts von der Clock an die
-  CPU. Die CPU erkenn den Interrupt und
+  CPU. Die CPU erkennt den Interrupt und
   reagiert darauf am geeigneten Ort.
 
 * https://github.com/tpo/kasm-generic/
@@ -89,11 +89,11 @@ an teilautonom gelöst zu werden:
   [*nur* den PC/IP](https://wiki.osdev.org/Interrupt_Service_Routines#When_the_Handlers_are_Called)
   den Rest macht der Interrupt Handler:
 
-  * das Speichern des PCs auf Seiten
-    CPU implementieren
+  * das Speichern und Wiederherstellen
+    des PCs auf Seiten CPU implementieren
 
-  * das Spiechern des Rests des CPU
-    Zustandes auf Seiten
+  * das Spiechern und Wiederherstellen
+    des Rests des CPU Zustandes auf Seiten
     Interrupt-Handler bzw. Scheduler
     implementieren.
 
@@ -105,36 +105,51 @@ an teilautonom gelöst zu werden:
   Moment hat meine CPU die folgenden
   Befehle:
 
-  * `op_nop`        # don't do anything
-  * `op_load`       # load ACC from address
-  * `op_store`      # store ACC to address
+  * `op_nop`        - don't do anything
+  * `op_load`       - load ACC from address
+  * `op_store`      - store ACC to address
+
     * unter Umständen erleichter man sich
       das Leben, wenn man op_load_value
       und op_store_value implementiert,
       welche den unmittelbaren gegebenen
       Wert ins Register/ACC laden, bzw.
       diesen im Speicher abspreichern
-  * `op_jmp`        # jump to given address
-  * `op_jsub`       # jump to subroutine
+
+  * `op_jmp`        - jump to given address
+  * `op_jsub`       - jump to subroutine
+
     * für diese Operation wird ein Stack
       verwendet! Siehe weiter unten
-  * `op_sp_to_acc`  # copy SP to ACC
+
+  * `op_sp_to_acc`  - copy SP to ACC
+
     * SP ist der Stack Pointer
-  * `op_acc_to_sp`  # copy ACC to SP
-  * `op_push`       # push given register to stack
+
+  * `op_acc_to_sp`  - copy ACC to SP
+  * `op_push`       - push given register to stack
+
     * momentan `op_push ACC`, `op_push PC`,
       `op_push EQ` und `op_push SP`,
-  * `op_pop`        # pop register from stack
+
+  * `op_pop`        - pop register from stack
+
     * analog zu `op_push`
-  * `op_ret`        # return from subroutine
+
+  * `op_ret`        - return from subroutine
+
     * Gegenstück zu `op_jsub`, pop't Adresse
       vom Stack
-  * `op_eq`         # set EQ flag if ACC == value at given address
+
+  * `op_eq`         - set EQ flag if ACC == value at given address
+
     * EQ ist ein Flag-Register
-  * `op_jmp_eq`     # jump to given address if EQ is set
-  * `op_set_int`    # copy ACC to interrupt handler pointer
-  * `op_iret`       # copy ACC to interrupt handler pointer
-    * Pop't PC vom Stack
+
+  * `op_jmp_eq`     - jump to given address if EQ is set
+  * `op_set_int`    - copy ACC to interrupt handler pointer
+  * `op_iret`       - copy ACC to interrupt handler pointer
+
+    * pop't PC vom Stack
 
 Ich werde nächstes Mal Studis
 aufrufen, welche sich bei den
