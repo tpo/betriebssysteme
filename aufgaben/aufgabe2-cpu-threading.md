@@ -206,7 +206,11 @@ t2.join()
 ```
 
 * meine Implementation von `op_push`
-  und `op_pop`:
+  und `op_pop` (der Beispielcode unten
+  ist im Objekt-orientierten Stil
+  geschrieben, was keinesfalls
+  zwingend ist!):
+
 
 ```
   ACC = 0
