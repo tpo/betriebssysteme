@@ -209,38 +209,53 @@ t2.join()
   und `op_pop`:
 
 ```
-  def op_push(self):
-    self.sp = self.sp + 1
+  ACC = 0
+  PC = 1
+  EQ = 2
 
-    if   self.operation_argument == ACC:
-      value = self.acc
-    elif self.operation_argument == PC:
-      value = self.pc
-    elif self.operation_argument == EQ:
-      value = self.eq
-    else:
-      print("unknown operation_argument %d" % self.operation_argument)                                       
-      self.halt()                                                                                       
+  class CPU:
+    def __init__(self [...]):
+      self.pc  = 0
+      self.sp  = 0
+      self.acc = 0
+      self.eq  = 0
+      self.operation_argument = 0 # NOP
+      self.memory = [...]
+      [...]
 
-    self.memory[self.sp] = value 
+    def op_push(self):
+      self.sp = self.sp + 1
+
+      if   self.operation_argument == ACC:
+        value = self.acc
+      elif self.operation_argument == PC:
+        value = self.pc
+      elif self.operation_argument == EQ:
+        value = self.eq
+      else:
+        print("unknown operation_argument %d" % self.operation_argument)                                       
+        self.halt()                                                                                       
+
+      self.memory[self.sp] = value 
+
+    def op_pop(self):
+      stack_top = self.memory[self.sp]
+      
+      if   self.operation_argument == ACC:
+        self.acc = stack_top
+      elif self.operation_argument == PC:
+        self.pc = stack_top
+      elif self.operation_argument == EQ:
+        self.eq = stack_top
+      else:
+        print("unknown operation_argument %d" % self.operation_argument)                                       
+        self.halt()                                                                                       
+
+      self.sp = self.sp - 1
+
+   [...]
 ```
 
-```
-  def op_pop(self):
-    stack_top = self.memory[self.sp]
-    
-    if   self.operation_argument == ACC:
-      self.acc = stack_top
-    elif self.operation_argument == PC:
-      self.pc = stack_top
-    elif self.operation_argument == EQ:
-      self.eq = stack_top
-    else:
-      print("unknown operation_argument %d" % self.operation_argument)                                       
-      self.halt()                                                                                       
-
-    self.sp = self.sp - 1
-```
 * ich habe die Push und Pop Methoden
   erweitert, damit ich sie von innerhalb
   des CPU Codes selbst verwenden kann,
