@@ -147,7 +147,7 @@ an teilautonom gelöst zu werden:
 
   * `op_jmp_eq`     - jump to given address if EQ is set
   * `op_set_int`    - copy ACC to interrupt handler pointer
-  * `op_iret`       - copy ACC to interrupt handler pointer
+  * `op_iret`       - return from interrupt
 
     * pop't PC vom Stack
 
