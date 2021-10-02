@@ -189,7 +189,7 @@ def run_timer():
     while True:
         time.sleep(0.5)
         # hier CPU benachrichtigen, dass es einen
-        # Interupt gabe
+        # Interupt gab
  
 # Threads erstellen
 cpu   = threading.Thread(target=run_cpu)
