@@ -123,6 +123,11 @@ Nicht *alle* CmdLets haben diese...
 
 Objekte
 =======
+
+Ein Powershell Kommandos gibt immer Objekte einer
+jeweiligen Klasse zurück. Man kann sich die
+Eigenschaften der Klasse anschauen.
+
 * Get-Service ¦ Get-Member
 * Get-Service ¦ Get-Member -MemberType Method
 * Get-ChildItem -Path C:\\ -Recurse ¦ Where-Object {$_.LastWriteTime -gt “2015-04-18″}
