@@ -201,8 +201,8 @@ timer.start()
  
 # Warten bis Threads beenden, was sie
 # aber so nicht tun
-t1.join()
-t2.join()
+cpu.join()
+timer.join()
 ```
 
 * meine Implementation von `op_push`
