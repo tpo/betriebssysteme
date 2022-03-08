@@ -38,7 +38,7 @@ Dokumentation
 Setup
 -----
 
-siehe ansible_demo/README.md
+siehe `ansible_demo/README.md`
 
 Ansible Layout
 --------------
@@ -49,8 +49,8 @@ Ansible Layout
 
 * Deklaration von Maschinen
 * diese können Tasks und Rollen beinhalten
-  * siehe ansible_demo/hosts/host_1/setup.yml
-* siehe auch ansible_demo/inventory bzw. ~/.ssh/config
+  * siehe `ansible_demo/hosts/host_1/setup.yml`
+* siehe auch `ansible_demo/inventory` bzw. `~/.ssh/config`
 
 ### roles
 
@@ -69,17 +69,17 @@ Weitere Features
 ----------------
 
 * includes
-  * siehe ansible_demo/roles/common/tasks/main.yml
+  * siehe `ansible_demo/roles/common/tasks/main.yml`
 * Tags
-  * ansible-playbook site.yml --tags=osinfo
+  * `ansible-playbook site.yml --tags=osinfo`
 
 Modi
 ----
-* --check
-* --check --diff
+* `--check`
+* `--check --diff`
 * ad hoc Tasks
-  * ansible-playbook clean_up.yml
+  * `ansible-playbook clean_up.yml`
 
 Erweiterungen
 -------------
-* library/dpkg_dep -> siehe Python Skript
+* `library/dpkg_dep` -> siehe Python Skript
