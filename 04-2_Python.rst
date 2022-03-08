@@ -85,6 +85,6 @@ ansible
 
 * ansible ist in Python geschrieben
 * man kann eigene ansible Module in Python schreiben
-* siehe ansible_demo/library/less dpkg_dep
+* siehe `ansible_demo/library/less dpkg_dep`
 
 
