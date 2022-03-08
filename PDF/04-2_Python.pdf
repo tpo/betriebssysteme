@@ -2,7 +2,7 @@
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 7 0 R
 >>
 endobj
 2 0 obj
@@ -29,7 +29,7 @@ endobj
 endobj
 6 0 obj
 <<
-/Annots [ 5 0 R ] /Contents 17 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 16 0 R /Resources <<
+/Annots [ 5 0 R ] /Contents 18 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 17 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -39,7 +39,12 @@ endobj
 endobj
 7 0 obj
 <<
-/Contents 18 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 16 0 R /Resources <<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+8 0 obj
+<<
+/Contents 19 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 17 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 /Trans <<
 
@@ -47,55 +52,55 @@ endobj
   /Type /Page
 >>
 endobj
-8 0 obj
-<<
-/Outlines 10 0 R /PageLabels 19 0 R /PageMode /UseNone /Pages 16 0 R /Type /Catalog
->>
-endobj
 9 0 obj
 <<
-/Author () /CreationDate (D:20210220083302+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20210220083302+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (Python) /Trapped /False
+/Outlines 11 0 R /PageLabels 20 0 R /PageMode /UseNone /Pages 17 0 R /Type /Catalog
 >>
 endobj
 10 0 obj
 <<
-/Count 5 /First 11 0 R /Last 15 0 R /Type /Outlines
+/Author () /CreationDate (D:20220308171502+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20220308171502+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Python) /Trapped /False
 >>
 endobj
 11 0 obj
 <<
-/Dest [ 6 0 R /XYZ 62.69291 593.0236 0 ] /Next 12 0 R /Parent 10 0 R /Title (hello world)
+/Count 5 /First 12 0 R /Last 16 0 R /Type /Outlines
 >>
 endobj
 12 0 obj
 <<
-/Dest [ 6 0 R /XYZ 62.69291 526.8236 0 ] /Next 13 0 R /Parent 10 0 R /Prev 11 0 R /Title (REPL/Shell)
+/Dest [ 6 0 R /XYZ 62.69291 593.0236 0 ] /Next 13 0 R /Parent 11 0 R /Title (hello world)
 >>
 endobj
 13 0 obj
 <<
-/Dest [ 6 0 R /XYZ 62.69291 212.6236 0 ] /Next 14 0 R /Parent 10 0 R /Prev 12 0 R /Title (Docu)
+/Dest [ 6 0 R /XYZ 62.69291 526.8236 0 ] /Next 14 0 R /Parent 11 0 R /Prev 12 0 R /Title (REPL/Shell)
 >>
 endobj
 14 0 obj
 <<
-/Dest [ 6 0 R /XYZ 62.69291 155.6236 0 ] /Next 15 0 R /Parent 10 0 R /Prev 13 0 R /Title (Syntax)
+/Dest [ 6 0 R /XYZ 62.69291 212.6236 0 ] /Next 15 0 R /Parent 11 0 R /Prev 13 0 R /Title (Docu)
 >>
 endobj
 15 0 obj
 <<
-/Dest [ 7 0 R /XYZ 62.69291 544.6236 0 ] /Parent 10 0 R /Prev 14 0 R /Title (ansible)
+/Dest [ 6 0 R /XYZ 62.69291 155.6236 0 ] /Next 16 0 R /Parent 11 0 R /Prev 14 0 R /Title (Syntax)
 >>
 endobj
 16 0 obj
 <<
-/Count 2 /Kids [ 6 0 R 7 0 R ] /Type /Pages
+/Dest [ 8 0 R /XYZ 62.69291 544.6236 0 ] /Parent 11 0 R /Prev 15 0 R /Title (ansible)
 >>
 endobj
 17 0 obj
 <<
-/Length 5348
+/Count 2 /Kids [ 6 0 R 8 0 R ] /Type /Pages
+>>
+endobj
+18 0 obj
+<<
+/Length 5384
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -114,6 +119,7 @@ q
 Q
 q
 1 0 0 1 62.69291 701.0236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -132,11 +138,13 @@ Q
 q
 Q
 Q
+Q
 q
 1 0 0 1 62.69291 695.0236 cm
 Q
 q
 1 0 0 1 62.69291 659.0236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -156,11 +164,13 @@ Q
 q
 Q
 Q
+Q
 q
 1 0 0 1 62.69291 653.0236 cm
 Q
 q
 1 0 0 1 62.69291 641.0236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -180,11 +190,13 @@ Q
 q
 Q
 Q
+Q
 q
 1 0 0 1 62.69291 635.0236 cm
 Q
 q
 1 0 0 1 62.69291 623.0236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -204,11 +216,13 @@ Q
 q
 Q
 Q
+Q
 q
 1 0 0 1 62.69291 617.0236 cm
 Q
 q
 1 0 0 1 62.69291 605.0236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -226,6 +240,7 @@ BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Python 2 vs Python 3) Tj T* ET
 Q
 Q
 q
+Q
 Q
 Q
 q
@@ -292,6 +307,7 @@ q
 Q
 q
 1 0 0 1 62.69291 242.6236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -311,11 +327,13 @@ Q
 q
 Q
 Q
+Q
 q
 1 0 0 1 62.69291 236.6236 cm
 Q
 q
 1 0 0 1 62.69291 224.6236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -335,6 +353,7 @@ Q
 q
 Q
 Q
+Q
 q
 1 0 0 1 62.69291 224.6236 cm
 Q
@@ -352,6 +371,7 @@ q
 Q
 q
 1 0 0 1 62.69291 167.6236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -371,6 +391,7 @@ Q
 q
 Q
 Q
+Q
 q
 1 0 0 1 62.69291 167.6236 cm
 Q
@@ -388,6 +409,7 @@ q
 Q
 q
 1 0 0 1 62.69291 104.6236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -410,6 +432,7 @@ Q
 q
 Q
 Q
+Q
 q
 1 0 0 1 56.69291 773.1969 cm
 q
@@ -427,19 +450,21 @@ Q
  
 endstream
 endobj
-18 0 obj
+19 0 obj
 <<
-/Length 3388
+/Length 3436
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
 1 0 0 1 62.69291 643.8236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 6 96.2 Tm  T* ET
 q
 1 0 0 1 23 -3 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -466,10 +491,12 @@ Q
 q
 Q
 Q
+Q
 q
 1 0 0 1 23 -3 cm
 Q
 q
+Q
 Q
 Q
 q
@@ -477,6 +504,7 @@ q
 Q
 q
 1 0 0 1 62.69291 625.8236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -496,11 +524,13 @@ Q
 q
 Q
 Q
+Q
 q
 1 0 0 1 62.69291 619.8236 cm
 Q
 q
 1 0 0 1 62.69291 607.8236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -520,11 +550,13 @@ Q
 q
 Q
 Q
+Q
 q
 1 0 0 1 62.69291 601.8236 cm
 Q
 q
 1 0 0 1 62.69291 556.6236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -565,6 +597,7 @@ Q
 q
 Q
 Q
+Q
 q
 1 0 0 1 62.69291 556.6236 cm
 Q
@@ -582,6 +615,7 @@ q
 Q
 q
 1 0 0 1 62.69291 499.6236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -601,11 +635,13 @@ Q
 q
 Q
 Q
+Q
 q
 1 0 0 1 62.69291 493.6236 cm
 Q
 q
 1 0 0 1 62.69291 481.6236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -625,11 +661,13 @@ Q
 q
 Q
 Q
+Q
 q
 1 0 0 1 62.69291 475.6236 cm
 Q
 q
 1 0 0 1 62.69291 463.6236 cm
+q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -642,11 +680,11 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (siehe ansible_demo/library/less dpkg_dep) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (siehe ) Tj /F4 10 Tf (ansible_demo/library/less dpkg_dep) Tj T* ET
 Q
 Q
 q
+Q
 Q
 Q
 q
@@ -672,55 +710,56 @@ Q
  
 endstream
 endobj
-19 0 obj
+20 0 obj
 <<
-/Nums [ 0 20 0 R 1 21 0 R ]
+/Nums [ 0 21 0 R 1 22 0 R ]
 >>
 endobj
-20 0 obj
+21 0 obj
 <<
 /S /D /St 1
 >>
 endobj
-21 0 obj
+22 0 obj
 <<
 /S /D /St 2
 >>
 endobj
 xref
-0 22
+0 23
 0000000000 65535 f 
 0000000073 00000 n 
-0000000124 00000 n 
-0000000231 00000 n 
-0000000343 00000 n 
-0000000448 00000 n 
-0000000622 00000 n 
-0000000845 00000 n 
-0000001050 00000 n 
-0000001155 00000 n 
-0000001418 00000 n 
-0000001492 00000 n 
-0000001604 00000 n 
-0000001728 00000 n 
-0000001846 00000 n 
-0000001966 00000 n 
-0000002074 00000 n 
-0000002140 00000 n 
-0000007540 00000 n 
-0000010980 00000 n 
-0000011030 00000 n 
-0000011064 00000 n 
+0000000134 00000 n 
+0000000241 00000 n 
+0000000353 00000 n 
+0000000458 00000 n 
+0000000632 00000 n 
+0000000855 00000 n 
+0000000970 00000 n 
+0000001175 00000 n 
+0000001280 00000 n 
+0000001544 00000 n 
+0000001618 00000 n 
+0000001730 00000 n 
+0000001854 00000 n 
+0000001972 00000 n 
+0000002092 00000 n 
+0000002200 00000 n 
+0000002266 00000 n 
+0000007702 00000 n 
+0000011190 00000 n 
+0000011240 00000 n 
+0000011274 00000 n 
 trailer
 <<
 /ID 
-[<c5bc1daca9db8ef6ee0b2d176884c1df><c5bc1daca9db8ef6ee0b2d176884c1df>]
+[<07e13917097db079f3c23f4c7818061d><07e13917097db079f3c23f4c7818061d>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
-/Info 9 0 R
-/Root 8 0 R
-/Size 22
+/Info 10 0 R
+/Root 9 0 R
+/Size 23
 >>
 startxref
-11098
+11308
 %%EOF
