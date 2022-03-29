@@ -27,10 +27,6 @@ def cpu_handle_interrupt():
       # now act on the interrupt...
       interrupt = False
 
-def cpu_print_result():
-    True # a CPU doesn't print anything, it saves the
-         # result somewhere instead...
-
 def cpu_thread():
   while True:
     # Read, Eval, (optional: Print), Loop
