@@ -11,12 +11,14 @@ ODP_FILES := $(shell find . -maxdepth 2 -name "*.odp"                        -ty
 RST_FILES := $(shell find . -maxdepth 2 -name "*.rst"                        -type f)
 MD_FILES  := $(shell find . -maxdepth 1 -name "*.md"                         -type f ! -name README.md)
 C_FILES   := $(shell find . -maxdepth 1 -name "*.c"                          -type f)
+PY_FILES  := $(shell find . -maxdepth 1 -name "*.py"                         -type f)
 SYM_FILES := $(shell find . -maxdepth 1 \( -name "*.rst" -o -name "*.odp" \) -type l)
 
 OPDF_FILES := $(patsubst %.odp,PDF/%.pdf,                              $(ODP_FILES))
 RPDF_FILES := $(patsubst %.rst,PDF/%.pdf,                              $(RST_FILES))
 MPDF_FILES := $(patsubst %.md,PDF/%.pdf,                               $(MD_FILES))
 CPDF_FILES := $(patsubst %.c,PDF/%.c,                                  $(C_FILES))
+PPDF_FILES := $(patsubst %.py,PDF/%.py,                                $(PY_FILES))
 SPDF_FILES := $(patsubst %.rst,PDF/%.pdf, $(patsubst %.odp, PDF/%.pdf, $(SYM_FILES)))
 
 PDF/%.pdf: %.odp
@@ -36,11 +38,14 @@ PDF/%.pdf: %.rst
 PDF/%.c: %.c
 	cd PDF && ln -s "../$<" "$<"
 
+PDF/%.py: %.py
+	cd PDF && ln -s "../$<" "$<"
+
 # echo $(for i in $(SYM_FILES); do $(basename $i)
 
 .PHONY: all symlinks
 
-all: $(OPDF_FILES) $(RPDF_FILES) $(MPDF_FILES) $(CPDF_FILES) extra_symlinks
+all: $(OPDF_FILES) $(RPDF_FILES) $(MPDF_FILES) $(CPDF_FILES) $(PPDF_FILES) extra_symlinks
 
 extra_symlinks:
 	cd PDF && [ -h 02-1_Shell.pdf ]              || ln -s 01-1_Shell.pdf 02-1_Shell.pdf
