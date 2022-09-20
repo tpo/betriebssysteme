@@ -24,7 +24,7 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (http://docs.python.org)
->> /Border [ 0 0 0 ] /Rect [ 85.69291 165.3736 181.8629 177.3736 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 85.69291 183.3736 181.8629 195.3736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 6 0 obj
@@ -59,7 +59,7 @@ endobj
 endobj
 10 0 obj
 <<
-/Author () /CreationDate (D:20220308171502+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20220308171502+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20220920162909+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20220920162909+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Python) /Trapped /False
 >>
 endobj
@@ -70,22 +70,22 @@ endobj
 endobj
 12 0 obj
 <<
-/Dest [ 6 0 R /XYZ 62.69291 593.0236 0 ] /Next 13 0 R /Parent 11 0 R /Title (hello world)
+/Dest [ 6 0 R /XYZ 62.69291 611.0236 0 ] /Next 13 0 R /Parent 11 0 R /Title (hello world)
 >>
 endobj
 13 0 obj
 <<
-/Dest [ 6 0 R /XYZ 62.69291 526.8236 0 ] /Next 14 0 R /Parent 11 0 R /Prev 12 0 R /Title (REPL/Shell)
+/Dest [ 6 0 R /XYZ 62.69291 544.8236 0 ] /Next 14 0 R /Parent 11 0 R /Prev 12 0 R /Title (REPL/Shell)
 >>
 endobj
 14 0 obj
 <<
-/Dest [ 6 0 R /XYZ 62.69291 212.6236 0 ] /Next 15 0 R /Parent 11 0 R /Prev 13 0 R /Title (Docu)
+/Dest [ 6 0 R /XYZ 62.69291 230.6236 0 ] /Next 15 0 R /Parent 11 0 R /Prev 13 0 R /Title (Docu)
 >>
 endobj
 15 0 obj
 <<
-/Dest [ 6 0 R /XYZ 62.69291 155.6236 0 ] /Next 16 0 R /Parent 11 0 R /Prev 14 0 R /Title (Syntax)
+/Dest [ 6 0 R /XYZ 62.69291 173.6236 0 ] /Next 16 0 R /Parent 11 0 R /Prev 14 0 R /Title (Syntax)
 >>
 endobj
 16 0 obj
@@ -100,7 +100,7 @@ endobj
 endobj
 18 0 obj
 <<
-/Length 5384
+/Length 5075
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -218,42 +218,16 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 617.0236 cm
+1 0 0 1 62.69291 623.0236 cm
 Q
 q
-1 0 0 1 62.69291 605.0236 cm
-q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Python 2 vs Python 3) Tj T* ET
-Q
-Q
-q
-Q
-Q
-Q
-q
-1 0 0 1 62.69291 605.0236 cm
-Q
-q
-1 0 0 1 62.69291 572.0236 cm
+1 0 0 1 62.69291 590.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (hello world) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 538.8236 cm
+1 0 0 1 62.69291 556.8236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -274,13 +248,13 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 505.8236 cm
+1 0 0 1 62.69291 523.8236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (REPL/Shell) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 268.6236 cm
+1 0 0 1 62.69291 286.6236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -300,13 +274,13 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 254.6236 cm
+1 0 0 1 62.69291 272.6236 cm
 Q
 q
-1 0 0 1 62.69291 254.6236 cm
+1 0 0 1 62.69291 272.6236 cm
 Q
 q
-1 0 0 1 62.69291 242.6236 cm
+1 0 0 1 62.69291 260.6236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -329,10 +303,10 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 236.6236 cm
+1 0 0 1 62.69291 254.6236 cm
 Q
 q
-1 0 0 1 62.69291 224.6236 cm
+1 0 0 1 62.69291 242.6236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -355,22 +329,22 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 224.6236 cm
+1 0 0 1 62.69291 242.6236 cm
 Q
 q
-1 0 0 1 62.69291 191.6236 cm
+1 0 0 1 62.69291 209.6236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Docu) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 179.6236 cm
+1 0 0 1 62.69291 197.6236 cm
 Q
 q
-1 0 0 1 62.69291 179.6236 cm
+1 0 0 1 62.69291 197.6236 cm
 Q
 q
-1 0 0 1 62.69291 167.6236 cm
+1 0 0 1 62.69291 185.6236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -393,22 +367,22 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 167.6236 cm
+1 0 0 1 62.69291 185.6236 cm
 Q
 q
-1 0 0 1 62.69291 134.6236 cm
+1 0 0 1 62.69291 152.6236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Syntax) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 122.6236 cm
+1 0 0 1 62.69291 140.6236 cm
+Q
+q
+1 0 0 1 62.69291 140.6236 cm
 Q
 q
 1 0 0 1 62.69291 122.6236 cm
-Q
-q
-1 0 0 1 62.69291 104.6236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -746,14 +720,14 @@ xref
 0000002092 00000 n 
 0000002200 00000 n 
 0000002266 00000 n 
-0000007702 00000 n 
-0000011190 00000 n 
-0000011240 00000 n 
-0000011274 00000 n 
+0000007393 00000 n 
+0000010881 00000 n 
+0000010931 00000 n 
+0000010965 00000 n 
 trailer
 <<
 /ID 
-[<07e13917097db079f3c23f4c7818061d><07e13917097db079f3c23f4c7818061d>]
+[<349b1b5db295d58cc924cf018d96f71e><349b1b5db295d58cc924cf018d96f71e>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 10 0 R
@@ -761,5 +735,5 @@ trailer
 /Size 23
 >>
 startxref
-11308
+10999
 %%EOF
