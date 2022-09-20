@@ -12,8 +12,6 @@ Python
 
 * viel mehr cross-platform als Shell
 
-* Python 2 vs Python 3
-
 hello world
 -----------
 
