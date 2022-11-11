@@ -113,7 +113,8 @@ Was kommt an der Prüfung?
     machen sollte, warum es nicht das macht, was
     es machen sollte und wie man das Problem beheben
     kann. Die Erklärungen erfolgen in Worten und
-    nicht in Code. Das C Program wird ein 
+    nicht in Code. Beim C Program wird's um ein
+    Thread Synchronisation-Problem gehen.
 
 Fragen zur Prüfung
 ------------------
