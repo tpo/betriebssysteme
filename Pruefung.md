@@ -15,7 +15,7 @@ Was kommt an der Prüfung?
   eine andere Erklärung gesucht wird und als Vertiefung
   für die Interessierten
 
-* der Fokus der Prügung ist auf Verständnis der besprochenen
+* der Fokus der Prüfung ist auf Verständnis der besprochenen
   Mechanisme und welche Probleme sie warum lösen und nicht auf
   enzyklopädischem Wissen:
 
