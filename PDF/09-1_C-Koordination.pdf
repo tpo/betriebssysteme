@@ -52,7 +52,7 @@ endobj
 endobj
 9 0 obj
 <<
-/Author () /CreationDate (D:20190511083456+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20190511083456+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20221116103605+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20221116103605+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (C Pthreads Koordination) /Trapped /False
 >>
 endobj
@@ -63,17 +63,17 @@ endobj
 endobj
 11 0 obj
 <<
-/Dest [ 6 0 R /XYZ 62.69291 649.8236 0 ] /Next 12 0 R /Parent 10 0 R /Title (Threads)
+/Dest [ 6 0 R /XYZ 62.69291 637.8236 0 ] /Next 12 0 R /Parent 10 0 R /Title (Threads)
 >>
 endobj
 12 0 obj
 <<
-/Dest [ 6 0 R /XYZ 62.69291 499.6236 0 ] /Next 13 0 R /Parent 10 0 R /Prev 11 0 R /Title (Mutex)
+/Dest [ 6 0 R /XYZ 62.69291 487.6236 0 ] /Next 13 0 R /Parent 10 0 R /Prev 11 0 R /Title (Mutex)
 >>
 endobj
 13 0 obj
 <<
-/Dest [ 6 0 R /XYZ 62.69291 253.4236 0 ] /Parent 10 0 R /Prev 12 0 R /Title (Bedingungsvariablen)
+/Dest [ 6 0 R /XYZ 62.69291 241.4236 0 ] /Parent 10 0 R /Prev 12 0 R /Title (Bedingungsvariablen)
 >>
 endobj
 14 0 obj
@@ -83,7 +83,7 @@ endobj
 endobj
 15 0 obj
 <<
-/Length 4334
+/Length 4275
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -97,11 +97,11 @@ Q
 q
 1 0 0 1 62.69291 695.0236 cm
 q
-BT 1 0 0 1 0 14 Tm 1.989213 Tw 12 TL /F1 10 Tf 0 0 0 rg (Programme, welche Threads verwenden muss man mit der ) Tj /F3 10 Tf 0 0 0 rg (pthreads) Tj /F1 10 Tf 0 0 0 rg ( Library linken. Dies macht man) Tj T* 0 Tw (indem man dem Compiler das Flag ) Tj /F3 10 Tf 0 0 0 rg (-lpthread) Tj /F1 10 Tf 0 0 0 rg ( \374bergibt:) Tj T* ET
+BT 1 0 0 1 0 14 Tm 1.989213 Tw 12 TL /F1 10 Tf 0 0 0 rg (Programme, welche Threads verwenden muss man mit der ) Tj /F3 10 Tf (pthreads) Tj /F1 10 Tf ( Library linken. Dies macht man) Tj T* 0 Tw (indem man dem Compiler das Flag ) Tj /F3 10 Tf (-lpthread) Tj /F1 10 Tf ( \374bergibt:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 661.8236 cm
+1 0 0 1 62.69291 649.8236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -111,24 +111,24 @@ q
 .662745 .662745 .662745 RG
 .5 w
 .960784 .960784 .862745 rg
-n -6 -6 468.6898 24 re B*
+n -6 -6 468.6898 36 re B*
 Q
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (gcc -lpthread prog_mit_threads.c) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL (gcc prog_mit_threads.c -lpthread) Tj T* (# -lpthread *muss* nach der C Datei kommen) Tj T* ET
 Q
 Q
 Q
 Q
 Q
 q
-1 0 0 1 62.69291 628.8236 cm
+1 0 0 1 62.69291 616.8236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Threads) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 511.6236 cm
+1 0 0 1 62.69291 499.6236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -148,25 +148,25 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 478.6236 cm
+1 0 0 1 62.69291 466.6236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Mutex) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 448.6236 cm
+1 0 0 1 62.69291 436.6236 cm
 q
-BT 1 0 0 1 0 14 Tm .459984 Tw 12 TL /F3 10 Tf 0 0 0 rg (pthread_mutex_t) Tj /F1 10 Tf 0 0 0 rg ( repr\344sentiert ein Objekt, das man, als Thread, entweder ) Tj /F3 10 Tf (nur f\374r sich selbst) Tj /F1 10 Tf ( hat oder gar) Tj T* 0 Tw (nicht hat.) Tj T* ET
+BT 1 0 0 1 0 14 Tm .459984 Tw 12 TL /F3 10 Tf 0 0 0 rg (pthread_mutex_t) Tj /F1 10 Tf ( repr\344sentiert ein Objekt, das man, als Thread, entweder ) Tj /F3 10 Tf (nur f\374r sich selbst) Tj /F1 10 Tf ( hat oder gar) Tj T* 0 Tw (nicht hat.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 418.6236 cm
+1 0 0 1 62.69291 406.6236 cm
 q
-BT 1 0 0 1 0 14 Tm .295697 Tw 12 TL /F1 10 Tf 0 0 0 rg (Wenn man sich das Mutex Objekt mittels ) Tj /F3 10 Tf 0 0 0 rg (pthread_mutex_lock) Tj /F1 10 Tf 0 0 0 rg ( aneignen will, und ein anderer Thread h\344llt) Tj T* 0 Tw (gerade diese Mutex, dann wird man blockiert, bis der andere Thread die Mutex losl\344sst.) Tj T* ET
+BT 1 0 0 1 0 14 Tm .295697 Tw 12 TL /F1 10 Tf 0 0 0 rg (Wenn man sich das Mutex Objekt mittels ) Tj /F3 10 Tf (pthread_mutex_lock) Tj /F1 10 Tf ( aneignen will, und ein anderer Thread h\344llt) Tj T* 0 Tw (gerade diese Mutex, dann wird man blockiert, bis der andere Thread die Mutex losl\344sst.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 265.4236 cm
+1 0 0 1 62.69291 253.4236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -186,20 +186,20 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 232.4236 cm
+1 0 0 1 62.69291 220.4236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Bedingungsvariablen) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 214.4236 cm
+1 0 0 1 62.69291 202.4236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Bedingungvariablen dienen zum Signalisieren, dass etwas eingetroffen ist, auf das ein Thread wartet.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 160.4236 cm
+1 0 0 1 62.69291 148.4236 cm
 q
 BT 1 0 0 1 0 38 Tm .203984 Tw 12 TL /F1 10 Tf 0 0 0 rg (Das eingetroffene Ereignis hat immer etwas mit einer Resource zu tun. Damit man verifizieren kann, dass) Tj T* 0 Tw .569985 Tw (diese Resource in einen Zustand getreten ist, auf den man wartet, ) Tj /F3 10 Tf (muss) Tj /F1 10 Tf ( man alleinigen Zugriff auf diese) Tj T* 0 Tw .019983 Tw (Resource haben. Der alleinige Zugriff auf die Resource ) Tj /F3 10 Tf (muss) Tj /F1 10 Tf ( mit einer Mutex sichergestellt werden. Diese) Tj T* 0 Tw (Mutex ) Tj /F3 10 Tf (muss) Tj /F1 10 Tf ( man beim Warten auf eine Zustands\344nderung angeben.) Tj T* ET
 Q
@@ -215,10 +215,10 @@ q
 .662745 .662745 .662745 RG
 .5 w
 .960784 .960784 .862745 rg
-n -6 -6 468.6898 60 re B*
+n -6 -6 468.6898 48 re B*
 Q
 q
-BT 1 0 0 1 0 38 Tm 12 TL /F4 10 Tf 0 0 0 rg (/* Bedingungsvariable deklarieren */) Tj T* (pthread_cond_t  signal;) Tj T*  T* (/* Bedingungsvariable initialisieren */) Tj T* ET
+BT 1 0 0 1 0 26 Tm 12 TL /F4 10 Tf 0 0 0 rg (/* Bedingungsvariable deklarieren */) Tj T* (pthread_cond_t  signal;) Tj T*  T* ET
 Q
 Q
 Q
@@ -243,12 +243,12 @@ endstream
 endobj
 16 0 obj
 <<
-/Length 935
+/Length 984
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 655.8236 cm
+1 0 0 1 62.69291 643.8236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -258,17 +258,17 @@ q
 .662745 .662745 .662745 RG
 .5 w
 .960784 .960784 .862745 rg
-n -6 -6 468.6898 96 re B*
+n -6 -6 468.6898 108 re B*
 Q
 q
-BT 1 0 0 1 0 74 Tm 12 TL /F4 10 Tf 0 0 0 rg (pthread_cond_init\( ) Tj (&) Tj (signal, NULL\);) Tj T*  T* (/* Erf\374llung einer Bedingung signalisieren */) Tj T* (pthread_cond_signal\( ) Tj (&) Tj (signal \);) Tj T*  T* (/* Warten dass jemand einem die Erf\374llung einer Bedingung signalisiert */) Tj T* (pthread_cond_wait\( ) Tj (&) Tj (signal, ) Tj (&) Tj (mutex \);) Tj T* ET
+BT 1 0 0 1 0 86 Tm 12 TL /F4 10 Tf 0 0 0 rg (/* Bedingungsvariable initialisieren */) Tj T* (pthread_cond_init\( ) Tj (&) Tj (signal, NULL\);) Tj T*  T* (/* Erf\374llung einer Bedingung signalisieren */) Tj T* (pthread_cond_signal\( ) Tj (&) Tj (signal \);) Tj T*  T* (/* Warten dass jemand einem die Erf\374llung einer Bedingung signalisiert */) Tj T* (pthread_cond_wait\( ) Tj (&) Tj (signal, ) Tj (&) Tj (mutex \);) Tj T* ET
 Q
 Q
 Q
 Q
 Q
 q
-1 0 0 1 62.69291 647.8236 cm
+1 0 0 1 62.69291 635.8236 cm
 Q
 q
 1 0 0 1 56.69291 773.1969 cm
@@ -320,14 +320,14 @@ xref
 0000001669 00000 n 
 0000001789 00000 n 
 0000001855 00000 n 
-0000006241 00000 n 
-0000007227 00000 n 
-0000007277 00000 n 
-0000007311 00000 n 
+0000006182 00000 n 
+0000007217 00000 n 
+0000007267 00000 n 
+0000007301 00000 n 
 trailer
 <<
 /ID 
-[<cc28837793d825dcde5654a0ae8e5bc7><cc28837793d825dcde5654a0ae8e5bc7>]
+[<18085f2373d4657ae28ab49c73c5c960><18085f2373d4657ae28ab49c73c5c960>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 9 0 R
@@ -335,5 +335,5 @@ trailer
 /Size 20
 >>
 startxref
-7345
+7335
 %%EOF

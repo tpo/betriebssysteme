@@ -7,7 +7,8 @@ man dem Compiler das Flag `-lpthread` übergibt:
 
 ::
 
-    gcc -lpthread prog_mit_threads.c
+    gcc prog_mit_threads.c -lpthread
+    # -lpthread *muss* nach der C Datei kommen
 
 Threads
 -------
