@@ -59,7 +59,7 @@ endobj
 endobj
 10 0 obj
 <<
-/Author () /CreationDate (D:20220920162909+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20220920162909+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20230321170931+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20230321170931+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Python) /Trapped /False
 >>
 endobj
@@ -100,7 +100,7 @@ endobj
 endobj
 18 0 obj
 <<
-/Length 5075
+/Length 5074
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -158,7 +158,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.809147 Tw (So wie man die Shell als Klebstreifen f\374r's Verbinden von System-Programmen und -Dateien,) Tj T* 0 Tw 1.854147 Tw (kategorisieren kann, so kann man Python als soliden, aber im Gebrauch aufw\344ndigeren Zement) Tj T* 0 Tw (ansehen.) Tj T* ET
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 3.040814 Tw (So wie man die Shell als Klebstreifen f\374r's Verbinden von System-Programmen und -Dateien) Tj T* 0 Tw 1.854147 Tw (kategorisieren kann, so kann man Python als soliden, aber im Gebrauch aufw\344ndigeren Zement) Tj T* 0 Tw (ansehen.) Tj T* ET
 Q
 Q
 q
@@ -720,14 +720,14 @@ xref
 0000002092 00000 n 
 0000002200 00000 n 
 0000002266 00000 n 
-0000007393 00000 n 
-0000010881 00000 n 
-0000010931 00000 n 
-0000010965 00000 n 
+0000007392 00000 n 
+0000010880 00000 n 
+0000010930 00000 n 
+0000010964 00000 n 
 trailer
 <<
 /ID 
-[<349b1b5db295d58cc924cf018d96f71e><349b1b5db295d58cc924cf018d96f71e>]
+[<2005f7d0366e057a3ccdc372a8c6ce2e><2005f7d0366e057a3ccdc372a8c6ce2e>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 10 0 R
@@ -735,5 +735,5 @@ trailer
 /Size 23
 >>
 startxref
-10999
+10998
 %%EOF
