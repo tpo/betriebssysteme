@@ -4,7 +4,7 @@ Python
 * Python scheint sich als Sprache für **robuste** Scripts zu etablieren.
 
 * So wie man die Shell als Klebstreifen für's Verbinden von
-  System-Programmen und -Dateien, kategorisieren kann, so kann man
+  System-Programmen und -Dateien kategorisieren kann, so kann man
   Python als soliden, aber im Gebrauch aufwändigeren Zement ansehen.
 
 * Die Integration braucht signifikant mehr Zeit, aber das Resultat ist
