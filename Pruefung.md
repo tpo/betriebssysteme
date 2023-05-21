@@ -6,8 +6,8 @@ Prüfungsbedingungen
 * Verwendung von Unterlagen, Notizen, Vorlesungs-Skript,
   Buch in elektronischer- oder Papierform erlaubt
 
-Was kommt an der Prüfung?
--------------------------
+Was kommt an der Prüfung 2023?
+------------------------------
 
 * es wird geprüft was im Vorlesungs-Skript steht
 
@@ -29,13 +29,12 @@ Was kommt an der Prüfung?
       [02-1 Shell](https://github.com/tpo/betriebssysteme/blob/master/02-1_Shell.md),
       diese sind *identisch*!
     * [01-1 Einführung in Computersysteme](https://github.com/tpo/betriebssysteme/blob/master/01-1_Einf%C3%BChrung_in_Computersysteme.odp)
-      * Seiten 13-15
-      * Seiten 18-20
+      * Seiten 13-17
     * [01-1 Shell](https://github.com/tpo/betriebssysteme/blob/master/01-1_Shell.md)
       * alle Seiten, aber siehe weiter unten
     * [01-2 Entwicklung von Betriebssystemen](https://github.com/tpo/betriebssysteme/blob/master/01-2_Entwicklung_von_Betriebssystemen.odp)
-      * Seiten 1-12
-      * Seiten 20-41
+      * Seiten 1-8
+      * Seiten 18-37
     * [02-2 Architekturansätze](https://github.com/tpo/betriebssysteme/blob/master/02-2_Architekturans%C3%A4tze.odp)
       * Seiten 15-16
       * Seiten 28-29
@@ -84,8 +83,9 @@ Was kommt an der Prüfung?
     * [11 Speicherverwaltung Strategien](https://github.com/tpo/betriebssysteme/blob/master/11_Speicherverwaltung_Strategien.odp">11_Speicherverwaltung_Strategien.odp)
       * Seite 18
       * Seiten 22-27
-      * Seiten 38-41
-      * Seiten 43-50
+      * Seiten 32-53 (diese Seiten müssen für die Prüfung im Mai 2023 nicht gelernt werden)
+        * Seiten 38-41
+        * Seiten 43-50
     * [12 Geraete und Dateiverwaltung](https://github.com/tpo/betriebssysteme/blob/master/12_Geraete_und_Dateiverwaltung.odp">12_Geraete_und_Dateiverwaltung.odp)
       * alle Seiten mit Vorbehalt wie weit wir kommen
     * [13 Betriebssystemvirtualisierung](https://github.com/tpo/betriebssysteme/blob/master/13_Betriebssystemvirtualisierung.odp">13_Betriebssystemvirtualisierung.odp)
