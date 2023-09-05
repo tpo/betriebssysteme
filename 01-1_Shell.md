@@ -55,9 +55,14 @@ Varianten von Anzeigen
 
 Logs
 ----
-/var/log
-- syslog
-- kern
+
+* ```
+  /var/log
+          /syslog
+          /kern.log
+
+  ```
+* journalctl
 
 Was geht?
 ---------
