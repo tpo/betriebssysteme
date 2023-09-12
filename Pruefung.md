@@ -83,9 +83,8 @@ Was kommt an der Prüfung 2023?
     * [11 Speicherverwaltung Strategien](https://github.com/tpo/betriebssysteme/blob/master/11_Speicherverwaltung_Strategien.odp">11_Speicherverwaltung_Strategien.odp)
       * Seite 18
       * Seiten 22-27
-      * Seiten 32-53 (diese Seiten müssen für die Prüfung im Mai 2023 nicht gelernt werden)
-        * Seiten 38-41
-        * Seiten 43-50
+      * Seiten 38-41
+      * Seiten 43-50
     * [12 Geraete und Dateiverwaltung](https://github.com/tpo/betriebssysteme/blob/master/12_Geraete_und_Dateiverwaltung.odp">12_Geraete_und_Dateiverwaltung.odp)
       * alle Seiten mit Vorbehalt wie weit wir kommen
     * [13 Betriebssystemvirtualisierung](https://github.com/tpo/betriebssysteme/blob/master/13_Betriebssystemvirtualisierung.odp">13_Betriebssystemvirtualisierung.odp)
