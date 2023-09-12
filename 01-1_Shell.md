@@ -200,7 +200,7 @@ Filesystem Layout
 
 Skript anschauen
 ----------------
-* /etc/init.d/*
+* `/etc/init.d/*`
 
 SSH
 ---
