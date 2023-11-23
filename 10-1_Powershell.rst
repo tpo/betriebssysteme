@@ -1,3 +1,10 @@
+::
+
+   /=\/=\
+   |====|
+    \==/
+     \/
+
 Powershell
 ==========
 
@@ -5,6 +12,10 @@ Basierend auf dem "Powershell Tutorial":https://web.archive.org/web/201510300449
 von Jesse Hamrick.
 
 (Note to self: qemu: Exit VM: Ctrl-Alt-G, Exit Fullscreen: Ctrl-Alt-F)
+
+* es wird erwartet, dass man entweder in ein Powershell oder
+  ein Shell "Hello World" Script schreiben und ausführen kann
+  und an der Prüfung erklären, wie man es ausführt.
 
 Ausführungsumgebung
 ===================

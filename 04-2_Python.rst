@@ -1,3 +1,10 @@
+::
+
+   /=\/=\
+   |====|
+    \==/
+     \/
+
 Python
 ======
 
@@ -11,6 +18,10 @@ Python
   widerstandsfähiger.
 
 * viel mehr cross-platform als Shell
+
+* es wird erwartet, dass man ein "Hello World" Python Script
+  schreiben und ausführen kann und an der Prüfung erklären,
+  wie man es ausführt.
 
 hello world
 -----------

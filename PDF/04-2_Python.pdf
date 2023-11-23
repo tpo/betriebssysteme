@@ -12,24 +12,24 @@ endobj
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
 >>
 endobj
 5 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (http://docs.python.org)
->> /Border [ 0 0 0 ] /Rect [ 85.69291 183.3736 181.8629 195.3736 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 85.69291 96.17362 181.8629 108.1736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 6 0 obj
 <<
-/Annots [ 5 0 R ] /Contents 18 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 17 0 R /Resources <<
+/Annots [ 5 0 R ] /Contents 19 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 18 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -44,7 +44,7 @@ endobj
 endobj
 8 0 obj
 <<
-/Contents 19 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 17 0 R /Resources <<
+/Contents 20 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 18 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 /Trans <<
 
@@ -54,71 +54,96 @@ endobj
 endobj
 9 0 obj
 <<
-/Outlines 11 0 R /PageLabels 20 0 R /PageMode /UseNone /Pages 17 0 R /Type /Catalog
+/Outlines 11 0 R /PageLabels 21 0 R /PageMode /UseNone /Pages 18 0 R /Type /Catalog
 >>
 endobj
 10 0 obj
 <<
-/Author () /CreationDate (D:20230321170931+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20230321170931+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (Python) /Trapped /False
+/Author () /CreationDate (D:20231123170702+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20231123170702+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title () /Trapped /False
 >>
 endobj
 11 0 obj
 <<
-/Count 5 /First 12 0 R /Last 16 0 R /Type /Outlines
+/Count 7 /First 12 0 R /Last 12 0 R /Type /Outlines
 >>
 endobj
 12 0 obj
 <<
-/Dest [ 6 0 R /XYZ 62.69291 611.0236 0 ] /Next 13 0 R /Parent 11 0 R /Title (hello world)
+/Count 5 /Dest [ 6 0 R /XYZ 62.69291 679.8236 0 ] /First 13 0 R /Last 17 0 R /Parent 11 0 R /Title (Python)
 >>
 endobj
 13 0 obj
 <<
-/Dest [ 6 0 R /XYZ 62.69291 544.8236 0 ] /Next 14 0 R /Parent 11 0 R /Prev 12 0 R /Title (REPL/Shell)
+/Dest [ 6 0 R /XYZ 62.69291 514.8236 0 ] /Next 14 0 R /Parent 12 0 R /Title (hello world)
 >>
 endobj
 14 0 obj
 <<
-/Dest [ 6 0 R /XYZ 62.69291 230.6236 0 ] /Next 15 0 R /Parent 11 0 R /Prev 13 0 R /Title (Docu)
+/Dest [ 6 0 R /XYZ 62.69291 451.6236 0 ] /Next 15 0 R /Parent 12 0 R /Prev 13 0 R /Title (REPL/Shell)
 >>
 endobj
 15 0 obj
 <<
-/Dest [ 6 0 R /XYZ 62.69291 173.6236 0 ] /Next 16 0 R /Parent 11 0 R /Prev 14 0 R /Title (Syntax)
+/Dest [ 6 0 R /XYZ 62.69291 140.4236 0 ] /Next 16 0 R /Parent 12 0 R /Prev 14 0 R /Title (Docu)
 >>
 endobj
 16 0 obj
 <<
-/Dest [ 8 0 R /XYZ 62.69291 544.6236 0 ] /Parent 11 0 R /Prev 15 0 R /Title (ansible)
+/Dest [ 8 0 R /XYZ 62.69291 753.0236 0 ] /Next 17 0 R /Parent 12 0 R /Prev 15 0 R /Title (Syntax)
 >>
 endobj
 17 0 obj
 <<
-/Count 2 /Kids [ 6 0 R 8 0 R ] /Type /Pages
+/Dest [ 8 0 R /XYZ 62.69291 496.6236 0 ] /Parent 12 0 R /Prev 16 0 R /Title (ansible)
 >>
 endobj
 18 0 obj
 <<
-/Length 5074
+/Count 2 /Kids [ 6 0 R 8 0 R ] /Type /Pages
+>>
+endobj
+19 0 obj
+<<
+/Length 5310
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 729.0236 cm
+1 0 0 1 62.69291 691.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 60 re B*
+Q
 q
 0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 201.0549 0 Td (Python) Tj T* -201.0549 0 Td ET
+BT 1 0 0 1 0 38 Tm /F2 10 Tf 12 TL (/=\\/=\\) Tj T* (|====|) Tj T* ( \\==/) Tj T* (  \\/) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 658.8236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F3 17.5 Tf 0 0 0 rg (Python) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 713.0236 cm
+1 0 0 1 62.69291 646.8236 cm
 Q
 q
-1 0 0 1 62.69291 713.0236 cm
+1 0 0 1 62.69291 646.8236 cm
 Q
 q
-1 0 0 1 62.69291 701.0236 cm
+1 0 0 1 62.69291 634.8236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -132,7 +157,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Python scheint sich als Sprache f\374r ) Tj /F2 10 Tf (robuste) Tj /F1 10 Tf ( Scripts zu etablieren.) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Python scheint sich als Sprache f\374r ) Tj /F3 10 Tf (robuste) Tj /F1 10 Tf ( Scripts zu etablieren.) Tj T* ET
 Q
 Q
 q
@@ -140,10 +165,10 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 695.0236 cm
+1 0 0 1 62.69291 628.8236 cm
 Q
 q
-1 0 0 1 62.69291 659.0236 cm
+1 0 0 1 62.69291 592.8236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -166,10 +191,10 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 653.0236 cm
+1 0 0 1 62.69291 586.8236 cm
 Q
 q
-1 0 0 1 62.69291 641.0236 cm
+1 0 0 1 62.69291 574.8236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -192,10 +217,10 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 635.0236 cm
+1 0 0 1 62.69291 568.8236 cm
 Q
 q
-1 0 0 1 62.69291 623.0236 cm
+1 0 0 1 62.69291 556.8236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -218,16 +243,42 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 623.0236 cm
+1 0 0 1 62.69291 550.8236 cm
 Q
 q
-1 0 0 1 62.69291 590.0236 cm
+1 0 0 1 62.69291 526.8236 cm
 q
-BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (hello world) Tj T* ET
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 62.69291 556.8236 cm
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL -0.025015 Tw (es wird erwartet, dass man ein "Hello World" Python Script schreiben und ausf\374hren kann und an der) Tj T* 0 Tw (Pr\374fung erkl\344ren, wie man es ausf\374hrt.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 526.8236 cm
+Q
+q
+1 0 0 1 62.69291 496.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F3 15 Tf 0 0 0 rg (hello world) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 463.6236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -241,20 +292,20 @@ n -6 -6 468.6898 24 re B*
 Q
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (print\("Hello"\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (print\("Hello"\)) Tj T* ET
 Q
 Q
 Q
 Q
 Q
 q
-1 0 0 1 62.69291 523.8236 cm
+1 0 0 1 62.69291 433.6236 cm
 q
-BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (REPL/Shell) Tj T* ET
+BT 1 0 0 1 0 3 Tm 18 TL /F3 15 Tf 0 0 0 rg (REPL/Shell) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 286.6236 cm
+1 0 0 1 62.69291 196.4236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -267,20 +318,20 @@ q
 n -6 -6 468.6898 228 re B*
 Q
 q
-BT 1 0 0 1 0 206 Tm 12 TL /F3 10 Tf 0 0 0 rg ($ python3) Tj T* (...) Tj T* (>) Tj (>) Tj (>) Tj ( print\("Foo"\)) Tj T* (Foo) Tj T*  T* ($ python3) Tj T* (...) Tj T* (Python 3.7.3 \(default, Jul 25 2020, 13:03:44\)) Tj T* ([GCC 8.3.0] on linux) Tj T* (Type "help", "copyright", "credits" or "license" for more information.) Tj T* (Type help\(\) for interactive help, or help\(object\) for help about object.) Tj T* (>) Tj (>) Tj (>) Tj ( help\(\)) Tj T* (Welcome to Python 3.7's help utility!) Tj T* (...) Tj T* (help) Tj (>) Tj ( print) Tj T* (The "print" statement) Tj T* (*********************) Tj T* (...) Tj T* ET
+BT 1 0 0 1 0 206 Tm 12 TL /F2 10 Tf 0 0 0 rg ($ python3) Tj T* (...) Tj T* (>) Tj (>) Tj (>) Tj ( print\("Foo"\)) Tj T* (Foo) Tj T*  T* ($ python3) Tj T* (...) Tj T* (Python 3.7.3 \(default, Jul 25 2020, 13:03:44\)) Tj T* ([GCC 8.3.0] on linux) Tj T* (Type "help", "copyright", "credits" or "license" for more information.) Tj T* (Type help\(\) for interactive help, or help\(object\) for help about object.) Tj T* (>) Tj (>) Tj (>) Tj ( help\(\)) Tj T* (Welcome to Python 3.7's help utility!) Tj T* (...) Tj T* (help) Tj (>) Tj ( print) Tj T* (The "print" statement) Tj T* (*********************) Tj T* (...) Tj T* ET
 Q
 Q
 Q
 Q
 Q
 q
-1 0 0 1 62.69291 272.6236 cm
+1 0 0 1 62.69291 182.4236 cm
 Q
 q
-1 0 0 1 62.69291 272.6236 cm
+1 0 0 1 62.69291 182.4236 cm
 Q
 q
-1 0 0 1 62.69291 260.6236 cm
+1 0 0 1 62.69291 170.4236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -303,10 +354,10 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 254.6236 cm
+1 0 0 1 62.69291 164.4236 cm
 Q
 q
-1 0 0 1 62.69291 242.6236 cm
+1 0 0 1 62.69291 152.4236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -329,22 +380,22 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 242.6236 cm
+1 0 0 1 62.69291 152.4236 cm
 Q
 q
-1 0 0 1 62.69291 209.6236 cm
+1 0 0 1 62.69291 122.4236 cm
 q
-BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Docu) Tj T* ET
+BT 1 0 0 1 0 3 Tm 18 TL /F3 15 Tf 0 0 0 rg (Docu) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 197.6236 cm
+1 0 0 1 62.69291 110.4236 cm
 Q
 q
-1 0 0 1 62.69291 197.6236 cm
+1 0 0 1 62.69291 110.4236 cm
 Q
 q
-1 0 0 1 62.69291 185.6236 cm
+1 0 0 1 62.69291 98.42362 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -367,51 +418,13 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 185.6236 cm
-Q
-q
-1 0 0 1 62.69291 152.6236 cm
-q
-BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Syntax) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 140.6236 cm
-Q
-q
-1 0 0 1 62.69291 140.6236 cm
-Q
-q
-1 0 0 1 62.69291 122.6236 cm
-q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sehr einfach * block:) Tj T* ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-Q
-q
-Q
-Q
+1 0 0 1 62.69291 98.42362 cm
 Q
 q
 1 0 0 1 56.69291 773.1969 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 144.2399 0 Td (T.Posp\355\232ek, MAS: Betriebssysteme, Python) Tj T* -144.2399 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 161.1949 0 Td (T.Posp\355\232ek, MAS: Betriebssysteme,) Tj T* -161.1949 0 Td ET
 Q
 Q
 q
@@ -424,18 +437,46 @@ Q
  
 endstream
 endobj
-19 0 obj
+20 0 obj
 <<
-/Length 3436
+/Length 3796
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 643.8236 cm
+1 0 0 1 62.69291 735.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F3 15 Tf 0 0 0 rg (Syntax) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 723.0236 cm
+Q
+q
+1 0 0 1 62.69291 723.0236 cm
+Q
+q
+1 0 0 1 62.69291 595.8236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 6 96.2 Tm  T* ET
+q
+1 0 0 1 6 112.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 112.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sehr einfach * block:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 106.2 cm
+Q
 q
 1 0 0 1 23 -3 cm
 q
@@ -453,10 +494,10 @@ q
 .662745 .662745 .662745 RG
 .5 w
 .960784 .960784 .862745 rg
-n -6 -6 416.6898 108 re B*
+n -6 -6 425.6898 108 re B*
 Q
 q
-BT 1 0 0 1 0 86 Tm 12 TL /F3 10 Tf 0 0 0 rg (if 2) Tj (>) Tj (1:) Tj T* (  print\("Wer h\344tte das gedacht!"\)) Tj T*  T* (def do_stuff\( param1, param2 \):) Tj T* (   print\(param1\)) Tj T* (   return 42) Tj T*  T* (do_stuff\( "a", "b" \)) Tj T* ET
+BT 1 0 0 1 0 86 Tm 12 TL /F2 10 Tf 0 0 0 rg (if 2) Tj (>) Tj (1:) Tj T* (  print\("Wer h\344tte das gedacht!"\)) Tj T*  T* (def do_stuff\( param1, param2 \):) Tj T* (   print\(param1\)) Tj T* (   return 42) Tj T*  T* (do_stuff\( "a", "b" \)) Tj T* ET
 Q
 Q
 Q
@@ -474,10 +515,10 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 637.8236 cm
+1 0 0 1 62.69291 589.8236 cm
 Q
 q
-1 0 0 1 62.69291 625.8236 cm
+1 0 0 1 62.69291 577.8236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -500,10 +541,10 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 619.8236 cm
+1 0 0 1 62.69291 571.8236 cm
 Q
 q
-1 0 0 1 62.69291 607.8236 cm
+1 0 0 1 62.69291 559.8236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -526,10 +567,10 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 601.8236 cm
+1 0 0 1 62.69291 553.8236 cm
 Q
 q
-1 0 0 1 62.69291 556.6236 cm
+1 0 0 1 62.69291 508.6236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -562,7 +603,7 @@ n -6 -6 445.6898 24 re B*
 Q
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (import os) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (import os) Tj T* ET
 Q
 Q
 Q
@@ -573,22 +614,22 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 556.6236 cm
+1 0 0 1 62.69291 508.6236 cm
 Q
 q
-1 0 0 1 62.69291 523.6236 cm
+1 0 0 1 62.69291 478.6236 cm
 q
-BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (ansible) Tj T* ET
+BT 1 0 0 1 0 3 Tm 18 TL /F3 15 Tf 0 0 0 rg (ansible) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 511.6236 cm
+1 0 0 1 62.69291 466.6236 cm
 Q
 q
-1 0 0 1 62.69291 511.6236 cm
+1 0 0 1 62.69291 466.6236 cm
 Q
 q
-1 0 0 1 62.69291 499.6236 cm
+1 0 0 1 62.69291 454.6236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -611,10 +652,10 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 493.6236 cm
+1 0 0 1 62.69291 448.6236 cm
 Q
 q
-1 0 0 1 62.69291 481.6236 cm
+1 0 0 1 62.69291 436.6236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -637,10 +678,10 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 475.6236 cm
+1 0 0 1 62.69291 430.6236 cm
 Q
 q
-1 0 0 1 62.69291 463.6236 cm
+1 0 0 1 62.69291 418.6236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -662,16 +703,16 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 463.6236 cm
+1 0 0 1 62.69291 418.6236 cm
 Q
 q
-1 0 0 1 62.69291 463.6236 cm
+1 0 0 1 62.69291 418.6236 cm
 Q
 q
 1 0 0 1 56.69291 773.1969 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 144.2399 0 Td (T.Posp\355\232ek, MAS: Betriebssysteme, Python) Tj T* -144.2399 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 161.1949 0 Td (T.Posp\355\232ek, MAS: Betriebssysteme,) Tj T* -161.1949 0 Td ET
 Q
 Q
 q
@@ -684,56 +725,57 @@ Q
  
 endstream
 endobj
-20 0 obj
+21 0 obj
 <<
-/Nums [ 0 21 0 R 1 22 0 R ]
+/Nums [ 0 22 0 R 1 23 0 R ]
 >>
 endobj
-21 0 obj
+22 0 obj
 <<
 /S /D /St 1
 >>
 endobj
-22 0 obj
+23 0 obj
 <<
 /S /D /St 2
 >>
 endobj
 xref
-0 23
+0 24
 0000000000 65535 f 
 0000000073 00000 n 
 0000000134 00000 n 
 0000000241 00000 n 
-0000000353 00000 n 
+0000000346 00000 n 
 0000000458 00000 n 
 0000000632 00000 n 
 0000000855 00000 n 
 0000000970 00000 n 
 0000001175 00000 n 
 0000001280 00000 n 
-0000001544 00000 n 
-0000001618 00000 n 
-0000001730 00000 n 
+0000001538 00000 n 
+0000001612 00000 n 
+0000001742 00000 n 
 0000001854 00000 n 
-0000001972 00000 n 
-0000002092 00000 n 
-0000002200 00000 n 
-0000002266 00000 n 
-0000007392 00000 n 
-0000010880 00000 n 
-0000010930 00000 n 
-0000010964 00000 n 
+0000001978 00000 n 
+0000002096 00000 n 
+0000002216 00000 n 
+0000002324 00000 n 
+0000002390 00000 n 
+0000007752 00000 n 
+0000011600 00000 n 
+0000011650 00000 n 
+0000011684 00000 n 
 trailer
 <<
 /ID 
-[<2005f7d0366e057a3ccdc372a8c6ce2e><2005f7d0366e057a3ccdc372a8c6ce2e>]
+[<a4ba044beb82d316c81627a551351520><a4ba044beb82d316c81627a551351520>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 10 0 R
 /Root 9 0 R
-/Size 23
+/Size 24
 >>
 startxref
-10998
+11718
 %%EOF
