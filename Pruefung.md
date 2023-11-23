@@ -29,11 +29,12 @@ Was kommt an der Prüfung 2023?
       [02-1 Shell](https://github.com/tpo/betriebssysteme/blob/master/02-1_Shell.md),
       diese sind *identisch*!
     * [01-1 Einführung in Computersysteme](https://github.com/tpo/betriebssysteme/blob/master/01-1_Einf%C3%BChrung_in_Computersysteme.odp)
-      * Seiten 13-17
+      * Seiten 13-15
+      * Seiten 18
     * [01-1 Shell](https://github.com/tpo/betriebssysteme/blob/master/01-1_Shell.md)
       * alle Seiten, aber siehe weiter unten
     * [01-2 Entwicklung von Betriebssystemen](https://github.com/tpo/betriebssysteme/blob/master/01-2_Entwicklung_von_Betriebssystemen.odp)
-      * Seiten 1-8
+      * Seiten 1-7
       * Seiten 18-37
     * [02-2 Architekturansätze](https://github.com/tpo/betriebssysteme/blob/master/02-2_Architekturans%C3%A4tze.odp)
       * Seiten 15-16
@@ -50,21 +51,23 @@ Was kommt an der Prüfung 2023?
       * Seite 39
     * [04-4 git](https://github.com/tpo/betriebssysteme/blob/master/04-4_git.rst)
       * alle Seiten
-    * [05-1 C kurz](https://github.com/tpo/betriebssysteme/blob/master/05-1_C_kurz.odp)
+    * [05-1 C mittel](https://github.com/tpo/betriebssysteme/blob/master/05-1_C_mittel.odp)
       * alle Seiten
     * [05-2 Prozesse und Threads](https://github.com/tpo/betriebssysteme/blob/master/05-2_Prozesse_und_Threads.odp)
       * Seiten 21-22
       * Seite 41
     * [05-3 CPU Scheduling Grundkonzepte](https://github.com/tpo/betriebssysteme/blob/master/05-3_CPU_Scheduling_Grundkonzepte.odp)
-      * Seiten 21-33
+      * Seiten 21-31
     * [06-1 Kernel](https://github.com/tpo/betriebssysteme/blob/master/06-1_Kernel.md">06-1_Kernel.md)
       * alle Seiten
     * [06 CPU Scheduling Fallbeispiele](https://github.com/tpo/betriebssysteme/blob/master/06_CPU_Scheduling_Fallbeispiele.odp">06_CPU_Scheduling_Fallbeispiele.odp)
-      * Seiten 1-20
-      * Seiten 22-28
+      * Seiten 1-7
+      * Seiten 10-20
+      * Seite  22
+      * Seiten 24-28
     * [07 Koordination und Synchronisation Sperren und Semaphore](https://github.com/tpo/betriebssysteme/blob/master/07_Koordination_und_Synchronisation_Sperren_und_Semaphore.odp">07_Koordination_und_Synchronisation_Sperren_und_Semaphore.odp)
-      * Seite 19
-      * Seiten 24-25
+      * Seiten 19-20
+      * Seiten 24
     * [08 Koordination und Synchronisation Monitore](https://github.com/tpo/betriebssysteme/blob/master/08_Koordination_und_Synchronisation_Monitore.odp">08_Koordination_und_Synchronisation_Monitore.odp)
       * Seiten 29-31 müssen verstanden werden, aber nicht wiedergeben werden können
       * Seiten 34-36
@@ -84,7 +87,7 @@ Was kommt an der Prüfung 2023?
       * Seite 18
       * Seiten 22-27
       * Seiten 38-41
-      * Seiten 43-50
+      * Seiten 43-51
     * [12 Geraete und Dateiverwaltung](https://github.com/tpo/betriebssysteme/blob/master/12_Geraete_und_Dateiverwaltung.odp">12_Geraete_und_Dateiverwaltung.odp)
       * alle Seiten mit Vorbehalt wie weit wir kommen
     * [13 Betriebssystemvirtualisierung](https://github.com/tpo/betriebssysteme/blob/master/13_Betriebssystemvirtualisierung.odp">13_Betriebssystemvirtualisierung.odp)
