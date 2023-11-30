@@ -1,7 +1,24 @@
+```
+/=\/=\
+|====|
+ \==/
+  \/
+```
 Arbeiten in der Shell (Bash)
 ============================
 
 Warum? https://xkcd.com/1205/
+
+Diese Folien sind **nicht** Prüfungsrelevant, aber:
+
+Es wird erwartet, dass man ein "Hello World" Unix
+Shell Script oder ein Powershell Script schreiben
+und ausführen kann und an der Prüfung erklären,
+wie man es ausführt.
+
+Man sollte diese Übung unbedingt vor der Prüfung
+machen, sonst kriegt man's erfahrungsgemäss bei
+der Prüfung nicht hin.
 
 verschiedene Shells
 -------------------
