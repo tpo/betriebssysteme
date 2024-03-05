@@ -160,8 +160,8 @@ Umleiten
 
 Iterieren
 ---------
-* ls | while read x; do irgend "$x"; was; done # Achtung...
-* for i in 1 2 3; do was $i; anderes $i; done
+* ls | while read x; do echo "ich sehe Datei $x"; done # Achtung...
+* for i in 1 2 3; do echo "Nummer $i"; done
 
 Variablen
 ---------
