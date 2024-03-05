@@ -194,6 +194,10 @@ Editoren
   - :w
   - :q!
 
+![escape from vim](Bilder/exit-vim.jpg)
+
+\newpage
+
 Hashbang
 --------
 * #!
