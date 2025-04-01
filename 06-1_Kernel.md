@@ -78,7 +78,7 @@ Die Umgebung in welcher ein Kernel gebaut wird braucht ca:
 
         sudo make bindeb-pkg
 
-    * dauert lange
+    * dauert lange (28min in einer VirtualBox mit 384M RAM und einer CPU)
 
   * rpm
 
