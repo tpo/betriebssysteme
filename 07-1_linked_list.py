@@ -1,5 +1,15 @@
 #!/usr/bin/python3
 
+# sauberere Implementation?
+
+#     from __future__ import annotations # erlaubt Selbstreferenz ("Node")
+#     from dataclasses import dataclass
+#     
+#     @dataclass
+#     class Node:
+#         next:    Node
+#         content: str
+
 class Node:
     def __init__( self, next_node, content_):
         self.next = next_node
