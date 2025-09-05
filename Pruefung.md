@@ -6,8 +6,8 @@ Prüfungsbedingungen
 * Verwendung von Unterlagen, Notizen, Vorlesungs-Skript,
   Buch in elektronischer- oder Papierform erlaubt
 
-Was kommt an der Prüfung 2025?
-------------------------------
+Was kommt an der Prüfung?
+-------------------------
 
 * es wird geprüft was im Vorlesungs-Skript steht
 
