@@ -62,7 +62,7 @@ Die Umgebung in welcher ein Kernel gebaut wird braucht ca:
     Diese kann man nach `linux-6.8.2/.config` kopieren (und wenn der Kernel
     gebaut wird bei Fragen alles mit Return bestätigen).
 
-* vim +421 arch/x86/boot/compressed/misc.c
+* vim +489 arch/x86/boot/compressed/misc.c
 
   * folgende Zeile finden:
 
