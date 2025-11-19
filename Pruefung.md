@@ -37,12 +37,12 @@ Was kommt an der Prüfung?
   
   * dito für ein Python "Hello World" Script
   
-  * es kommt ein kurzes (ca. 20 Zeilen) C Programm,
+  * es kommt ein kurzes (ca. 20 Zeilen) Python Programm,
     bei welchem man erklären können muss, was es
     machen sollte, warum es nicht das macht, was
     es machen sollte und wie man das Problem beheben
     kann. Die Erklärungen erfolgen in Worten und
-    nicht in Code. Beim C Program wird's um ein
+    nicht in Code. Beim Program wird's um ein
     Thread Synchronisation-Problem gehen.
 
 Fragen zur Prüfung
