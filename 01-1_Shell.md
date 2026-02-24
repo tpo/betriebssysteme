@@ -20,6 +20,9 @@ Man sollte diese Übung unbedingt vor der Prüfung
 machen, sonst kriegt man's erfahrungsgemäss bei
 der Prüfung nicht hin.
 
+Zum während dem Unterricht das was jetzt kommt
+selbst nachzuvollziehen: [Linux im Browser](https://bellard.org/jslinux/)
+
 verschiedene Shells
 -------------------
 * bash
