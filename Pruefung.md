@@ -9,6 +9,13 @@ Prüfungsbedingungen
 Was kommt an der Prüfung?
 -------------------------
 
+* gibt es eine Prüdungsvorlage?
+  * Nein, aber: gehen Sie auf https://duck.ai und geben Sie ein:
+    "erstelle mir geeignete Prüfungsfragen für die Dokumente
+    unter https://github.com/tpo/betriebssysteme/tree/master/PDF"
+    * diese Anweisung erstellt eine Reihe von sehr guten Fragen,
+      welche u.U. genau so an der Prüfung kommen könnten
+
 * es wird geprüft was im Vorlesungs-Skript steht
 
 * das Buch von Peter Mandl dient nur als Hilfe, wenn
