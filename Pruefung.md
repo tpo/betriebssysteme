@@ -6,15 +6,27 @@ Prüfungsbedingungen
 * Verwendung von Unterlagen, Notizen, Vorlesungs-Skript,
   Buch in elektronischer- oder Papierform erlaubt
 
+Ich weiss nicht was ich lernen soll
+-----------------------------------
+
+Im Buch von Mandl hat es nach jedem Kapitel Übungsaufgaben.
+Beantworten Sie diese. Wenn Sie zuversichtlich sind, dass
+Ihre Antworten gut sind, dann werden Sie sehr wahrscheinlich
+auch kein Problem haben die Prüfung zu bestehen.
+
+Gibt es eine Prüdungsvorlage?
+-----------------------------
+
+Nein, aber: gehen Sie auf https://duck.ai und geben Sie ein:
+
+> "erstelle mir geeignete Prüfungsfragen für die Dokumente
+> unter https://github.com/tpo/betriebssysteme/tree/master/PDF"
+
+Diese Anweisung erstellt eine Reihe von sehr guten Fragen,
+welche u.U. genau so an der Prüfung kommen könnten.
+
 Was kommt an der Prüfung?
 -------------------------
-
-* gibt es eine Prüdungsvorlage?
-  * Nein, aber: gehen Sie auf https://duck.ai und geben Sie ein:
-    "erstelle mir geeignete Prüfungsfragen für die Dokumente
-    unter https://github.com/tpo/betriebssysteme/tree/master/PDF"
-    * diese Anweisung erstellt eine Reihe von sehr guten Fragen,
-      welche u.U. genau so an der Prüfung kommen könnten
 
 * es wird geprüft was im Vorlesungs-Skript steht
 
