@@ -14,7 +14,7 @@ Beantworten Sie diese. Wenn Sie zuversichtlich sind, dass
 Ihre Antworten gut sind, dann werden Sie sehr wahrscheinlich
 auch kein Problem haben die Prüfung zu bestehen.
 
-Gibt es eine Prüdungsvorlage?
+Gibt es eine Prüfungsvorlage?
 -----------------------------
 
 Nein, aber: gehen Sie auf https://duck.ai und geben Sie ein:
